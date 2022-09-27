@@ -1,0 +1,17 @@
+body{
+	background-color: gray;
+	font-family: arial;
+}
+
+.wrapper{
+
+}
+
+.heading{
+ font-family: 'Nabla', cursive;
+ font-size: 50px;
+}
+
+.content{
+	font-family: courier;
+}
