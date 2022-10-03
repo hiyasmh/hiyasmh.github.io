@@ -1,0 +1,109 @@
+body{
+	background-color: whitesmoke;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+	font-size: 30px;
+	padding: 100px 100px 100px 100px;
+
+}
+
+p{
+	text-align: center;
+	max-width: 1200px;
+}
+
+.paintbrush {
+	cursor: url(../entry4/imgs/201.png),default;
+}
+
+.A:hover{
+	color: teal;
+}
+
+.B:hover{
+	color: gray;
+}
+
+.C:hover{
+	color: yellow;
+}
+
+.D:hover{
+	color: seagreen;
+}
+
+.E:hover{
+	color: orange;
+}
+
+.F:hover{
+	color: lightgoldenrodyellow ;
+}
+
+.G:hover{
+	color: indigo;
+}
+
+.H:hover{
+	color: darkred;
+}
+
+.I:hover{
+	color: green;
+}
+
+.K:hover{
+	color: coral;
+}
+
+.L:hover{
+	color: indianred;
+}
+
+.M:hover{
+	color: magenta;
+}
+
+.N:hover{
+	color: skyblue;
+}
+
+.O:hover{
+	color:cyan ;
+}
+
+.P:hover{
+	color: fuchsia;
+}
+
+.R:hover{
+	color: aquamarine;
+}
+
+.S:hover{
+	color: burlywood;
+}
+
+.T:hover{
+	color: olive;
+}
+
+.U:hover{
+	color: brown;
+}
+
+.V:hover{
+	color: ivory;
+}
+
+.W:hover{
+	color: greenyellow;
+}
+
+.Y:hover{
+	color: blueviolet;
+}
+
+
+
+
