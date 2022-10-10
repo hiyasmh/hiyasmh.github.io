@@ -1,0 +1,85 @@
+body
+{
+	background-color: gray;
+	margin: 0;
+	padding: 0;
+
+}
+
+h1{
+	font-family: 'Nunito Sans', sans-serif;
+	text-align: center;
+}
+
+@media (max-width: 1200px) {
+  body{
+    background-color: #cd6060;
+  }
+}
+
+@media (max-width: 900px) {
+  body{
+    background-color: #b7aaff6b;
+  }
+}
+
+@media (max-width: 700px) {
+  body{
+    background-color: #41d0536b;
+  }
+}
+
+@media (max-width: 650px) {
+  body{
+    background-color: #cd6060;
+  }
+}
+
+@media (max-width: 350px) {
+  body{
+    background-color: #b7aaff6b;
+  }
+}
+
+.box{
+	max-width: 1200px;
+	justify-content: center;
+	margin: auto;
+	padding: 10px;
+	top: 20px;
+}
+
+input[type="checkbox"]
+{
+	position: relative;
+	width: 20px;
+	height: 10px;
+	-webkit-appearance: none;
+	background: red;
+	border-radius: 10px;
+	transition: .5s;
+}
+
+input:checked[type="checkbox"]
+{
+	background: greenyellow;
+}
+
+input[type="checkbox"]:before
+{
+	position: absolute;
+	content:'';
+	width: 10px;
+	height: 10px;
+	border-radius: 20px;
+	background: white;
+	top: 0;
+	left: 0;
+	transform: scale(1.05);
+	transition: .5s;
+}
+
+input:checked[type="checkbox"]:before
+{
+	left: 20px
+}
