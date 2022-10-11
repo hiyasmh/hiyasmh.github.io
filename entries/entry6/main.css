@@ -1,0 +1,18 @@
+body{
+	background-color: pink;
+	cursor: none;
+}
+
+.square {
+  width: 5px;
+  height: 5px;
+  background: red;
+}
+
+.square:hover {
+	background: white;
+}
+
+.row{
+	display: flex;
+}
