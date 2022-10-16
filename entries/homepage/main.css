@@ -1,0 +1,116 @@
+body{
+	background-color: yellowgreen;
+}
+
+h1{
+	font-family: 'Russo One', sans-serif;
+	text-align: center;
+	font-size: 150px;
+	padding: 0px;
+}
+
+.define{
+	font-family: 'Special Elite', cursive;
+	text-align: center;
+}
+
+.right{
+	cursor: url(../homepage/imgs/righteyes.png), default;
+}
+
+.left{
+	cursor: url(../homepage/imgs/lefteyes.png), default;
+}
+
+.F:hover{
+	color: lightgoldenrodyellow ;
+}
+
+.A:hover{
+	color: teal;
+}
+
+.M:hover{
+	color: magenta;
+}
+
+.I:hover{
+	color: green;
+}
+
+.L:hover{
+	color: indianred;
+}
+
+.R:hover{
+	color: aquamarine;
+}
+
+.T:hover{
+	color: olive;
+}
+
+.Y:hover{
+	color: blueviolet;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.square{
+	height: 120px;
+	width: 120px;
+	background-color: lightyellow;
+	border-radius: 10px;
+	padding: 10px;
+	font-family: 'Russo One', sans-serif;
+	font-size: 40px;
+}
+
+.square:hover{
+	height: 240px;
+	width: 240px;
+	border-color: black;
+	border-style: solid;
+	border-radius: 10px;
+	background-color: #c193d7;
+	padding: 10px;
+	font-family: 'Russo One', sans-serif;
+	font-size: 40px;
+}
+
+.one:hover{
+	background-image: url(../homepage/imgs/1.jpg);
+	background-size: contain;
+}
+
+.two:hover{
+	background-image: url(../homepage/imgs/2.jpg);
+	background-size: contain;
+}
+
+.three:hover{
+	background-image: url(../homepage/imgs/3.jpg);
+	background-size: contain;
+}
+
+.four:hover{
+	background-image: url(../homepage/imgs/4.jpg);
+}
+
+.five:hover{
+	background-image: url(../homepage/imgs/5.jpg);
+	background-size: contain;
+}
+
+
+.grid{
+	display: flex;
+	padding: 20px;
+	align-content: center;
+	justify-content: center;
+}
+
+

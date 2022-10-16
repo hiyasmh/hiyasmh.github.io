@@ -7,8 +7,17 @@ body
 }
 
 h1{
-	font-family: 'Nunito Sans', sans-serif;
+	font-family: 'Russo One', sans-serif;
 	text-align: center;
+	font-size: 80px;
+}
+
+.lefteyes{
+	cursor: url(../entry4/imgs/lefteyes.png),default;
+}
+
+.righteyes{
+	cursor: url(../entry4/imgs/righteyes.png),default;
 }
 
 @media (max-width: 1200px) {
@@ -55,14 +64,14 @@ input[type="checkbox"]
 	width: 20px;
 	height: 10px;
 	-webkit-appearance: none;
-	background: red;
+	background: #f5c621;
 	border-radius: 10px;
 	transition: .5s;
 }
 
 input:checked[type="checkbox"]
 {
-	background: greenyellow;
+	background: #15ffef;
 }
 
 input[type="checkbox"]:before
@@ -82,4 +91,47 @@ input[type="checkbox"]:before
 input:checked[type="checkbox"]:before
 {
 	left: 20px
+}
+
+
+
+
+.D:hover{
+	color: seagreen;
+}
+
+.R:hover{
+	color: aquamarine;
+}
+
+.A:hover{
+	color: teal;
+}
+
+.W:hover{
+	color: greenyellow;
+}
+
+.I:hover{
+	color: green;
+}
+
+.N:hover{
+	color: skyblue;
+}
+
+.G:hover{
+	color: indigo;
+}
+
+.Y:hover{
+	color: blueviolet;
+}
+
+.O:hover{
+	color:cyan ;
+}
+
+.U:hover{
+	color: brown;
 }

@@ -1,18 +1,50 @@
 body{
-	background-color: pink;
-	cursor: none;
+	background-color: #c193d7;
+	font-family: 'Russo One', sans-serif;
+	font-size: 170px;
+	text-align: center;
 }
 
-.square {
-  width: 5px;
-  height: 5px;
-  background: red;
+.S:hover{
+	color: burlywood;
 }
 
-.square:hover {
-	background: white;
+.T:hover{
+	color: olive;
 }
 
-.row{
-	display: flex;
+.Y:hover{
+	color: blueviolet;
+}
+
+.T:hover{
+	color: olive;
+}
+
+.U:hover{
+	color: brown;
+}
+
+.N:hover{
+	color: skyblue;
+}
+
+.D:hover{
+	color: seagreen;
+}
+
+.A:hover{
+	color: teal;
+}
+
+.E:hover{
+	color: orange;
+}
+
+.lefteyes {
+	cursor: url(../entry6/imgs/lefteyes.png),default;
+}
+
+.righteyes {
+	cursor: url(../entry6/imgs/righteyes.png),default;
 }
