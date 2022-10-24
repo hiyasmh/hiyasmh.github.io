@@ -105,6 +105,10 @@ a{
 	background-size: contain;
 }
 
+.six:hover{
+	background-image: url(../homepage/imgs/6.jpg);
+	background-size: contain;
+}
 
 .grid{
 	display: flex;
