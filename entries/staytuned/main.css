@@ -1,0 +1,50 @@
+body{
+	background-color: #c193d7;
+	font-family: 'Russo One', sans-serif;
+	font-size: 170px;
+	text-align: center;
+}
+
+.S:hover{
+	color: burlywood;
+}
+
+.T:hover{
+	color: olive;
+}
+
+.Y:hover{
+	color: blueviolet;
+}
+
+.T:hover{
+	color: olive;
+}
+
+.U:hover{
+	color: brown;
+}
+
+.N:hover{
+	color: skyblue;
+}
+
+.D:hover{
+	color: seagreen;
+}
+
+.A:hover{
+	color: teal;
+}
+
+.E:hover{
+	color: orange;
+}
+
+.lefteyes {
+	cursor: url(../entry6/imgs/lefteyes.png),default;
+}
+
+.righteyes {
+	cursor: url(../entry6/imgs/righteyes.png),default;
+}

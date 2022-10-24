@@ -1,50 +1,215 @@
 body{
-	background-color: #c193d7;
+	background-color: black;
+}
+
+h1{
 	font-family: 'Russo One', sans-serif;
-	font-size: 170px;
+	color: white;
 	text-align: center;
+	font-size: 150px;
+	padding: 0px;
+	cursor: url(../entry5/imgs/lefteyes.png),default;
+
 }
 
-.S:hover{
-	color: burlywood;
+.img1{
+	background-image: url(../entry6/imgs/11.png);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
 }
 
-.T:hover{
-	color: olive;
+.img1:hover{
+	background-image: url(../entry6/imgs/1.jpg);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
 }
 
-.Y:hover{
-	color: blueviolet;
+.img2{
+	background-image: url(../entry6/imgs/22.png);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
 }
 
-.T:hover{
-	color: olive;
+.img2:hover{
+	background-image: url(../entry6/imgs/2.jpg);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
 }
 
-.U:hover{
-	color: brown;
+.img3{
+	background-image: url(../entry6/imgs/33.png);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
 }
 
-.N:hover{
-	color: skyblue;
+.img3:hover{
+	background-image: url(../entry6/imgs/3.jpg);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
 }
 
-.D:hover{
-	color: seagreen;
+.img4{
+		background-image: url(../entry6/imgs/44.png);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
 }
 
-.A:hover{
-	color: teal;
+.img4:hover{
+	background-image: url(../entry6/imgs/4.jpg);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.img5{
+	background-image: url(../entry6/imgs/55.png);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.img5:hover{
+	background-image: url(../entry6/imgs/5.jpg);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.img6{
+	background-image: url(../entry6/imgs/66.png);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.img6:hover{
+	background-image: url(../entry6/imgs/6.jpg);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.img7{
+	background-image: url(../entry6/imgs/77.png);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.img7:hover{
+	background-image: url(../entry6/imgs/7.jpg);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.img8{
+		background-image: url(../entry6/imgs/88.png);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.img8:hover{
+	background-image: url(../entry6/imgs/8.jpg);
+  justify-content: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	width: 600px;
+	height: 400px;
+}
+
+.part{
+	display: flex;
+}
+
+.C:hover{
+	color: yellow;
+}
+
+.R:hover{
+	color: aquamarine;
 }
 
 .E:hover{
 	color: orange;
 }
 
-.lefteyes {
-	cursor: url(../entry6/imgs/lefteyes.png),default;
+.A:hover{
+	color: teal;
 }
 
-.righteyes {
-	cursor: url(../entry6/imgs/righteyes.png),default;
+.S:hover{
+	color: burlywood;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
