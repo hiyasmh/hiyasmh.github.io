@@ -13,7 +13,7 @@ h1{
 }
 
 .img1{
-	background-image: url(/entry6/imgs/11.png);
+	background-image: url(../entry6/imgs/11.png);
   justify-content: center;
   background-position: center;
   background-repeat: no-repeat;
@@ -23,7 +23,7 @@ h1{
 }
 
 .img1:hover{
-	background-image: url(/entry6/imgs/1.jpg);
+	background-image: url(../entry6/imgs/1.jpg);
   justify-content: center;
   background-position: center;
   background-repeat: no-repeat;
