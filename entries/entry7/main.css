@@ -10,18 +10,24 @@ body{
 @media (max-width: 750px) {
   #Layer_2{
 	height: 300px;}
+	body{
+	background-color: blue;}
 }
 
 /* Desktop breakpoint */
 @media (min-width: 992px) {
   #Layer_2{
 	height: 500px;}
+	body{
+	background-color: yellowgreen;}
 }
 
 /* Wide screen breakpoint */
 @media (min-width: 1200px) {
   #Layer_2{
 	height: 800px;}
+	body{
+	background-color: black;}
 }
 
 div{
