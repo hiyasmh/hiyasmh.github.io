@@ -1,0 +1,95 @@
+body{
+	background-color: black;
+}
+
+/* Tablet breakpoint */
+@media (min-width: 750px) {
+  #Layer_2{
+	height: 300px;}
+}
+@media (max-width: 750px) {
+  #Layer_2{
+	height: 300px;}
+}
+
+/* Desktop breakpoint */
+@media (min-width: 992px) {
+  #Layer_2{
+	height: 500px;}
+}
+
+/* Wide screen breakpoint */
+@media (min-width: 1200px) {
+  #Layer_2{
+	height: 800px;}
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.cls-1{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out infinite;
+}
+.cls-2{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.1s infinite;
+}
+.cls-3{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.2s infinite;
+}
+.cls-4{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.3s infinite;
+}
+.cls-5{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.4s infinite;
+}
+.cls-6{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.5s infinite;
+}
+.cls-7{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.6s infinite;
+}
+.cls-8{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.7s infinite;
+}
+.cls-9{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.8s infinite;
+}
+.cls-10{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 0.9s infinite;
+}
+.cls-11{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 1s infinite;
+}
+.cls-12{
+	fill: ghostwhite;
+	animation: Blink 1.1s ease-in-out 1.1s infinite;
+}
+
+@keyframes Blink {
+	0%{
+		opacity: 0%;
+	}
+	50%{
+		opacity: 100%;
+	}
+	100%{
+		opacity: 0%;
+	}
+}

@@ -110,6 +110,11 @@ a{
 	background-size: contain;
 }
 
+.seven:hover{
+	background-image: url(../homepage/imgs/7.jpg);
+	background-size: contain;
+}
+
 .grid{
 	display: flex;
 	padding: 20px;
