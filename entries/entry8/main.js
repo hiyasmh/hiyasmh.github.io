@@ -1,0 +1,1 @@
+alert("Scroll to see a starry night");

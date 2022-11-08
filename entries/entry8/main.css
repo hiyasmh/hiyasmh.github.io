@@ -1,0 +1,173 @@
+body{
+	background-color: palevioletred;
+}
+
+div {
+  width: 50px;
+  height: 300px;
+  border-radius: 50px;
+  display: inline-flex;
+}
+
+section{
+	display: flex;
+}
+
+.sticky1{
+	position: sticky;
+	top: 0px;
+}
+
+.sticky2{
+	position: sticky;
+	top: 15px;
+}
+
+.sticky3{
+	position: sticky;
+	top: 30px;
+}
+
+.sticky4{
+	position: sticky;
+	top: 45px;
+}
+
+.sticky5{
+	position: sticky;
+	top: 60px;
+}
+
+.sticky6{
+	position: sticky;
+	top: 75px;
+}
+
+.sticky7{
+	position: sticky;
+	top: 90px;
+}
+
+.sticky8{
+	position: sticky;
+	top: 105px;
+}
+
+.sticky9{
+	position: sticky;
+	top: 120px;
+}
+
+.sticky10{
+	position: sticky;
+	top: 135px;
+}
+
+.sticky11{
+	position: sticky;
+	top: 150px;
+}
+
+.sticky12{
+	position: sticky;
+	top: 165px;
+}
+
+.sticky13{
+	position: sticky;
+	top: 180px;
+}
+
+.sticky14{
+	position: sticky;
+	top: 195px;
+}
+
+.sticky15{
+	position: sticky;
+	top: 210px;
+}
+
+.sticky16{
+	position: sticky;
+	top: 225px;
+}
+
+.sticky17{
+	position: sticky;
+	top: 240px;
+}
+
+.sticky18{
+	position: sticky;
+	top: 255px;
+}
+
+.sticky19{
+	position: sticky;
+	top: 270px;
+}
+
+.sticky20{
+	position: sticky;
+	top: 285px;
+}
+
+.sticky21{
+	position: sticky;
+	top: 300px;
+}
+
+.sticky22{
+	position: sticky;
+	top: 315px;
+}
+
+.sticky23{
+	position: sticky;
+	top: 330px;
+}
+
+.pink{
+	background-color: pink;
+}
+
+.blue{
+	background-color: #265DA6;
+}
+
+.gray{
+	background-color: gray;
+}
+
+.white{
+	background-color: white;
+}
+
+.black{
+	background-color: black;
+}
+
+.green{
+	background-color: green;
+}
+
+.red{
+	background-color: red;
+}
+
+.mblue{
+	background-color: #296CA6;
+}
+
+.lblue{
+	background-color: #43AED9;
+}
+
+.yellow{
+	background-color: #F2DF80;
+}
+
+.orange{
+	background-color: #F2A413;
+}
