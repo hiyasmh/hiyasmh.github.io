@@ -115,6 +115,11 @@ a{
 	background-size: contain;
 }
 
+.eight:hover{
+	background-image: url(../homepage/imgs/8.jpg);
+	background-size: contain;
+}
+
 .grid{
 	display: flex;
 	padding: 20px;
