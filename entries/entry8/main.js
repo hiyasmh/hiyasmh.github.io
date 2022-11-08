@@ -1,1 +1,1 @@
-alert("Scroll to see a starry night");
+alert("Scroll to guess the painting");
