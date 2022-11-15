@@ -1,0 +1,111 @@
+body{
+	background-color: white;
+}
+
+h1{
+	font-family: 'Russo One', sans-serif;
+	font-size: 50px;
+	text-align: center;
+	padding: 0px;
+}
+
+.container{
+	text-align: center;
+	padding: 0px;
+	align-content: center;
+	justify-content: center;
+}
+
+.right{
+	cursor: url(imgs/righteyes.png), default;
+}
+
+.left{
+	cursor: url(imgs/lefteyes.png), default;
+}
+
+.row{
+	margin-top: 5px;
+}
+
+.bksp{
+	width: 100px;
+}
+
+.tab{
+	width: 100px;
+}
+
+.caps{
+	width: 105px;
+}
+
+.enter{
+	width: 110px;
+}
+
+.shift{
+	width: 137px;
+}
+
+button{
+	width: 55px;
+	height: 55px;
+	border: none;
+	box-shadow: 5px 5px 5px black;
+	font-size: 12px;
+	border-radius: 10px;
+}
+
+button:hover{
+	color: white;
+	background-color: black;
+}
+
+button:active{
+	font-size: 14px;
+}
+
+.a:hover{
+	color: teal;
+}
+
+.b:hover{
+	color: gray;
+}
+
+.e:hover{
+	color: orange;
+}
+
+.h:hover{
+	color: darkred;
+}
+
+.i:hover{
+	color: green;
+}
+
+.m:hover{
+	color: magenta;
+}
+
+.n:hover{
+	color: skyblue;
+}
+
+.r:hover{
+	color: aquamarine;
+}
+
+.s:hover{
+	color: burlywood;
+}
+
+.t:hover{
+	color: olive;
+}
+
+.y:hover{
+	color: blueviolet;
+}
