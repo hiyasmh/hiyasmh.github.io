@@ -125,6 +125,11 @@ a{
 	background-size: contain;
 }
 
+.ten:hover{
+	background-image: url(../homepage/imgs/10.jpg);
+	background-size: contain;
+}
+
 .grid{
 	display: flex;
 	padding: 20px;
