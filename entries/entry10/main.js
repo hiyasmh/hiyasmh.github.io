@@ -1,4 +1,4 @@
-console.log("hello")
+console.log("hey Nika!");
 
 let keys = document.querySelectorAll('.key')
 

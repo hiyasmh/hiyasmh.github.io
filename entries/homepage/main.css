@@ -10,7 +10,7 @@ h1{
 }
 
 .define{
-	font-family: 'Special Elite', cursive;
+	font-family: 'Noto Sans', sans-serif;
 	text-align: center;
 }
 
@@ -127,6 +127,11 @@ a{
 
 .ten:hover{
 	background-image: url(../homepage/imgs/10.jpg);
+	background-size: contain;
+}
+
+.eleven:hover{
+	background-image: url(../homepage/imgs/11.jpg);
 	background-size: contain;
 }
 

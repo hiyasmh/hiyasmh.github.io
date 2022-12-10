@@ -1,3 +1,5 @@
+console.log("hey Nika!");
+
 let btnA = document.querySelector('#A')
 let btnB = document.querySelector("#B")
 let btnC = document.querySelector("#C")
