@@ -98,6 +98,7 @@ a{
 
 .four:hover{
 	background-image: url(../homepage/imgs/4.jpg);
+	background-size: contain;
 }
 
 .five:hover{
