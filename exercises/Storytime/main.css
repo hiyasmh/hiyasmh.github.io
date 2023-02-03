@@ -1,0 +1,71 @@
+body{
+	background-color: antiquewhite;
+}
+
+.cursor:hover{
+	cursor: url(imgs/pikachu.png),auto;
+}
+
+.top{
+	display: flex;
+	margin-left: 100px;
+}
+
+.bottom{
+	display: flex;
+	margin-left: 350px;
+}
+
+.title{
+	display: flex;
+	margin-left: 600px;
+}
+
+.pokedex1:hover{
+	height: 410px;
+	cursor: url(imgs/pikachu.png),auto;
+}
+.pokedex2:hover{
+	height: 410px;
+	cursor: url(imgs/pikachu.png),auto;
+}
+.pokedex3:hover{
+	height: 410px;
+	cursor: url(imgs/pikachu.png),auto;
+}
+.pokedex4:hover{
+	height: 410px;
+	cursor: url(imgs/pikachu.png),auto;
+}
+.pokedex5:hover{
+	height: 410px;
+	cursor: url(imgs/pikachu.png),auto;
+}
+
+
+font-family: 'Press Start 2P', cursive;
+font-family: 'Source Code Pro', monospace;
+
+/*.pokedex figure {
+	position: relative;
+}
+.pokedex figure::before {
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%);
+	-webkit-transform: skewX(-25deg);
+	transform: skewX(-25deg);
+}
+.pokedex figure:hover::before {
+	-webkit-animation: shine .75s;
+	animation: shine .75s;
+}
+@-webkit-keyframes shine {
+	100% {
+		left: 125%;
+	}
+}
+@keyframes shine {
+	100% {
+		left: 125%;
+	}
+}*/
