@@ -1,0 +1,107 @@
+#body{
+	background-color: wheat;
+	background-repeat: no-repeat;
+}
+
+.cursor{
+	cursor: url(../imgs/pikachu.png),auto;
+}
+
+.block{
+	margin: 300px;
+}
+
+.btn{
+	border-radius: 25px;
+	border: none;
+	padding: 15px;
+	height: 50px;
+	width: 150px;
+	margin: 5px;
+	font-family: 'Source Code Pro', monospace;
+}
+
+.btn:hover{
+	background-color: black;
+	color: white;
+}
+
+.normal{
+	background-color: gray;
+}
+
+.fire{
+	background-color: red;
+}
+
+.fire:hover{
+	color: white;
+}
+
+.water{
+	background-color: blue;
+}
+
+.electric{
+	background-color: yellow;
+}
+
+.grass{
+	background-color: green;
+}
+
+.ice{
+	background-color: lightblue;
+}
+
+.fighting{
+	background-color: maroon;
+}
+
+.poison{
+	background-color: purple;
+}
+
+.ground{
+	background-color: orchid;
+}
+
+.flying{
+	background-color: violet;
+}
+
+.psychic{
+	background-color: hotpink;
+}
+
+.bug{
+	background-color: lightgreen;
+}
+
+.rock{
+	background-color: beige;
+}
+
+.ghost{
+	background-color: wheat;
+}
+
+.dragon{
+	background-color: coral;
+}
+
+.dark{
+	background-color: brown;
+}
+
+.steel{
+	background-color: lightgray;
+}
+
+.fairy{
+	background-color: lightpink;
+}
+
+
+
+

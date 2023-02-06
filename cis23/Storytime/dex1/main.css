@@ -1,0 +1,21 @@
+body{
+	background-image: url(imgs/guess.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.cursor:hover{
+	cursor: url(../imgs/pikachu.png),auto;
+}
+
+.pokemon{
+	filter: invert(50%);
+}
+
+.pokemon:hover{
+	filter: invert(0%);
+}
+
+.guess{
+	margin: 60px;
+}

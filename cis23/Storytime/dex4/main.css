@@ -1,0 +1,17 @@
+body{
+	background-color: antiquewhite;
+	font-family: 'Press Start 2P', cursive;
+font-family: 'Source Code Pro', monospace;
+}
+
+.cursor:hover{
+	cursor: url(../imgs/pikachu.png),auto;
+}
+
+.blur:hover{
+	height: 250px;
+}
+
+.ep1:hover{
+
+}

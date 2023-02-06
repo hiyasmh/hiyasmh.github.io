@@ -1,0 +1,17 @@
+body{
+	background-color: whitesmoke;
+}
+
+.cursor:hover{
+	cursor: url(../imgs/pikachu.png),auto;
+}
+
+.block{
+	margin-top: 275px;
+	margin-left: 375px;
+}
+
+.padding{
+	padding: 20px;
+	margin: 10px;
+}
