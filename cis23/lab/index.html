@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+      <meta charset="utf-8">
+      <title>Week 2: Html Structure Analysis</title>
+      <!-- Adds: an internal stylesheet. -->
+      <style>
+            section { margin-top: 120px; }
+            #table-of-contents { margin: 80px 0; }
+            .anchor-offset { scroll-margin-top: 40px; }
+            .grid-col-2 {
+                  display: grid;
+                  grid-template-columns: 50% 50%;
+                  grid-column-gap: 40px;
+            }
+
+            body{
+                  font-family: sans-serif;
+                  background-color: wheat;
+            }
+
+            a{
+                  text-decoration: none;
+            }
+
+            .img{
+             display: block;
+             margin-left: auto;
+             margin-right: auto;
+       }
+       pre{
+            font-size: 18px;
+       }
+ </style>
+</head>
+<body>
+      <header>
+            Core 2 Interaction: Lab –&nbsp;<em>Week 2: HTML Structure Analysis</em>
+      </header>
+      <section id="table-of-contents">
+            <ul>
+                  <li><a href="#screenshot">Screenshot</a></li>
+                  <li><a href="#analysis">Analysis</a></li>
+                  <li><a href="#questions">Questions</a></li>
+            </ul>
+      </section>
+      <section id="screenshot">
+            <h2>Screenshot</h2>
+            <img class="img" height="800px" src="screenshot.png">
+      </section>
+      <section id="analysis">
+            <h2>Analysis</h2>
+            <div class="grid-col-2">
+                  <div>
+                        <pre id="analysis--simplified-html">
+                              page-home
+                               app-root
+                                app-header
+                                 header.border-bottom-black layout-grid
+                                  h1#logo
+                                   nav#main-nav
+                                    a#nav-trigger
+                                     span.nav-trigger-open
+                                     span.nav-trigger-close
+                                    ul#page-nav
+                                     li.menu-links
+                                    ul#user-nav
+                                    li.menu-links
+                              div#main-container
+                               router-outlet
+                                app-home
+                                 div#main-content
+                                  a.highlight-block-first-item 
+                                  layout-grid highlight-block 
+                                  highlight-imgwide margin-bottom-l
+                                   div.content-type-column
+                                    div.content-column
+                                app-footer
+                                 footer.layout-grid layout-footer
+                                  ul
+                                   li
+                                    h5
+                              iframe
+                        </pre>
+                  </div>
+                  <div id="analysis--text">
+                        page-home is the body class.
+                        There is a distinct header and a footer. <br>
+                        The header contains the menu with a list of actions (typefaces, free trails, commissions, blog, information, about, login).
+                        <br><br>
+                        The div 'main-container' holds majority of the homepage. <br>
+
+                        This container has separate parts:<br>
+                        1. GT Pressura Minisite<br>
+                        2. Retail typefaces - uses unordered list<br>
+                        3. GT in Use<br>
+                        4. Grilli Kiosk<br>
+                        5. Commission Case Studies<br>
+                        6. GT Academy<br>
+                        7. Web fonts Guide<br>
+                        8. Recent blog posts<br>
+
+                        <br><br>
+
+                        The footer 'layout-grid layout-footer' contains 4 lists. <br>
+                        They have links for Information, Contact & Typefaces followed by an About Us section.
+                  </div>
+            </div>
+      </section>
+      <section id="analysis--questions">
+            <h2>Questions</h2>
+            <ul>
+                  <li>
+                        What does "_ngcontent-serverapp-c64" mean?
+
+
+                  </li>
+            </ul>
+      </section>
+</body>
+</html>
