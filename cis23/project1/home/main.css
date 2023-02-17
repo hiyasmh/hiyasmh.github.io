@@ -1,0 +1,199 @@
+body{
+	background-color: #2E8A5D;
+	width: 100%;
+	max-height: 100vh;
+}
+
+p{
+	color: whitesmoke;
+	font-family: 'Source Code Pro', monospace;
+	width: 80%;
+	text-align: justify;
+	display: block;
+	box-align: center;
+}
+
+div{
+	display: flex;
+}
+
+.controls{
+	display: inline-flex;
+	height: 80px;
+	width: 80px;
+	padding: 10px;
+	margin: 10px;
+	background-color: transparent;
+	border: none;
+	position: sticky;
+	top: 20px;
+}
+
+/*span{
+position: sticky;
+top: 10px;
+}*/
+
+.O{
+position: sticky;
+top: 5px;
+}
+
+.N{
+position: sticky;
+top: 10px;
+}
+
+.P{
+position: sticky;
+top: 15px;
+}
+
+.U{
+position: sticky;
+top: 20px;
+}
+
+.C{
+position: sticky;
+top: 25px;
+}
+
+.T{
+position: sticky;
+top: 30px;
+}
+
+.A{
+position: sticky;
+top: 35px;
+}
+
+.I{
+position: sticky;
+top: 40px;
+}
+
+.A{
+position: sticky;
+top: 45px;
+}
+
+.B{
+position: sticky;
+top: 50px;
+}
+
+.C{
+position: sticky;
+top: 55px;
+}
+
+.D{
+position: sticky;
+top: 60px;
+}
+
+.E{
+position: sticky;
+top: 65px;
+}
+
+.F{
+position: sticky;
+top: 70px;
+}
+
+.G{
+position: sticky;
+top: 75px;
+}
+
+.H{
+position: sticky;
+top: 80px;
+}
+
+.J{
+position: sticky;
+top: 85px;
+}
+
+.K{
+position: sticky;
+top: 90px;
+}
+
+.L{
+position: sticky;
+top: 95px;
+}
+
+.M{
+position: sticky;
+top: 100px;
+}
+
+.Q{
+position: sticky;
+top: 105px;
+}
+
+.R{
+position: sticky;
+top: 110px;
+}
+
+.S{
+position: sticky;
+top: 115px;
+}
+
+.V{
+position: sticky;
+top: 120px;
+}
+
+.W{
+position: sticky;
+top: 125px;
+}
+
+.X{
+position: sticky;
+top: 130px;
+}
+
+.Y{
+position: sticky;
+top: 135px;
+}
+
+.Z{
+position: sticky;
+top: 140px;
+}
+
+
+
+
+button{
+	fill: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+marquee{
+	height: 100vh;
+}
+
+.colon{
+	position: fixed;
+	top: 10%;
+	top: 20px;
+}
+
+.dash{
+	position: fixed;
+	top: 20px;
+}

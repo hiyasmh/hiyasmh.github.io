@@ -1,0 +1,44 @@
+body{
+	background-color: #ECDFC6;
+	font-family: 'Press Start 2P', cursive;
+	color: #C44F7E;
+/*font-family: 'Source Code Pro', monospace;*/
+}
+
+.position{
+	position: relative;
+}
+
+.pf1{
+	z-index: -1;
+	position: absolute;
+	top: 150px;
+	left: 0px;
+}
+
+.pf2{
+	z-index: 0;
+	position: absolute;
+	top: 200px;
+	left: 0px;
+	
+}
+
+.pf3{
+	z-index: 1;
+	position: absolute;
+	top: 250px;
+	left: 0px;
+}
+
+.text1{
+	font-family: 'Spectral', serif;
+}
+
+.text2{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.text3{
+	font-family: 'Inter', sans-serif;
+}
