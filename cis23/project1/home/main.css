@@ -13,8 +13,28 @@ p{
 	box-align: center;
 }
 
+h1{
+	color: whitesmoke;
+	font-family: 'Source Code Pro', monospace;
+	margin-left: 20px;
+}
+
+h2{
+	color: black;
+	font-family: 'Source Code Pro', monospace;
+	margin-left: 20px;
+}
+
 div{
 	display: flex;
+		margin-left: 20px;
+}
+
+.marquee{
+	display: flex;
+	margin: 0px;
+	z-index: -1;
+	height: 100px;
 }
 
 .controls{
@@ -26,7 +46,7 @@ div{
 	background-color: transparent;
 	border: none;
 	position: sticky;
-	top: 20px;
+	top: 10px;
 }
 
 /*span{
@@ -81,7 +101,7 @@ button{
 }
 
 marquee{
-	height: 100vh;
+	height: 10vh;
 }
 
 .colon{
