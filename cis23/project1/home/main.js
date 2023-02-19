@@ -1,14 +1,9 @@
 console.log("Hey Nika!");
 
 let btns = document.querySelectorAll('.btn');
-let cntrls = document.querySelectorAll('.controls')
 
 btns.forEach(btn =>{
 	btn.addEventListener('click', () => playNote(btn));
-})
-
-cntrls.forEach(btn =>{
-	cntrls.addEventListener('click', () => pauseNote(cntrls));
 })
 
 function playNote(btn) {
@@ -16,8 +11,14 @@ function playNote(btn) {
 	noteAudio.play()
 }
 
-function pauseNote(controls) {
-	let pauseAudio = document.getElementById(controls.dataset.note);
-	pauseAudio.pause()
-}
+document.getElementById('pause').addEventListener('click', () => {
+  document.querySelectorAll('audio').forEach(el => el.pause());
+});
 
+document.getElementById('plus').addEventListener('click', () => {
+  document.querySelectorAll('audio').forEach(el => el.currentTime += 1.0);
+});
+
+document.getElementById('minus').addEventListener('click', () => {
+  document.querySelectorAll('audio').forEach(el => el.currentTime -= 1.0)
+});
