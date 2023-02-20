@@ -10,12 +10,22 @@
 	<title>On Punctuation</title>
 </head>
 <body>
-	<marquee width="100%" loop="" height: 100px;><div class="marquee"><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2></div></marquee>
+	<marquee id="body" width="100%" loop="" height: 100px;><div class="marquee"><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2><h1>On Punctuation</h1><h2>Gertrude Stein</h2></div></marquee>
 <br>
 <br>
 <br>
 <br>
 <br>
+<div class="cursorbtns">
+<button onclick="qmCursor()" id="qm" class="punks">?</button>
+<button onclick="colonCursor()" id="colon" class="punks">:</button>
+<button onclick="semicolonCursor()" id="semicolon" class="punks">;</button>
+<button onclick="apsCursor()" id="aps" class="punks">'</button>
+<button onclick="qtsCursor()" id="qts" class="punks">"</button>
+<button onclick="commaCursor()" id="comma" class="punks">,</button>
+<button onclick="periodCursor()" id="period" class="punks">.</button>
+<button onclick="exclamationCursor()" id="exclamation" class="punks">!</button>
+</div>
 <br>
 <br>
 <br>
@@ -79,10 +89,11 @@ S<span class="O">o</span> <span class="T">t</span>h<span class="A">a</span><span
 <br>
 <br>
 	</p>
-
-	<button id="pause"><img src="assets/pause.png" alt="pause" width="100px" height="100px"></button>
-	<button type="button" id="plus"><img src="assets/fast.png" alt="fastforward" width="100px" height="100px"></button>
-	<button type="button" id="minus"><img src="assets/slow.png" alt="slowdown" width="100px" height="100px"></button>
+<div>
+	<button class="controls" id="pause"><img src="assets/pause.png" alt="pause" width="100px" height="100px"></button>
+	<button class="controls" type="button" id="plus"><img src="assets/fast.png" alt="fastforward" width="100px" height="100px"></button>
+	<button class="controls" type="button" id="minus"><img src="assets/slow.png" alt="slowdown" width="100px" height="100px"></button>
+	</div>
 </div>
 	<section>
 		<audio id="1" src="../reading/1.mp3"></audio>

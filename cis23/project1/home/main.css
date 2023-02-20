@@ -1,7 +1,52 @@
 body{
-	background-color: #2E8A5D;
+	background-color: #49183C;
 	width: 100%;
 	max-height: 100vh;
+}
+
+/*#body:hover{
+	cursor:url(assets/qm.png),auto;
+}*/
+
+.btn:hover{
+	cursor: pointer;
+}
+
+.cursorbtns{
+	margin-left: 600px;
+}
+
+.punks{
+	height: 40px;
+	width: 40px;
+	color: white;
+	font-size: 20px;
+	font-family: 'Source Code Pro', monospace;
+	background-color: transparent;
+	border: none;
+	border-radius: 30px;
+	margin: 10px;
+}
+
+.punks:hover{
+	height: 40px;
+	width: 40px;
+	color: black;
+	font-size: 20px;
+	font-family: 'Source Code Pro', monospace;
+	background-color: whitesmoke;
+	border: none;
+	border-radius: 30px;
+	margin: 10px;
+}
+
+
+button{
+	fill: transparent;
+	padding: 0px;
+	margin: 0px;
+	width:"50px";
+	height:"50px";
 }
 
 p{
@@ -38,6 +83,18 @@ div{
 }
 
 .controls{
+	display: inline-flex;
+	height: 80px;
+	width: 80px;
+	padding: 10px;
+	margin: 10px;
+	background-color: transparent;
+	border: none;
+	position: sticky;
+	top: 10px;
+}
+
+.controls:hover{
 	display: inline-flex;
 	height: 80px;
 	width: 80px;
@@ -92,14 +149,6 @@ top: 180px;
 .I{
 position: sticky;
 top: 200px;
-}
-
-button{
-	fill: transparent;
-	padding: 0px;
-	margin: 0px;
-	width:"50px";
-	height:"50px";
 }
 
 marquee{
