@@ -1,7 +1,79 @@
 body{
-	background-color: #49183C;
+	background-color: #2D7886;
 	width: 100%;
 	max-height: 100vh;
+}
+
+
+
+@media (min-width: 500px) {
+  body {
+    background-color: #C7575E;
+  }
+
+  .controls{
+  	display: none;
+  	height: 10px;
+  	width: 10px;
+  }
+
+  .cursorbtns{
+	margin-left: 100px;
+}
+}
+
+/* Tablet breakpoint */
+@media (min-width: 768px) {
+  body {
+    background-color: #B0B03B;
+  }
+
+    .controls{
+  	display: none;
+  	height: 10px;
+  	width: 10px;
+  }
+
+  .cursorbtns{
+	margin-left: 10px;
+}
+}
+}
+
+/* Desktop breakpoint */
+@media (min-width: 992px) {
+  body {
+    background-color: #49183C;
+  }
+
+    .controls{
+  	display: none;
+  	height: 10px;
+  	width: 10px;
+  }
+
+  .cursorbtns{
+	margin-left: 10px;
+}
+}
+}
+
+/* Wide screen breakpoint */
+@media (min-width: 1200px) {
+  body {
+    background-color: #2D7886;
+  }
+
+    .controls{
+  	display: none;
+  	height: 10px;
+  	width: 10px;
+  }
+
+  .cursorbtns{
+	margin-left: 10px;
+}
+}
 }
 
 /*#body:hover{
