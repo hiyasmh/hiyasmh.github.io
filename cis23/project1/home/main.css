@@ -1,34 +1,36 @@
 body{
-	background-color: #2D7886;
+	background-color: #B0B03B;
 	width: 100%;
 	max-height: 100vh;
 }
 
 
-@media (min-width: 500px) {
+@media (max-width: 500px) {
   body {
     background-color: #C7575E;
   }
 
   .controls{
-  	display: none;
+  	display: flex;
+  	flex-direction: column;
   	height: 10px;
   	width: 10px;
   }
 
   .cursorbtns{
-	margin-left: 100px;
+	margin-left: 10px;
 }
 }
 
 /* Tablet breakpoint */
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   body {
-    background-color: #B0B03B;
+    background-color: #2D7886;
   }
 
     .controls{
-  	display: none;
+  	display: flex;
+  	flex-direction: column;
   	height: 10px;
   	width: 10px;
   }
@@ -40,13 +42,14 @@ body{
 }
 
 /* Desktop breakpoint */
-@media (min-width: 992px) {
+@media (max-width: 992px) {
   body {
     background-color: #49183C;
   }
 
     .controls{
-  	display: none;
+  	display: flex;
+  	flex-direction: column;
   	height: 10px;
   	width: 10px;
   }
@@ -58,13 +61,14 @@ body{
 }
 
 /* Wide screen breakpoint */
-@media (min-width: 1200px) {
+@media (max-width: 1200px) {
   body {
     background-color: #2D7886;
   }
 
     .controls{
-  	display: none;
+  	display: flex;
+  	flex-direction: column;
   	height: 10px;
   	width: 10px;
   }
@@ -84,7 +88,8 @@ body{
 }
 
 .cursorbtns{
-	margin-left: 600px;
+	display: flex;
+	flex-direction: row;
 }
 
 .punks{
@@ -111,6 +116,20 @@ body{
 	margin: 10px;
 }
 
+.btn1{
+	position: sticky;
+	top: 10px;
+}
+
+.btn2{
+	position: sticky;
+	top: 100px;
+}
+
+.btn3{
+	position: sticky;
+	top: 190px;
+}
 
 button{
 	fill: transparent;
@@ -123,7 +142,7 @@ button{
 p{
 	color: whitesmoke;
 	font-family: 'Source Code Pro', monospace;
-	width: 80%;
+	width: 90%;
 	text-align: justify;
 	display: block;
 	box-align: center;
@@ -152,28 +171,31 @@ div{
 	font-family: 'Press Start 2P', cursive;
 }
 
+.flex-container{
+	display: flex;
+	flex-direction: column;
+}
+
 .controls{
-	display: inline-flex;
+	display: flex;
+  flex-direction: row;
 	height: 80px;
 	width: 80px;
 	padding: 10px;
 	margin: 10px;
 	background-color: transparent;
 	border: none;
-	position: sticky;
-	top: 10px;
 }
 
 .controls:hover{
-	display: inline-flex;
+	display: flex;
+  flex-direction: column;
 	height: 80px;
 	width: 80px;
 	padding: 10px;
 	margin: 10px;
 	background-color: transparent;
 	border: none;
-	position: sticky;
-	top: 10px;
 }
 
 /*span{
@@ -236,3 +258,9 @@ marquee{
 	position: fixed;
 	top: 20px;
 }
+
+.activeline{
+	color: black;
+}
+
+
