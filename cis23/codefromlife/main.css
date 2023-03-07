@@ -1,0 +1,75 @@
+.frame {
+  width: 95vw;
+  height: 57vw;
+  background: white;
+  position: relative;
+  z-index: -9;
+}
+
+.cf-mdl{
+  background-color: #A38E59;
+  position: absolute;
+  height: 900px;
+  width: 30px;
+  top: 100px;
+  left: 1000px;
+}
+
+.friut1{
+/*  position: relative;*/
+}
+
+.fruit1-top{
+  background-color: #9E3412;
+  height: 300px;
+  width: 300px;
+  border-radius: 400px;
+  position: absolute;
+  z-index: 1;
+  top: 325px;
+  left: 225px;
+}
+
+.fruit1-btm{
+  background-color: #9E3412;
+  height: 800px;
+  width: 800px;
+  border-radius: 400px;
+  position: absolute;
+  top: 400px;
+  z-index: 0;
+}
+
+.fruit2{
+  border-radius: 72% 28% 57% 43% / 66% 34% 66% 34% ;
+  background-color: #A67D4B;
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  left: 500px;
+  top: 400px;
+  z-index: -1;
+}
+
+.fruit3{
+  background-color: #977A4D;
+  height: 600px;
+  width: 600px;
+  position: absolute;
+  left: 1250px;
+  top: 400px;
+  z-index: -1;
+  border-radius: 50% 50% 31% 69% / 53% 56% 44% 47% ;
+}
+
+.vase{
+  height: 800px;
+  width: 300px;
+  border-radius: 30px;
+  background-color: gray;
+  opacity: 60%;
+  position: absolute;
+  left: 800px;
+  top: 0px;
+  z-index: -2;
+}
