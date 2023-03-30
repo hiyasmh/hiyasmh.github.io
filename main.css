@@ -1,3 +1,25 @@
 body{
-	background-color: yellow;
+	background-color: #81AEE7;
+	font-family: 'Inconsolata', monospace;
+	font-size: 100px;
+}
+
+a:link{
+	text-decoration: none;
+	color: #E7E581;
+}
+
+a:visited{
+	text-decoration: none;
+	color: #E7E581;
+}
+
+a:active{
+	text-decoration: underline;
+	color: #39CA88;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: #E7E581;
 }
