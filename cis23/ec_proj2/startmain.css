@@ -1,0 +1,142 @@
+body{
+    font-family: 'Inconsolata', monospace;
+	color: #000000;
+}
+/* .star{
+    animation: rotation 10s infinite linear;
+} */
+
+@keyframes rotation {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+@keyframes backrotation {
+    from {
+        transform:rotate(360deg);
+    }
+    to {
+        transform:rotate(0deg);
+    }
+}
+
+@keyframes reduce {
+    0%{
+        transform: scale(5);
+    }
+    50%{
+        transform: scale(1);
+    }
+    50%{
+        transform:rotate(0deg);
+    }
+    100%{
+        transform:rotate(360deg);
+    }
+}
+
+.starani{
+    animation: reduce 3s ease-in-out;
+    animation-delay: 0ms;
+}
+
+.sunnymarq{
+    height: 60px;
+    width: 60px;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+
+.marq2{
+    font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+-webkit-text-stroke: 2px black;
+line-height: 42px;
+color: rgba(146, 189, 255, 0.62);
+}
+.marq2:hover{
+  animation-play-state: paused;
+}
+
+.footmarq{
+    font-size: 30px;
+    animation-delay: 0s;
+    margin-top: 30px;
+}
+
+.star:hover{
+    animation: none;
+    /* background-color: #F3FFA8; */
+    fill: #F3FFA8;
+}
+
+button{
+    background-color: transparent;
+    font-family: 'Inconsolata', monospace;
+	color: #000000;
+    border: none;
+}
+
+.star2{
+    /* animation: backrotation 10s infinite linear;
+    animation-delay: 2s; */
+}
+
+.star2:hover{
+    animation: none;
+}
+
+p{
+    position: relative;
+    bottom: 300px;
+    left: 140px;
+    font-size: 30px;
+    width: 210px;
+}
+
+p:hover{
+    position: relative;
+    bottom: 300px;
+    left: 140px;
+    font-size: 30px;
+    text-decoration: underline;
+    width: 210px;
+}
+
+p:active{
+    position: relative;
+    bottom: 300px;
+    left: 140px;
+    font-size: 30px;
+    text-decoration: underline;
+    background-color: #AFFFA8;
+    width: 210px;
+}
+
+svg{
+    width: 500;
+    height: 500;
+}
+
+.threepaths{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin-left: 100px;
+    margin-top: 200px;
+}
+
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+a:visited{
+    text-decoration: none;
+}

@@ -1,0 +1,192 @@
+[
+	{
+		"shape":["Square","Keyhole Bridge"],
+		"location":"Greenwich Village",
+		"from":"Urban Outfitters",
+		"price":20,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":"Oversized",
+		"location":"Greenwich Village",
+		"from":"Free People",
+		"price":20,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":["Oval","Carolyn Bessette"],
+		"location":"Greenwich Village",
+		"from":"Hand-made in France",
+		"price":300,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":["Round","Keyhole Bridge"],
+		"location":"Greenwich Village",
+		"from":"Barcelona",
+		"price":210,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":"Oversized",
+		"location":"Greenwich Village",
+		"from":"the pharmacy",
+		"price":15,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":["Oval","Carolyn Bessette"],
+		"location":"Greenwich Village",
+		"from":"Hand-made in France",
+		"price":null,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":"Aviators",
+		"location":"Greenwich Village",
+		"from":"Amazon",
+		"price":40,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":"Oval",
+		"location":"Greenwich Village",
+		"from":"ASOS",
+		"price":9,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":["Oversized","Geometric"],
+		"location":"Greenwich Village",
+		"from":"Bermuda",
+		"price":20,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":["Square","Cateye"],
+		"location":"Greenwich Village",
+		"from":"Chanel",
+		"price":400,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":["Square","Cateye"],
+		"location":"Greenwich Village",
+		"from":"Celine",
+		"price":350,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":"Oval",
+		"location":"Greenwich Village",
+		"from":"Velvet Canyon",
+		"price":null,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":"Round",
+		"location":"Greenwich Village",
+		"from":"Warby Parker",
+		"price":90,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":"Cateye",
+		"location":"Greenwich Village",
+		"from":"Tiktok store",
+		"price":15,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":["Oval","Cateye"],
+		"location":"Greenwich Village",
+		"from":"can't remember",
+		"price":null,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":"Round",
+		"location":"Greenwich Village",
+		"from":"Rayban",
+		"price":200,
+		"img":"imgs/IMG_0482.JPG"
+	},
+	{
+		"shape":["Geometric","Oversized"],
+		"location":"Greenwich Village",
+		"from":"Thrift store in Copenhagen",
+		"price":40
+	},
+	{
+		"shape":"Round",
+		"location":"Greenwich Village",
+		"from":"J.Crew",
+		"price":170
+	},
+	{
+		"shape":"Rectangle",
+		"location":"Greenwich Village",
+		"from":"Beijing",
+		"price":300
+	},
+	{
+		"shape":"Oversized",
+		"location":"Greenwich Village",
+		"from":"Oliver Bonas",
+		"price":28
+	},
+	{
+		"shape":"Rectangle",
+		"location":"Greenwich Village",
+		"from":"Rome",
+		"price":5
+	},
+	{
+		"shape":"Aviators",
+		"location":"Greenwich Village",
+		"from":"Rayban",
+		"price":180
+	},
+	{
+		"shape":"Clip-on",
+		"location":"Greenwich Village",
+		"from":"Native",
+		"price":null
+	},
+	{
+		"shape":"Oversized",
+		"location":"Greenwich Village",
+		"from":"Quay",
+		"price":null
+	},
+	{
+		"shape":["Square","keyhole"],
+		"location":"Greenwich Village",
+		"from":"SportRX",
+		"price":null
+	},
+	{
+		"shape":["Square","keyhole"],
+		"location":"Greenwich Village",
+		"from":"Mascot",
+		"price":250
+	},
+	{
+		"shape":"Square",
+		"location":"Greenwich Village",
+		"from":"Stand",
+		"price":15
+	},
+	{
+		"shape":"Cateye",
+		"location":"Greenwich Village",
+		"from":"Prescription",
+		"price":200
+	},
+	{
+		"shape":"rectangle",
+		"location":"Greenwich Village",
+		"from":"Prada",
+		"price":320
+	}
+]
