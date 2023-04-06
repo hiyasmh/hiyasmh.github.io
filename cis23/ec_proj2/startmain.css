@@ -84,8 +84,8 @@ button{
 }
 
 .star2{
-    /* animation: backrotation 10s infinite linear;
-    animation-delay: 2s; */
+    animation: backrotation 10s infinite linear;
+    animation-delay: 2s;
 }
 
 .star2:hover{
