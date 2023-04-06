@@ -14,10 +14,10 @@
             onmouseout="this.start();"><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee2">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee3">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee4">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee5">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee2">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee3">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee4">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee5">YOU SEE A PAIR YOU LIKE?</span><span class="headmarquee1">YOU SEE A PAIR YOU LIKE?</span></marquee></div>
         <div class="header">
             <section class="categories">
-                <button onclick="showLocationCategory();reduceOpacity()" id="location" class="fltrs">Location</button>
-                <button id="shape" class="fltrs">Shape</button>
-                <button id="from" class="fltrs">From</button>
-                <button id="color" class="fltrs">Color</button>
+                <button onclick="showLocationCategory();reduceOpacity();clickedBtnLocation()" id="location" class="fltrs">Location</button>
+                <button onclick="showShapeCategory();reduceOpacity()" id="shape" class="fltrs">Shape</button>
+                <button onclick="showFromCategory();reduceOpacity()" id="from" class="fltrs">From</button>
+                <button onclick="showColorCategory();reduceOpacity()" id="color" class="fltrs">Color</button>
             </section>
             <section class="bells">
                 <button class="starbtn"> <div class="star12 star">
@@ -51,20 +51,20 @@
             </section>
         </div>
         <div> <section id="Locationsubcategorie" class="subcategories">
-            <button class="locationsub"><svg class="mapicon" width="26" height="39" viewBox="0 0 26 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <button onclick="greenwichVillage();clickedBtn()" class="locationsub"><svg class="mapicon" width="26" height="39" viewBox="0 0 26 39" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="12.7174" cy="12.7174" r="12.7174" fill="#FC6C6C"/>
                 <circle cx="12.7173" cy="12.7174" r="5.36957" fill="white"/>
                 <path d="M13.5969 37.3752C13.2187 38.0739 12.2161 38.0739 11.838 37.3752L2.50275 20.1282C2.14211 19.4619 2.62456 18.6522 3.38219 18.6522L22.0527 18.6522C22.8103 18.6522 23.2927 19.4619 22.9321 20.1282L13.5969 37.3752Z" fill="#FC6C6C"/>
                 </svg><p class="locationsubtxt">
                 Greenwich Village</p></button>
-            <button class="locationsub"><svg class="mapicon" width="26" height="39" viewBox="0 0 26 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <button onclick="upperEastSide()" class="locationsub"><svg class="mapicon" width="26" height="39" viewBox="0 0 26 39" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="12.7174" cy="12.7174" r="12.7174" fill="#FC6C6C"/>
                 <circle cx="12.7173" cy="12.7174" r="5.36957" fill="white"/>
                 <path d="M13.5969 37.3752C13.2187 38.0739 12.2161 38.0739 11.838 37.3752L2.50275 20.1282C2.14211 19.4619 2.62456 18.6522 3.38219 18.6522L22.0527 18.6522C22.8103 18.6522 23.2927 19.4619 22.9321 20.1282L13.5969 37.3752Z" fill="#FC6C6C"/>
                 </svg>
                 <p class="locationsubtxt">
                     Upper East Side</p></button>
-            <button class="locationsub"><svg class="mapicon" width="26" height="39" viewBox="0 0 26 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <button onclick="soho()" class="locationsub"><svg class="mapicon" width="26" height="39" viewBox="0 0 26 39" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="12.7174" cy="12.7174" r="12.7174" fill="#FC6C6C"/>
                 <circle cx="12.7173" cy="12.7174" r="5.36957" fill="white"/>
                 <path d="M13.5969 37.3752C13.2187 38.0739 12.2161 38.0739 11.838 37.3752L2.50275 20.1282C2.14211 19.4619 2.62456 18.6522 3.38219 18.6522L22.0527 18.6522C22.8103 18.6522 23.2927 19.4619 22.9321 20.1282L13.5969 37.3752Z" fill="#FC6C6C"/>
@@ -72,86 +72,859 @@
                 <p class="locationsubtxt">
                     SoHo</p></button>
         </section></div>
-        <div id="hi" class="showup">
+
+        <div> <section id="shapesubcategorie" class="subcategories">
+            <button onclick="square()" class="shapesub"><p class="shapesubtxt">Square</p></button>
+            <button onclick="keyholeBridge()" class="shapesub"><p class="shapesubtxt">Keyhole Bridge</p></button>
+            <button onclick="oversized()" class="shapesub"><p class="shapesubtxt">Oversized</p></button>
+            <button onclick="oval()" class="shapesub"><p class="shapesubtxt">Oval</p></button>
+            <button onclick="round()" class="shapesub"><p class="shapesubtxt">Round</p></button>
+            <button onclick="rectangle()" class="shapesub"><p class="shapesubtxt">Rectangle</p></button>
+            <button onclick="aviators()" class="shapesub"><p class="shapesubtxt">Aviators</p></button>
+            <button onclick="geometric()" class="shapesub"><p class="shapesubtxt">Geometric</p></button>
+            <button onclick="cateye()" class="shapesub"><p class="shapesubtxt">Cateye</p></button>
+            <button onclick="clipOn()" class="shapesub"><p class="shapesubtxt">Clip-on</p></button>
+            <button onclick="visor()" class="shapesub"><p class="shapesubtxt">Visors</p></button>
+        </section></div>
+
+        <div> <section id="fromsubcategorie" class="subcategories">
+            <button id="amazon" onclick="amazon();clickedBtnAmazon()" class="fromsub"><p class="fromsubtxt">Amazon</p></button>
+            <button onclick="freePeople()" class="fromsub"><p class="fromsubtxt">Free People</p></button>
+            <button onclick="specificCountry()" class="fromsub"><p class="fromsubtxt">Specific country</p></button>
+            <button onclick="pharmacy()" class="fromsub"><p class="fromsubtxt">Pharmacy</p></button>
+            <button onclick="rayBan()" class="fromsub"><p class="fromsubtxt">Ray-Ban</p></button>
+            <button onclick="warbyParker()" class="fromsub"><p class="fromsubtxt">Warby Parker</p></button>
+            <button onclick="prescription()" class="fromsub"><p class="fromsubtxt">Prescription</p></button>
+            <button onclick="jCrew()" class="fromsub"><p class="fromsubtxt">JCrew</p></button>
+            <button onclick="localStores()" class="fromsub"><p class="fromsubtxt">Local Stores</p></button>
+            <button onclick="gasStation()" class="fromsub"><p class="fromsubtxt">Gas Station</p></button>
+            <button onclick="otherBrands()" class="fromsub"><p class="fromsubtxt">Other brands</p></button>
+        </section></div>
+
+        <div> <section id="colorsubcategorie" class="subcategories">
+            <button onclick="orange()" class="colorsub"><p class="colorsubtxt">Orange</p></button>
+            <button onclick="yellow()" class="colorsub"><p class="colorsubtxt">Yellow</p></button>
+            <button onclick="black()" class="colorsub"><p class="colorsubtxt">Black</p></button>
+            <button onclick="brown()" class="colorsub"><p class="colorsubtxt">Brown</p></button>
+            <button onclick="red()" class="colorsub"><p class="colorsubtxt">Red</p></button>
+            <button onclick="blue()" class="colorsub"><p class="colorsubtxt">Blue</p></button>
+            <button onclick="green()" class="colorsub"><p class="colorsubtxt">Green</p></button>
+            <button onclick="pink()" class="colorsub"><p class="colorsubtxt">Pink</p></button>
+            <button onclick="gray()" class="colorsub"><p class="colorsubtxt">Gray</p></button>
+            <button onclick="white()" class="colorsub"><p class="colorsubtxt">White</p></button>
+            <button onclick="beige()" class="colorsub"><p class="colorsubtxt">Beige</p></button>
+            <button onclick="purple()" class="colorsub"><p class="colorsubtxt">Purple</p></button>
+        </section></div>
+
+
+        <div id="up1" class="showup">
             <div class="textarea">
-                <input id="sliderrange" type="range" min="1" max="500" value="333" class="slider">
-                <p>Price:$<span id="pricerange"></span></p> <button class="guess">Guess</button>
-                <button class="backbtn"><img src="icons/Vector7.png"></button>
+                <div class="inputshape" id="inputshape">Shape: Oversized</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Free People</div>
+                <div class="inputcolor" id="inputcolor">Color: yellow </div>
+                <input id="sliderrange" type="range" min="4" max="700" value="20" class="slider">
+                <p>Price:$20<span id="pricerange"></span></p> 
+                <button onclick="showDiv1()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/1.JPG">
             </div>
+        </div>
+        <div id="up2" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Oval, Carolyn Bessette</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Hand made in France</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange2" type="range" min="4" max="700" value="300" class="slider">
+                <p>Price:$300<span id="pricerange2"></span></p> 
+                <button onclick="showDiv2()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
                 <img class="imgarea" height="645px" width="430px" src="imgs/2.JPG">
+            </div>
+        </div>
+        <div id="up3" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Round, Keyhole Bridge</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Barcelona</div>
+                <div class="inputcolor" id="inputcolor">Color: yellow</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="210" class="slider">
+                <p>Price:$210<span id="pricerange"></span></p> 
+                <button onclick="showDiv3()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/3.JPG">
+            </div>
+        </div>
+        <div id="up4" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Oversized</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: a pharmacy</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="15" class="slider">
+                <p>Price:$15<span id="pricerange"></span></p> 
+                <button onclick="showDiv4()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/4.JPG">
+            </div>
+        </div>
+        <div id="up5" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle, Keyhole Bridge</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Ray-Ban</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv5()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/5.JPG">
+            </div>
+        </div>
+        <div id="up6" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Aviators</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Amazon</div>
+                <div class="inputcolor" id="inputcolor">Color: </div>
+                <input id="sliderrange" type="range" min="4" max="700" value="40" class="slider">
+                <p>Price:$40<span id="pricerange"></span></p> 
+                <button onclick="showDiv6()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/6.JPG">
+            </div>
+        </div>
+        <div id="up7" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Oval</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: ASOS</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="9" class="slider">
+                <p>Price:$9<span id="pricerange"></span></p> 
+                <button onclick="showDiv7()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/7.JPG">
+            </div>
+        </div>
+        <div id="up8" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Oversized, Geometric</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Bermuda</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="20" class="slider">
+                <p>Price:$20<span id="pricerange"></span></p> 
+                <button onclick="showDiv8()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/8.JPG">
+            </div>
+        </div>
+        <div id="up9" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square, Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Chanel</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="400" class="slider">
+                <p>Price:$400<span id="pricerange"></span></p> 
+                <button onclick="showDiv9()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/9.JPG">
+            </div>
+        </div>
+        <div id="up10" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square, Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Celine</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="350" class="slider">
+                <p>Price:$350<span id="pricerange"></span></p>
+                <button onclick="showDiv10()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/10.JPG">
+            </div>
+        </div>
+        <div id="up11" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Oval</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Velvet Canyon</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv11()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/11.JPG">
+            </div>
+        </div>
+        <div id="up12" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Round</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Warby Parker</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="90" class="slider">
+                <p>Price:$90<span id="pricerange"></span></p> 
+                <button onclick="showDiv12()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/12.JPG">
+            </div>
+        </div>
+        <div id="up13" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Local Store</div>
+                <div class="inputcolor" id="inputcolor">Color: blue</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="15" class="slider">
+                <p>Price:$15<span id="pricerange"></span></p> 
+                <button onclick="showDiv13()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/13.JPG">
+            </div>
+        </div>
+        <div id="up14" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Oval, Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: null</div>
+                <div class="inputcolor" id="inputcolor">Color: green</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv14()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/14.JPG">
+            </div>
+        </div>
+        <div id="up15" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Round</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Ray-Ban</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="200" class="slider">
+                <p>Price:$200<span id="pricerange"></span></p> 
+                <button onclick="showDiv15()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/15.JPG">
+            </div>
+        </div>
+        <div id="up16" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Geometric, Oversized</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Thrift store in Copenhagen</div>
+                <div class="inputcolor" id="inputcolor">Color: orange</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="40" class="slider">
+                <p>Price:$40<span id="pricerange"></span></p> 
+                <button onclick="showDiv16()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/16.JPG">
+            </div>
+        </div>
+        <div id="up17" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: round</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: J.Crew</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="170" class="slider">
+                <p>Price:$170<span id="pricerange"></span></p> 
+                <button onclick="showDiv17()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/17.JPG">
+            </div>
+        </div>
+        <div id="up18" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Beijing</div>
+                <div class="inputcolor" id="inputcolor">Color: pink</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="300" class="slider">
+                <p>Price:$300<span id="pricerange"></span></p> 
+                <button onclick="showDiv18()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/18.JPG">
+            </div>
+        </div>
+        <div id="up19" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Oversized</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Oliver Bonas</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="28" class="slider">
+                <p>Price:$28<span id="pricerange"></span></p> 
+                <button onclick="showDiv19()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/19.JPG">
+            </div>
+        </div>
+        <div id="up20" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Rome</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="5" class="slider">
+                <p>Price:$5<span id="pricerange"></span></p> 
+                <button onclick="showDiv20()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/20.JPG">
+            </div>
+        </div>
+        <div id="up21" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Visor</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Quay</div>
+                <div class="inputcolor" id="inputcolor">Color: gray</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv21()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/21.JPG">
+            </div>
+        </div>
+        <div id="up22" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Clip-on</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Native</div>
+                <div class="inputcolor" id="inputcolor">Color: blue</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv22()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/22.JPG">
+            </div>
+        </div>
+        <div id="up23" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Aviators</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Ray-Ban</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="180" class="slider">
+                <p>Price:$180<span id="pricerange"></span></p> 
+                <button onclick="showDiv23()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/23.JPG">
+            </div>
+        </div>
+        <div id="up24" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square,Keyhole Bridge</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: SportRX</div>
+                <div class="inputcolor" id="inputcolor">Color: gray</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv24()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/24.JPG">
+            </div>
+        </div>
+        <div id="up25" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Local Store</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="15" class="slider">
+                <p>Price:$15<span id="pricerange"></span></p> 
+                <button onclick="showDiv25()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/25.JPG">
+            </div>
+        </div>
+        <div id="up26" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square,Keyhole Bridge</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Mascot</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="250" class="slider">
+                <p>Price:$250<span id="pricerange"></span></p> 
+                <button onclick="showDiv26()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/26.JPG">
+            </div>
+        </div>
+        <div id="up27" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Prescription</div>
+                <div class="inputcolor" id="inputcolor">Color: blue</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="200" class="slider">
+                <p>Price:$200<span id="pricerange"></span></p> 
+                <button onclick="showDiv27()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/27.JPG">
+            </div>
+        </div>
+        <div id="up28" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Cateye, Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Amazon</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="4" class="slider">
+                <p>Price:$4<span id="pricerange"></span></p> 
+                <button onclick="showDiv28()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/28.JPG">
+            </div>
+        </div>
+        <div id="up29" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Ganni</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv29()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/29.JPG">
+            </div>
+        </div>
+        <div id="up30" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Aviators</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: India</div>
+                <div class="inputcolor" id="inputcolor">Color: gray</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="450" class="slider">
+                <p>Price:$450<span id="pricerange"></span></p> 
+                <button onclick="showDiv30()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/30.JPG">
+            </div>
+        </div>
+        <div id="up31" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Round</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: J.Crew</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="300" class="slider">
+                <p>Price:$300<span id="pricerange"></span></p> 
+                <button onclick="showDiv31()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/31.JPG">
+            </div>
+        </div>
+        <div id="up32" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Local Store</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="200" class="slider">
+                <p>Price:$200<span id="pricerange"></span></p> 
+                <button onclick="showDiv32()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/32.JPG">
+            </div>
+        </div>
+        <div id="up33" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Nordstrom Rack</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="30" class="slider">
+                <p>Price:$30<span id="pricerange"></span></p> 
+                <button onclick="showDiv33()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/33.JPG">
+            </div>
+        </div>
+        <div id="up34" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Aviators</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Zenni</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="45" class="slider">
+                <p>Price:$45<span id="pricerange"></span></p> 
+                <button onclick="showDiv34()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/34.JPG">
+            </div>
+        </div>
+        <div id="up35" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Ray-Ban</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv34()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/35.JPG">
+            </div>
+        </div>
+        <div id="up36" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Gas-station</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="12" class="slider">
+                <p>Price:$12<span id="pricerange"></span></p> 
+                <button onclick="showDiv36()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/36.JPG">
+            </div>
+        </div>
+        <div id="up37" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Ray-Ban</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv37()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/37.JPG">
+            </div>
+        </div>
+        <div id="up38" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Ray-Ban</div>
+                <div class="inputcolor" id="inputcolor">Color: gray</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:null<span id="pricerange"></span></p> 
+                <button onclick="showDiv38()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/38.JPG">
+            </div>
+        </div>
+        <div id="up39" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Round</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Warby Parker</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="120" class="slider">
+                <p>Price:$120<span id="pricerange"></span></p> 
+                <button onclick="showDiv39()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/39.JPG">
+            </div>
+        </div>
+        <div id="up40" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Marshals</div>
+                <div class="inputcolor" id="inputcolor">Color: blue</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="5" class="slider">
+                <p>Price:$5<span id="pricerange"></span></p> 
+                <button onclick="showDiv40()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/40.JPG">
+            </div>
+        </div>
+        <div id="up41" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Target</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="15" class="slider">
+                <p>Price:$15<span id="pricerange"></span></p> 
+                <button onclick="showDiv41()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/41.JPG">
+            </div>
+        </div>
+        <div id="up42" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Gas station</div>
+                <div class="inputcolor" id="inputcolor">Color: beige</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="5" class="slider">
+                <p>Price:$5<span id="pricerange"></span></p> 
+                <button onclick="showDiv42()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/42.JPG">
+            </div>
+        </div>
+        <div id="up43" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Geometric, Oversized</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Free People</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="20" class="slider">
+                <p>Price:$20<span id="pricerange"></span></p> 
+                <button onclick="showDiv43()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/43.JPG">
+            </div>
+        </div>
+        <div id="up44" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Round</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: TJMaxx</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="10" class="slider">
+                <p>Price:$10<span id="pricerange"></span></p>
+                <button onclick="showDiv44()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/44.JPG">
+            </div>
+        </div>
+        <div id="up45" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Lenscrafters</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="250" class="slider">
+                <p>Price:$250<span id="pricerange"></span></p> 
+                <button onclick="showDiv45()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/45.JPG">
+            </div>
+        </div>
+        <div id="up46" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Aviators</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Tom Ford</div>
+                <div class="inputcolor" id="inputcolor">Color: gray</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="500" class="slider">
+                <p>Price:$500<span id="pricerange"></span></p> 
+                <button onclick="showDiv46()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/46.JPG">
+            </div>
+        </div>
+        <div id="up47" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Warby Parker</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="150" class="slider">
+                <p>Price:$150<span id="pricerange"></span></p> 
+                <button onclick="showDiv47()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/47.JPG">
+            </div>
+        </div>
+        <div id="up48" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square, Cateye</div>
+                <div class="inputlocation" id="inputlocation">Location: SoHo</div>
+                <div class="inputfrom" id="inputfrom">From: Target</div>
+                <div class="inputcolor" id="inputcolor">Color: Beige</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="15" class="slider">
+                <p>Price:$15<span id="pricerange"></span></p> 
+                <button onclick="showDiv48()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/48.JPG">
+            </div>
+        </div>
+        <div id="up49" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: SoHo</div>
+                <div class="inputfrom" id="inputfrom">From: null</div>
+                <div class="inputcolor" id="inputcolor">Color: black</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="30" class="slider">
+                <p>Price:$30<span id="pricerange"></span></p> 
+                <button onclick="showDiv49()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/49.JPG">
+            </div>
+        </div>
+        <div id="up50" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Round</div>
+                <div class="inputlocation" id="inputlocation">Location: SoHo</div>
+                <div class="inputfrom" id="inputfrom">From: EyebyDirect</div>
+                <div class="inputcolor" id="inputcolor">Color: green</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="55" class="slider">
+                <p>Price:$55<span id="pricerange"></span></p> 
+                <button onclick="showDiv50()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/50.JPG">
+            </div>
+        </div>
+        <div id="up51" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Round</div>
+                <div class="inputlocation" id="inputlocation">Location: SoHo</div>
+                <div class="inputfrom" id="inputfrom">From: EyebyDirect</div>
+                <div class="inputcolor" id="inputcolor">Color: purple</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="70" class="slider">
+                <p>Price:$70<span id="pricerange"></span></p> 
+                <button onclick="showDiv51()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/51.JPG">
+            </div>
+        </div>
+        <div id="up52" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Prada</div>
+                <div class="inputcolor" id="inputcolor">Color: white</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="320" class="slider">
+                <p>Price:$320<span id="pricerange"></span></p> 
+                <button onclick="showDiv52()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/52.JPG">
+            </div>
+        </div>
+        <div id="up53" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Amazon</div>
+                <div class="inputcolor" id="inputcolor">Color: green</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="20" class="slider">
+                <p>Price:$20<span id="pricerange"></span></p> 
+                <button onclick="showDiv53()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/53.JPG">
+            </div>
+        </div>
+        <div id="up54" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Square, Keyhole Bridge</div>
+                <div class="inputlocation" id="inputlocation">Location: Greenwich Village</div>
+                <div class="inputfrom" id="inputfrom">From: Urban Outfitters</div>
+                <div class="inputcolor" id="inputcolor">Color: orange</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="20" class="slider">
+                <p>Price:$20<span id="pricerange"></span></p> 
+                <button onclick="showDiv54()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/54.JPG">
+            </div>
+        </div>
+        <div id="up55" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: prescription</div>
+                <div class="inputcolor" id="inputcolor">Color: brown</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="700" class="slider">
+                <p>Price:$700<span id="pricerange"></span></p> 
+                <button onclick="showDiv55()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/55.JPG">
+            </div>
+        </div>
+        <div id="up56" class="showup">
+            <div class="textarea">
+                <div class="inputshape" id="inputshape">Shape: Rectangle</div>
+                <div class="inputlocation" id="inputlocation">Location: Upper East Side</div>
+                <div class="inputfrom" id="inputfrom">From: Local Store</div>
+                <div class="inputcolor" id="inputcolor">Color: purple</div>
+                <input id="sliderrange" type="range" min="4" max="700" value="null" class="slider">
+                <p>Price:"a fortune!"<span id="pricerange"></span></p> 
+                <button onclick="showDiv56()" class="backbtn"><img src="icons/Vector7.png"></button>
+                <!-- <button class="guess">Guess</button> -->
+                <img class="imgarea" height="645px" width="430px" src="imgs/56.JPG">
+            </div>
         </div>
         <div class="snaps">
-            <div><img id="1" onclick="addDiv()" class="snap" height="350px" src="imgs/1.JPG"></div>
-            <div><img id="2" onclick="showDiv()" class="snap" height="350px" src="imgs/2.JPG"></div>
-            <div><img id="3" class="snap" height="350px" src="imgs/52.JPG"></div>
-            <div><img id="4" class="snap" height="350px" src="imgs/4.JPG"></div>
-            <div><img id="5" class="snap" height="350px" src="imgs/5.JPG"></div>
-            <div><img id="6" class="snap" height="350px" src="imgs/6.JPG"></div>
-            <div><img id="7" class="snap" height="350px" src="imgs/7.JPG"></div>
+            <div><img id="1" onclick="showDiv1()" class="snap" height="350px" src="imgs/1.JPG"></div>
+            <div><img id="2" onclick="showDiv2();showContent2()" class="snap" height="350px" src="imgs/2.JPG"></div>
+            <div><img id="52" onclick="showDiv52()" class="snap" height="350px" src="imgs/52.JPG"></div>
+            <div><img id="4" onclick="showDiv4()" class="snap" height="350px" src="imgs/4.JPG"></div>
+            <div><img id="5" onclick="showDiv5()" class="snap" height="350px" src="imgs/5.JPG"></div>
+            <div><img id="6" onclick="showDiv6()" class="snap" height="350px" src="imgs/6.JPG"></div>
+            <div><img id="7" onclick="showDiv7()" class="snap" height="350px" src="imgs/7.JPG"></div>
         </div>
         <div class="snaps">
-            <div><img id="8" class="snap" height="350px" src="imgs/8.JPG"></div>
-            <div><img id="9" class="snap" height="350px" src="imgs/9.JPG"></div>
-            <div><img id="10" class="snap" height="350px" src="imgs/10.JPG"></div>
-            <div><img id="11" class="snap" height="350px" src="imgs/11.JPG"></div>
-            <div><img id="12" class="snap" height="350px" src="imgs/12.JPG"></div>
-            <div><img id="13" class="snap" height="350px" src="imgs/13.JPG"></div>
-            <div><img id="14" class="snap" height="350px" src="imgs/14.JPG"></div>
+            <div><img id="8" onclick="showDiv8()" class="snap" height="350px" src="imgs/8.JPG"></div>
+            <div><img id="9" onclick="showDiv9()" class="snap" height="350px" src="imgs/9.JPG"></div>
+            <div><img id="10" onclick="showDiv10()" class="snap" height="350px" src="imgs/10.JPG"></div>
+            <div><img id="11" onclick="showDiv11()" class="snap" height="350px" src="imgs/11.JPG"></div>
+            <div><img id="12" onclick="showDiv12()" class="snap" height="350px" src="imgs/12.JPG"></div>
+            <div><img id="13" onclick="showDiv13()" class="snap" height="350px" src="imgs/13.JPG"></div>
+            <div><img id="14" onclick="showDiv14()" class="snap" height="350px" src="imgs/14.JPG"></div>
         </div>
         <div class="snaps">
-            <div><img id="15" class="snap" height="350px" src="imgs/15.JPG"></div>
-            <div><img id="16" class="snap" height="350px" src="imgs/16.JPG"></div>
-            <div><img id="17" class="snap" height="350px" src="imgs/17.JPG"></div>
-            <div><img id="18" class="snap" height="350px" src="imgs/18.JPG"></div>
-            <div><img id="19" class="snap" height="350px" src="imgs/19.JPG"></div>
-            <div><img id="20" class="snap" height="350px" src="imgs/20.JPG"></div>
-            <div><img id="21" class="snap" height="350px" src="imgs/21.JPG"></div>
+            <div><img id="15" onclick="showDiv15()" class="snap" height="350px" src="imgs/15.JPG"></div>
+            <div><img id="16" onclick="showDiv16()" class="snap" height="350px" src="imgs/16.JPG"></div>
+            <div><img id="17" onclick="showDiv17()" class="snap" height="350px" src="imgs/17.JPG"></div>
+            <div><img id="18" onclick="showDiv18()" class="snap" height="350px" src="imgs/18.JPG"></div>
+            <div><img id="19" onclick="showDiv19()" class="snap" height="350px" src="imgs/19.JPG"></div>
+            <div><img id="20" onclick="showDiv20()" class="snap" height="350px" src="imgs/20.JPG"></div>
+            <div><img id="21" onclick="showDiv21()" class="snap" height="350px" src="imgs/21.JPG"></div>
         </div>
         <div class="snaps">
-            <div><img id="22" class="snap" height="350px" src="imgs/22.JPG"></div>
-            <div><img id="23" class="snap" height="350px" src="imgs/23.JPG"></div>
-            <div><img id="24" class="snap" height="350px" src="imgs/24.JPG"></div>
-            <div><img id="25" class="snap" height="350px" src="imgs/25.JPG"></div>
-            <div><img id="26" class="snap" height="350px" src="imgs/26.JPG"></div>
-            <div><img id="27" class="snap" height="350px" src="imgs/27.JPG"></div>
-            <div><img id="28" class="snap" height="350px" src="imgs/28.JPG"></div>
+            <div><img id="22" onclick="showDiv22()" class="snap" height="350px" src="imgs/22.JPG"></div>
+            <div><img id="23" onclick="showDiv23()" class="snap" height="350px" src="imgs/23.JPG"></div>
+            <div><img id="24" onclick="showDiv24()" class="snap" height="350px" src="imgs/24.JPG"></div>
+            <div><img id="25" onclick="showDiv25()" class="snap" height="350px" src="imgs/25.JPG"></div>
+            <div><img id="26" onclick="showDiv26()" class="snap" height="350px" src="imgs/26.JPG"></div>
+            <div><img id="27" onclick="showDiv27()" class="snap" height="350px" src="imgs/27.JPG"></div>
+            <div><img id="28" onclick="showDiv28()" class="snap" height="350px" src="imgs/28.JPG"></div>
         </div>
-        <marquee class="marq2">IT'S SUNNY IN NYC</marquee>
+        <marquee class="marq2" onmouseover="this.stop();"
+        onmouseout="this.start();" class="marq2">IT'S SUNNY IN NYC  <svg class="sunnymarq" width="98" height="36" viewBox="0 0 98 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M1.10061 9.80212C-0.610755 -2.84173 19.9257 -0.20438 31.0496 1.32151C47.7354 3.61037 48.5911 25.2214 31.9052 33.7021C15.2194 42.1827 3.23982 25.6069 1.10061 9.80212Z" stroke="black"/>
+            <path d="M4.08657 11.4407C2.614 0.552958 20.2849 2.82401 29.8566 4.13797C44.2142 6.10893 44.9505 24.7185 30.5929 32.0212C16.2353 39.324 5.92729 25.0504 4.08657 11.4407Z" stroke="black"/>
+            <path d="M96.8994 9.80212C98.6108 -2.84173 78.0743 -0.20438 66.9504 1.32151C50.2646 3.61037 49.4089 25.2214 66.0948 33.7021C82.7806 42.1827 94.7602 25.6069 96.8994 9.80212Z" stroke="black"/>
+            <path d="M93.9134 11.4407C95.386 0.552958 77.7151 2.82401 68.1434 4.13797C53.7858 6.10893 53.0495 24.7185 67.4071 32.0212C81.7647 39.324 92.0727 25.0504 93.9134 11.4407Z" stroke="black"/>
+            <path d="M44 13C46.5 12.3334 52 11.4 54 13" stroke="black"/>
+            <path d="M42 9.5C44.8333 8.33334 51.6 6.7 56 9.5" stroke="black"/>
+        </svg></marquee>
         <div class="snaps">
-            <div><img id="29" class="snap" height="350px" src="imgs/29.JPG"></div>
-            <div><img id="30" class="snap" height="350px" src="imgs/30.JPG"></div>
-            <div><img id="31" class="snap" height="350px" src="imgs/31.JPG"></div>
-            <div><img id="32" class="snap" height="350px" src="imgs/32.JPG"></div>
-            <div><img id="33" class="snap" height="350px" src="imgs/33.JPG"></div>
-            <div><img id="34" class="snap" height="350px" src="imgs/34.JPG"></div>
-            <div><img id="35" class="snap" height="350px" src="imgs/53.JPG"></div>
-        </div>
-        <div class="snaps">
-            <div><img id="36" class="snap" height="350px" src="imgs/36.JPG"></div>
-            <div><img id="37" class="snap" height="350px" src="imgs/37.JPG"></div>
-            <div><img id="38" class="snap" height="350px" src="imgs/38.JPG"></div>
-            <div><img id="39" class="snap" height="350px" src="imgs/39.JPG"></div>
-            <div><img id="40" class="snap" height="350px" src="imgs/40.JPG"></div>
-            <div><img id="41" class="snap" height="350px" src="imgs/41.JPG"></div>
-            <div><img id="42" class="snap" height="350px" src="imgs/42.JPG"></div>
-        </div>
-        <div class="snaps">
-            <div><img id="43" class="snap" height="350px" src="imgs/43.JPG"></div>
-            <div><img id="44" class="snap" height="350px" src="imgs/44.JPG"></div>
-            <div><img id="45" class="snap" height="350px" src="imgs/45.JPG"></div>
-            <div><img id="46" class="snap" height="350px" src="imgs/46.JPG"></div>
-            <div><img id="47" class="snap" height="350px" src="imgs/47.JPG"></div>
-            <div><img id="48" class="snap" height="350px" src="imgs/48.JPG"></div>
-            <div><img id="49" class="snap" height="350px" src="imgs/49.JPG"></div>
+            <div><img id="29" onclick="showDiv29()" class="snap" height="350px" src="imgs/29.JPG"></div>
+            <div><img id="30" onclick="showDiv30()" class="snap" height="350px" src="imgs/30.JPG"></div>
+            <div><img id="31" onclick="showDiv31()" class="snap" height="350px" src="imgs/31.JPG"></div>
+            <div><img id="32" onclick="showDiv32()" class="snap" height="350px" src="imgs/32.JPG"></div>
+            <div><img id="33" onclick="showDiv33()" class="snap" height="350px" src="imgs/33.JPG"></div>
+            <div><img id="34" onclick="showDiv34()" class="snap" height="350px" src="imgs/34.JPG"></div>
+            <div><img id="53" onclick="showDiv53()" class="snap" height="350px" src="imgs/53.JPG"></div>
         </div>
         <div class="snaps">
-            <div><img id="50" class="snap" height="350px" src="imgs/50.JPG"></div>
-            <div><img id="51" class="snap" height="350px" src="imgs/51.JPG"></div>
-            <div><img id="52" class="snap" height="350px" src="imgs/3.JPG"></div>
-            <div><img id="53" class="snap" height="350px" src="imgs/35.JPG"></div>
-            <div><img id="54" class="snap" height="350px" src="imgs/54.JPG"></div>
-            <div><img id="55" class="snap" height="350px" src="imgs/55.JPG"></div>
-            <div><img id="56" class="snap" height="350px" src="imgs/56.JPG"></div>
+            <div><img id="36" onclick="showDiv36()" class="snap" height="350px" src="imgs/36.JPG"></div>
+            <div><img id="37" onclick="showDiv37()" class="snap" height="350px" src="imgs/37.JPG"></div>
+            <div><img id="38" onclick="showDiv38()" class="snap" height="350px" src="imgs/38.JPG"></div>
+            <div><img id="39" onclick="showDiv39()" class="snap" height="350px" src="imgs/39.JPG"></div>
+            <div><img id="40" onclick="showDiv40()" class="snap" height="350px" src="imgs/40.JPG"></div>
+            <div><img id="41" onclick="showDiv41()" class="snap" height="350px" src="imgs/41.JPG"></div>
+            <div><img id="42" onclick="showDiv42()" class="snap" height="350px" src="imgs/42.JPG"></div>
+        </div>
+        <div class="snaps">
+            <div><img id="43" onclick="showDiv43()" class="snap" height="350px" src="imgs/43.JPG"></div>
+            <div><img id="44" onclick="showDiv44()" class="snap" height="350px" src="imgs/44.JPG"></div>
+            <div><img id="45" onclick="showDiv45()" class="snap" height="350px" src="imgs/45.JPG"></div>
+            <div><img id="46" onclick="showDiv46()" class="snap" height="350px" src="imgs/46.JPG"></div>
+            <div><img id="47" onclick="showDiv47()" class="snap" height="350px" src="imgs/47.JPG"></div>
+            <div><img id="48" onclick="showDiv48()" class="snap" height="350px" src="imgs/48.JPG"></div>
+            <div><img id="49" onclick="showDiv49()" class="snap" height="350px" src="imgs/49.JPG"></div>
+        </div>
+        <div class="snaps">
+            <div><img id="50" onclick="showDiv50()" class="snap" height="350px" src="imgs/50.JPG"></div>
+            <div><img id="51" onclick="showDiv51()" class="snap" height="350px" src="imgs/51.JPG"></div>
+            <div><img id="3" onclick="showDiv3()" class="snap" height="350px" src="imgs/3.JPG"></div>
+            <div><img id="35" onclick="showDiv35()" class="snap" height="350px" src="imgs/35.JPG"></div>
+            <div><img id="54" onclick="showDiv54()" class="snap" height="350px" src="imgs/54.JPG"></div>
+            <div><img id="55" onclick="showDiv55()" class="snap" height="350px" src="imgs/55.JPG"></div>
+            <div><img id="56" onclick="showDiv56()" class="snap" height="350px" src="imgs/56.JPG"></div>
         </div>
 
         <script src="main.js" type="text/javascript"></script>

@@ -239,22 +239,23 @@ font-weight: 800;
 font-size: 40px;
 line-height: 42px;
 color: rgba(146, 189, 255, 0.62);
-outline: #000000;
-border: 2px solid rgba(0, 0, 0, 0.85);
+-webkit-text-stroke: 2px black;
   }
 
-  #hi{
+  #up1,#up2,#up3,#up4,#up5,#up6,#up7,#up8,#up9,#up10,#up11,#up12,#up13,#up14,#up15,#up16,#up17,#up18,#up19,#up20,#up21,#up22,#up23,#up24,#up25,#up26,#up27,#up28,#up29,#up30,#up31,#up32,#up33,#up34,#up35,#up36,#up37,#up38,#up39,#up40,#up41,#up42,#up43,#up44,#up45,#up46,#up47,#up48,#up49,#up50,#up51,#up52,#up53,#up54,#up54,#up55,#up56{
     display: none;
   }
 
 .showup{
-    height: 645px;
-    width: 1120px;
-    display: flex;
+    /* height: 645px; */
+    /* width: 1120px; */
+    display: inline-flex;
+    flex-direction: column;
     z-index: 3;
     position: sticky;
-    top: 200px;
+    top: 50px;
     left: 100px;
+    margin-left: 300px;
   }
 
   .textarea{
@@ -264,6 +265,8 @@ border: 2px solid rgba(0, 0, 0, 0.85);
     border: 4px solid #000000;;
     border-radius: 30px;
     margin-right: 40px;
+    padding: 50px;
+    font-size: 30px;
   }
 
   .imgarea{
@@ -272,6 +275,8 @@ border: 2px solid rgba(0, 0, 0, 0.85);
     width: 430px;
     border: 4px solid #000000;
     border-radius: 30px;
+    margin-left: 300px;
+    margin-top: 0px;
   }
 
  
@@ -297,14 +302,14 @@ border: 2px solid rgba(0, 0, 0, 0.85);
     border-radius: 15px;
     width: 25px;
     height: 25px;
-    background: #AFFFA8;
+    background: #F3A8FF;
     cursor: pointer;
   }
   
   .slider::-moz-range-thumb {
     width: 25px;
     height: 25px;
-    background: #AFFFA8;
+    background: #F3A8FF;
     cursor: pointer;
   }
 
@@ -360,6 +365,7 @@ a:visited{
 
 .subcategories{
     display: flex;
+    max-width: 1400px;
 }
 
 .mapicon{
@@ -404,4 +410,117 @@ a:visited{
 
 .opacity{
     opacity: 0.5;
+}
+
+#shapesubcategorie{
+    display: none;
+}
+
+.shapesub{
+    display: inline-flex;
+    height: 80px;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    margin-left: 110px;
+}
+
+.shapesubtxt{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+}
+
+.shapesubtxt:hover{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+.shapesubtxt:active{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+    background-color: #AFFFA8;
+}
+
+#fromsubcategorie{
+    display: none;
+}
+
+.fromsub{
+    display: inline-flex;
+    height: 80px;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    margin-left: 110px;
+}
+
+.fromsubtxt{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+}
+
+.fromsubtxt:hover{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+.fromsubtxt:active{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+    background-color: #AFFFA8;
+}
+
+#colorsubcategorie{
+    display: none;
+}
+
+.colorsub{
+    display: inline-flex;
+    height: 80px;
+    font-size: 20px;
+    background-color: transparent;
+    border: none;
+    margin-left: 110px;
+}
+
+.colorsubtxt{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+}
+
+.colorsubtxt:hover{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+.colorsubtxt:visited{
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+	color: #000000;
+    margin-left: 10px;
+    background-color: #AFFFA8;
+}
+
+.clickedBtn{
+    background-color: #AFFFA8;
+    fill: #AFFFA8;
 }

@@ -2,69 +2,87 @@ console.log("Hey Nika!");
 
 
 
-[sunglasses =
+const sunglasses =[
 	{
-		"shape":["Square","Keyhole Bridge"],
-		"location":"Greenwich Village",
-		"from":"Urban Outfitters",
-		"price":20,
-		"img":"imgs/54.JPG"
+		id:54,
+		shape:["Square","Keyhole Bridge"],
+		location:"Greenwich Village",
+		from:["Urban Outfitters","Other brands"],
+		price:20,
+		color:"orange",
+		img:"imgs/54.JPG"
 	},
 	{
-		"shape":"Oversized",
-		"location":"Greenwich Village",
-		"from":"Free People",
-		"price":20,
-		"img":"imgs/1.JPG"
+		id:1,
+		shape:"Oversized",
+		location:"Greenwich Village",
+		from:"Free People",
+		price:20,
+		color:"yellow",
+		img:"imgs/1.JPG"
 	},
 	{
-		"shape":["Oval","Carolyn Bessette"],
-		"location":"Greenwich Village",
-		"from":"Hand-made in France",
-		"price":300,
-		"img":"imgs/2.JPG"
+		id:2,
+		shape:["Oval","Carolyn Bessette"],
+		location:"Greenwich Village",
+		from:["Hand-made in France","Specific country"],
+		price:300,
+		color:"black",
+		img:"imgs/2.JPG"
 	},
 	{
-		"shape":["Round","Keyhole Bridge"],
-		"location":"Greenwich Village",
-		"from":"Barcelona",
-		"price":210,
-		"img":"imgs/3.JPG"
+		id:3,
+		shape:["Round","Keyhole Bridge"],
+		location:"Greenwich Village",
+		from:["Barcelona","Specific country"],
+		price:210,
+		color:"yellow",
+		img:"imgs/3.JPG"
 	},
 	{
-		"shape":"Oversized",
-		"location":"Greenwich Village",
-		"from":"the pharmacy",
-		"price":15,
-		"img":"imgs/4.JPG"
+		id:4,
+		shape:"Oversized",
+		location:"Greenwich Village",
+		from:"the pharmacy",
+		price:15,
+		color:"black",
+		img:"imgs/4.JPG"
 	},
 	{
-		"shape":["Oval","Carolyn Bessette"],
-		"location":"Greenwich Village",
-		"from":"Hand-made in France",
-		"price":null,
-		"img":"imgs/5.JPG"
+		id:5,
+		shape:["Rectangle","Keyhole Bridge"],
+		location:"Greenwich Village",
+		from:"Rayban",
+		price:null,
+		color:"black",
+		img:"imgs/5.JPG"
 	},
 	{
-		"shape":"Aviators",
-		"location":"Greenwich Village",
-		"from":"Amazon",
-		"price":40,
-		"img":"imgs/6.JPG"
+		id:6,
+		shape:"Aviators",
+		location:"Greenwich Village",
+		from:"Amazon",
+		price:40,
+		color:"red",
+		img:"imgs/6.JPG"
 	},
 	{
-		"shape":"Oval",
-		"location":"Greenwich Village",
-		"from":"ASOS",
-		"price":9,
-		"img":"imgs/7.JPG"
+		id:7,
+		shape:"Oval",
+		location:"Greenwich Village",
+		from:"ASOS",
+		price:9,
+		color:"brown",
+		img:"imgs/7.JPG"
 	},
 	{
-		"shape":["Oversized","Geometric"],
-		"location":"Greenwich Village",
-		"from":"Bermuda",
-		"price":20,
-		"img":"imgs/8.JPG"
+		id:8,
+		shape:["Oversized","Geometric"],
+		location:"Greenwich Village",
+		from:"Bermuda",
+		price:20,
+		color:"black",
+		img:"imgs/8.JPG"
 	},
 	{
 		"shape":["Square","Cateye"],
@@ -165,7 +183,7 @@ console.log("Hey Nika!");
         "img":"imgs/22.JPG"
 	},
 	{
-		"shape":"Oversized",
+		"shape":"Visor",
 		"location":"Greenwich Village",
 		"from":"Quay",
 		"price":null,
@@ -390,6 +408,9 @@ console.log("Hey Nika!");
 	}
 ]
 
+console.log(sunglasses);
+console.log(sunglasses[3]);
+
 // document.img.onload = addDiv();
 // function addDiv(){
 //   const newDiv = document.createElement("div");
@@ -411,8 +432,8 @@ document.body.appendChild(div);
 }
 
 
-function showDiv(){
-    var x = document.getElementById("hi");
+function showDiv1(){
+    var x = document.getElementById("up1");
     if (x.style.display === "block") {
       x.style.display = "none";
     } else {
@@ -420,12 +441,519 @@ function showDiv(){
     }
 }
 
-let slider = document.getElementById("sliderrange");
-let output = document.getElementById("pricerange");
-output.innerHTML = slider.value;
+function showDiv2(){
+    var x = document.getElementById("up2");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
 
-slider.oninput = function() {
-  output.innerHTML = this.value;
+function showDiv3(){
+    var x = document.getElementById("up3");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv4(){
+    var x = document.getElementById("up4");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv5(){
+    var x = document.getElementById("up5");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv6(){
+    var x = document.getElementById("up6");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv7(){
+    var x = document.getElementById("up7");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv8(){
+    var x = document.getElementById("up8");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv9(){
+    var x = document.getElementById("up9");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv10(){
+    var x = document.getElementById("up10");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv11(){
+    var x = document.getElementById("up11");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv12(){
+    var x = document.getElementById("up12");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv13(){
+    var x = document.getElementById("up13");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv14(){
+    var x = document.getElementById("up14");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv15(){
+    var x = document.getElementById("up15");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv16(){
+    var x = document.getElementById("up16");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv17(){
+    var x = document.getElementById("up17");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv18(){
+    var x = document.getElementById("up18");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv19(){
+    var x = document.getElementById("up19");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv20(){
+    var x = document.getElementById("up20");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv21(){
+    var x = document.getElementById("up21");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv22(){
+    var x = document.getElementById("up22");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv23(){
+    var x = document.getElementById("up23");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv24(){
+    var x = document.getElementById("up24");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv25(){
+    var x = document.getElementById("up25");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv26(){
+    var x = document.getElementById("up26");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv27(){
+    var x = document.getElementById("up27");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv28(){
+    var x = document.getElementById("up28");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv29(){
+    var x = document.getElementById("up29");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv30(){
+    var x = document.getElementById("up30");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv31(){
+    var x = document.getElementById("up31");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv32(){
+    var x = document.getElementById("up32");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv33(){
+    var x = document.getElementById("up33");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv34(){
+    var x = document.getElementById("up34");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv35(){
+    var x = document.getElementById("up35");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv36(){
+    var x = document.getElementById("up36");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv37(){
+    var x = document.getElementById("up37");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv38(){
+    var x = document.getElementById("up38");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv39(){
+    var x = document.getElementById("up39");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv40(){
+    var x = document.getElementById("up40");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv41(){
+    var x = document.getElementById("up41");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv42(){
+    var x = document.getElementById("up42");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv43(){
+    var x = document.getElementById("up43");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv44(){
+    var x = document.getElementById("up44");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv45(){
+    var x = document.getElementById("up45");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv46(){
+    var x = document.getElementById("up46");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv47(){
+    var x = document.getElementById("up47");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv48(){
+    var x = document.getElementById("up48");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv49(){
+    var x = document.getElementById("up49");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv50(){
+    var x = document.getElementById("up50");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv51(){
+    var x = document.getElementById("up51");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv52(){
+    var x = document.getElementById("up52");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv53(){
+    var x = document.getElementById("up53");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv54(){
+    var x = document.getElementById("up54");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv55(){
+    var x = document.getElementById("up55");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showDiv56(){
+    var x = document.getElementById("up56");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+const showup = document.getElementsByClassName('showup')[0];
+console.log(showup);
+
+// function showContent(){
+// sunglasses.forEach((sunglasses, index) => {
+// 	let itemP = document.createElement('P');
+// 	let itemPText = document.createTextNode(`Shape:$${sunglasses.shape}`);
+// 	itemP.appendChild(itemPText);
+// 	showup.appendChild(itemP);
+// })
+// }
+
+let slider2 = document.getElementById("sliderrange2");
+let output2 = document.getElementById("pricerange2");
+output2.innerHTML = slider1.value;
+
+slider2.oninput = function() {
+  output2.innerHTML = this.value;
 }
 
 function showLocationCategory(){
@@ -436,8 +964,35 @@ function showLocationCategory(){
       x.style.display = "block";
     }
 }
+
+function showShapeCategory(){
+	var x = document.getElementById("shapesubcategorie");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showFromCategory(){
+	var x = document.getElementById("fromsubcategorie");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
+
+function showColorCategory(){
+	var x = document.getElementById("colorsubcategorie");
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+    }
+}
 	
-function reduceOpacity(){	
+function reduceOpacity(){
 document.getElementById('1').classList.toggle('opacity');
 document.getElementById('2').classList.toggle('opacity');
 document.getElementById('3').classList.toggle('opacity');
@@ -494,8 +1049,8 @@ document.getElementById('53').classList.toggle('opacity');
 document.getElementById('54').classList.toggle('opacity');
 document.getElementById('55').classList.toggle('opacity');
 document.getElementById('56').classList.toggle('opacity');
-
 }
+
 
 
 // function addCategory(){
@@ -539,3 +1094,393 @@ document.getElementById('56').classList.toggle('opacity');
 // function reduceOpacity(){
 // 	document.getElementsByClassName('.snap').classList.toggle('opacity');
 // }
+
+function clickedBtnAmazon(){
+	let amazon = document.getElementbyId('amazon');
+	amazon.classList.toggle('clickedBtn');
+}
+
+function clickedBtnLocation(){
+	let location = document.getElementbyId('location');
+	location.classList.toggle('clickedBtn');
+}
+
+function greenwichVillage(){
+	document.getElementById('1').classList.toggle('opacity');
+	document.getElementById('2').classList.toggle('opacity');
+	document.getElementById('3').classList.toggle('opacity');
+	document.getElementById('4').classList.toggle('opacity');
+	document.getElementById('5').classList.toggle('opacity');
+	document.getElementById('6').classList.toggle('opacity');
+	document.getElementById('7').classList.toggle('opacity');
+	document.getElementById('8').classList.toggle('opacity');
+	document.getElementById('9').classList.toggle('opacity');
+	document.getElementById('10').classList.toggle('opacity');
+	document.getElementById('11').classList.toggle('opacity');
+	document.getElementById('12').classList.toggle('opacity');
+	document.getElementById('13').classList.toggle('opacity');
+	document.getElementById('14').classList.toggle('opacity');
+	document.getElementById('15').classList.toggle('opacity');
+	document.getElementById('16').classList.toggle('opacity');
+	document.getElementById('17').classList.toggle('opacity');
+	document.getElementById('18').classList.toggle('opacity');
+	document.getElementById('19').classList.toggle('opacity');
+	document.getElementById('20').classList.toggle('opacity');
+	document.getElementById('21').classList.toggle('opacity');
+	document.getElementById('22').classList.toggle('opacity');
+	document.getElementById('23').classList.toggle('opacity');
+	document.getElementById('24').classList.toggle('opacity');
+	document.getElementById('25').classList.toggle('opacity');
+	document.getElementById('26').classList.toggle('opacity');
+	document.getElementById('27').classList.toggle('opacity');
+	document.getElementById('52').classList.toggle('opacity');
+	document.getElementById('54').classList.toggle('opacity');
+}
+
+function upperEastSide(){
+	document.getElementById('28').classList.toggle('opacity');
+	document.getElementById('29').classList.toggle('opacity');
+	document.getElementById('30').classList.toggle('opacity');
+	document.getElementById('31').classList.toggle('opacity');
+	document.getElementById('32').classList.toggle('opacity');
+	document.getElementById('33').classList.toggle('opacity');
+	document.getElementById('34').classList.toggle('opacity');
+	document.getElementById('35').classList.toggle('opacity');
+	document.getElementById('36').classList.toggle('opacity');
+	document.getElementById('37').classList.toggle('opacity');
+	document.getElementById('38').classList.toggle('opacity');
+	document.getElementById('39').classList.toggle('opacity');
+	document.getElementById('40').classList.toggle('opacity');
+	document.getElementById('41').classList.toggle('opacity');
+	document.getElementById('42').classList.toggle('opacity');
+	document.getElementById('43').classList.toggle('opacity');
+	document.getElementById('44').classList.toggle('opacity');
+	document.getElementById('45').classList.toggle('opacity');
+	document.getElementById('46').classList.toggle('opacity');
+	document.getElementById('47').classList.toggle('opacity');
+	document.getElementById('48').classList.toggle('opacity');
+	document.getElementById('49').classList.toggle('opacity');
+	document.getElementById('50').classList.toggle('opacity');
+	document.getElementById('51').classList.toggle('opacity');
+	document.getElementById('53').classList.toggle('opacity');
+	document.getElementById('54').classList.toggle('opacity');
+}
+
+function upperEastSide(){
+	document.getElementById('28').classList.toggle('opacity');
+	document.getElementById('29').classList.toggle('opacity');
+	document.getElementById('30').classList.toggle('opacity');
+	document.getElementById('31').classList.toggle('opacity');
+	document.getElementById('32').classList.toggle('opacity');
+	document.getElementById('33').classList.toggle('opacity');
+	document.getElementById('34').classList.toggle('opacity');
+	document.getElementById('35').classList.toggle('opacity');
+	document.getElementById('36').classList.toggle('opacity');
+	document.getElementById('37').classList.toggle('opacity');
+	document.getElementById('38').classList.toggle('opacity');
+	document.getElementById('39').classList.toggle('opacity');
+	document.getElementById('40').classList.toggle('opacity');
+	document.getElementById('41').classList.toggle('opacity');
+	document.getElementById('42').classList.toggle('opacity');
+	document.getElementById('43').classList.toggle('opacity');
+	document.getElementById('44').classList.toggle('opacity');
+	document.getElementById('45').classList.toggle('opacity');
+	document.getElementById('46').classList.toggle('opacity');
+	document.getElementById('47').classList.toggle('opacity');
+	document.getElementById('53').classList.toggle('opacity');
+	document.getElementById('55').classList.toggle('opacity');
+	document.getElementById('56').classList.toggle('opacity');
+}
+
+function soho(){
+	document.getElementById('48').classList.toggle('opacity');
+	document.getElementById('49').classList.toggle('opacity');
+	document.getElementById('50').classList.toggle('opacity');
+	document.getElementById('51').classList.toggle('opacity');
+}
+
+function square(){
+	document.getElementById('33').classList.toggle('opacity');
+	document.getElementById('9').classList.toggle('opacity');
+	document.getElementById('10').classList.toggle('opacity');
+	document.getElementById('24').classList.toggle('opacity');
+	document.getElementById('25').classList.toggle('opacity');
+	document.getElementById('26').classList.toggle('opacity');
+	document.getElementById('48').classList.toggle('opacity');
+	document.getElementById('36').classList.toggle('opacity');
+	document.getElementById('38').classList.toggle('opacity');
+	document.getElementById('39').classList.toggle('opacity');
+	document.getElementById('40').classList.toggle('opacity');
+	document.getElementById('41').classList.toggle('opacity');
+	document.getElementById('42').classList.toggle('opacity');
+	document.getElementById('37').classList.toggle('opacity');
+	document.getElementById('54').classList.toggle('opacity');
+}
+
+function keyholeBridge(){
+	document.getElementById('54').classList.toggle('opacity');
+	document.getElementById('3').classList.toggle('opacity');
+	document.getElementById('5').classList.toggle('opacity');
+	document.getElementById('24').classList.toggle('opacity');
+	document.getElementById('26').classList.toggle('opacity');
+}
+
+function oversized(){
+	document.getElementById('1').classList.toggle('opacity');
+	document.getElementById('4').classList.toggle('opacity');
+	document.getElementById('8').classList.toggle('opacity');
+	document.getElementById('16').classList.toggle('opacity');
+	document.getElementById('19').classList.toggle('opacity');
+	document.getElementById('43').classList.toggle('opacity');
+}
+
+function oval(){
+	document.getElementById('2').classList.toggle('opacity');
+	document.getElementById('7').classList.toggle('opacity');
+	document.getElementById('11').classList.toggle('opacity');
+	document.getElementById('14').classList.toggle('opacity');
+}
+
+function round(){
+	document.getElementById('3').classList.toggle('opacity');
+	document.getElementById('12').classList.toggle('opacity');
+	document.getElementById('15').classList.toggle('opacity');
+	document.getElementById('17').classList.toggle('opacity');
+	document.getElementById('31').classList.toggle('opacity');
+	document.getElementById('39').classList.toggle('opacity');
+	document.getElementById('44').classList.toggle('opacity');
+	document.getElementById('50').classList.toggle('opacity');
+	document.getElementById('51').classList.toggle('opacity');
+}
+
+function rectangle(){
+	document.getElementById('5').classList.toggle('opacity');
+	document.getElementById('18').classList.toggle('opacity');
+	document.getElementById('20').classList.toggle('opacity');
+	document.getElementById('52').classList.toggle('opacity');
+	document.getElementById('32').classList.toggle('opacity');
+	document.getElementById('35').classList.toggle('opacity');
+	document.getElementById('55').classList.toggle('opacity');
+	document.getElementById('56').classList.toggle('opacity');
+	document.getElementById('53').classList.toggle('opacity');
+	document.getElementById('49').classList.toggle('opacity');
+}
+
+function aviators(){
+	document.getElementById('6').classList.toggle('opacity');
+	document.getElementById('23').classList.toggle('opacity');
+	document.getElementById('30').classList.toggle('opacity');
+	document.getElementById('34').classList.toggle('opacity');
+	document.getElementById('46').classList.toggle('opacity');
+}
+
+function geometric(){
+	document.getElementById('16').classList.toggle('opacity');
+	document.getElementById('43').classList.toggle('opacity');
+	document.getElementById('8').classList.toggle('opacity');
+}
+
+function cateye(){
+	document.getElementById('9').classList.toggle('opacity');
+	document.getElementById('10').classList.toggle('opacity');
+	document.getElementById('13').classList.toggle('opacity');
+	document.getElementById('14').classList.toggle('opacity');
+	document.getElementById('27').classList.toggle('opacity');
+	document.getElementById('28').classList.toggle('opacity');
+	document.getElementById('29').classList.toggle('opacity');
+	document.getElementById('45').classList.toggle('opacity');
+	document.getElementById('47').classList.toggle('opacity');
+	document.getElementById('48').classList.toggle('opacity');
+}
+
+function clipOn(){
+	document.getElementById('22').classList.toggle('opacity');
+}
+
+function visor(){
+	document.getElementById('21').classList.toggle('opacity');
+}
+
+function amazon(){
+	document.getElementById('6').classList.toggle('opacity');
+	document.getElementById('28').classList.toggle('opacity');
+	document.getElementById('53').classList.toggle('opacity');
+}
+
+function freePeople(){
+	document.getElementById('1').classList.toggle('opacity');
+	document.getElementById('43').classList.toggle('opacity');
+}
+
+function specificCountry(){
+	document.getElementById('2').classList.toggle('opacity');
+	document.getElementById('3').classList.toggle('opacity');
+	document.getElementById('16').classList.toggle('opacity');
+	document.getElementById('18').classList.toggle('opacity');
+	document.getElementById('20').classList.toggle('opacity');
+	document.getElementById('30').classList.toggle('opacity');
+}
+
+function pharmacy(){
+	document.getElementById('4').classList.toggle('opacity');
+}
+
+function rayBan(){
+	document.getElementById('15').classList.toggle('opacity');
+	document.getElementById('23').classList.toggle('opacity');
+	document.getElementById('35').classList.toggle('opacity');
+	document.getElementById('37').classList.toggle('opacity');
+	document.getElementById('38').classList.toggle('opacity');
+}
+
+function warbyParker(){
+	document.getElementById('12').classList.toggle('opacity');
+	document.getElementById('39').classList.toggle('opacity');
+	document.getElementById('47').classList.toggle('opacity');
+}
+
+function prescription(){
+	document.getElementById('27').classList.toggle('opacity');
+	document.getElementById('55').classList.toggle('opacity');
+}
+
+function jCrew(){
+	document.getElementById('31').classList.toggle('opacity');
+	document.getElementById('17').classList.toggle('opacity');
+}
+
+function localStores(){
+	document.getElementById('13').classList.toggle('opacity');
+	document.getElementById('25').classList.toggle('opacity');
+	document.getElementById('32').classList.toggle('opacity');
+	document.getElementById('56').classList.toggle('opacity');
+	document.getElementById('49').classList.toggle('opacity');
+	
+}
+
+function gasStation(){
+	document.getElementById('42').classList.toggle('opacity');
+	document.getElementById('36').classList.toggle('opacity');
+}
+
+function otherBrands(){
+	document.getElementById('54').classList.toggle('opacity');
+	document.getElementById('7').classList.toggle('opacity');
+	document.getElementById('8').classList.toggle('opacity');
+	document.getElementById('9').classList.toggle('opacity');
+	document.getElementById('10').classList.toggle('opacity');
+	document.getElementById('11').classList.toggle('opacity');
+	document.getElementById('14').classList.toggle('opacity');
+	document.getElementById('19').classList.toggle('opacity');
+	document.getElementById('21').classList.toggle('opacity');
+	document.getElementById('22').classList.toggle('opacity');
+	document.getElementById('24').classList.toggle('opacity');
+	document.getElementById('26').classList.toggle('opacity');
+	document.getElementById('52').classList.toggle('opacity');
+	document.getElementById('29').classList.toggle('opacity');
+	document.getElementById('33').classList.toggle('opacity');
+	document.getElementById('34').classList.toggle('opacity');
+	document.getElementById('32').classList.toggle('opacity');
+	document.getElementById('40').classList.toggle('opacity');
+	document.getElementById('41').classList.toggle('opacity');
+	document.getElementById('44').classList.toggle('opacity');
+	document.getElementById('45').classList.toggle('opacity');
+	document.getElementById('46').classList.toggle('opacity');
+	document.getElementById('51').classList.toggle('opacity');
+	document.getElementById('50').classList.toggle('opacity');
+	document.getElementById('48').classList.toggle('opacity');
+}
+
+function orange(){
+	document.getElementById('16').classList.toggle('opacity');
+	document.getElementById('54').classList.toggle('opacity');
+}
+
+function yellow(){
+	document.getElementById('3').classList.toggle('opacity');
+	document.getElementById('1').classList.toggle('opacity');
+}
+
+function black(){
+	document.getElementById('2').classList.toggle('opacity');
+	document.getElementById('4').classList.toggle('opacity');
+	document.getElementById('5').classList.toggle('opacity');
+	document.getElementById('8').classList.toggle('opacity');
+	document.getElementById('10').classList.toggle('opacity');
+	document.getElementById('12').classList.toggle('opacity');
+	document.getElementById('15').classList.toggle('opacity');
+	document.getElementById('19').classList.toggle('opacity');
+	document.getElementById('23').classList.toggle('opacity');
+	document.getElementById('28').classList.toggle('opacity');
+	document.getElementById('31').classList.toggle('opacity');
+	document.getElementById('32').classList.toggle('opacity');
+	document.getElementById('33').classList.toggle('opacity');
+	document.getElementById('34').classList.toggle('opacity');
+	document.getElementById('35').classList.toggle('opacity');
+	document.getElementById('36').classList.toggle('opacity');
+	document.getElementById('37').classList.toggle('opacity');
+	document.getElementById('43').classList.toggle('opacity');
+	document.getElementById('45').classList.toggle('opacity');
+	document.getElementById('49').classList.toggle('opacity');
+}
+
+function brown(){
+	document.getElementById('7').classList.toggle('opacity');
+	document.getElementById('9').classList.toggle('opacity');
+	document.getElementById('11').classList.toggle('opacity');
+	document.getElementById('17').classList.toggle('opacity');
+	document.getElementById('20').classList.toggle('opacity');
+	document.getElementById('26').classList.toggle('opacity');
+	document.getElementById('25').classList.toggle('opacity');
+	document.getElementById('29').classList.toggle('opacity');
+	document.getElementById('39').classList.toggle('opacity');
+	document.getElementById('44').classList.toggle('opacity');
+	document.getElementById('47').classList.toggle('opacity');
+	document.getElementById('55').classList.toggle('opacity');
+	document.getElementById('41').classList.toggle('opacity');
+}
+
+function red(){
+	document.getElementById('6').classList.toggle('opacity');
+}
+
+function blue(){
+	document.getElementById('13').classList.toggle('opacity');
+	document.getElementById('22').classList.toggle('opacity');
+	document.getElementById('27').classList.toggle('opacity');
+	document.getElementById('40').classList.toggle('opacity');
+}
+
+function green(){
+	document.getElementById('53').classList.toggle('opacity');
+	document.getElementById('14').classList.toggle('opacity');
+	document.getElementById('50').classList.toggle('opacity');
+}
+
+function pink(){
+	document.getElementById('18').classList.toggle('opacity');
+}
+
+function gray(){
+	document.getElementById('38').classList.toggle('opacity');
+	document.getElementById('46').classList.toggle('opacity');
+	document.getElementById('21').classList.toggle('opacity');
+	document.getElementById('24').classList.toggle('opacity');
+	document.getElementById('30').classList.toggle('opacity');
+}
+
+function white(){
+	document.getElementById('52').classList.toggle('opacity');
+}
+
+function beige(){
+	document.getElementById('42').classList.toggle('opacity');
+	document.getElementById('48').classList.toggle('opacity');
+}
+
+function purple(){
+	document.getElementById('51').classList.toggle('opacity');
+	document.getElementById('56').classList.toggle('opacity');
+}
+
+console.log(`this is price of 3rd $${sunglasses[2]}`)
