@@ -1,0 +1,571 @@
+EventType,Date,StartTime,EndTime,Duration,Borough,Category,ZipCode(s)
+Rigging Permit,12/7/2022,17:30:00,22:30:00,5:00:00,Manhattan,Student,10003
+Shooting Permit,12/7/2022,6:00:00,18:00:00,12:00:00,Manhattan,Still Photography,"10004, 10005, 10007, 10013, 10038, 10279"
+Shooting Permit,12/7/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/7/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,"10017, 10022, 10036, 10171, 10172, 10173"
+Shooting Permit,12/7/2022,7:00:00,23:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,12/7/2022,7:00:00,20:00:00,13:00:00,Manhattan,Episodic Television series,10011
+Shooting Permit,12/6/2022,7:00:00,23:00:00,16:00:00,Manhattan,Episodic Television series,"10010, 10016"
+Shooting Permit,12/7/2022,9:00:00,22:00:00,13:00:00,Queens,Cable-episodic Television,11373
+Shooting Permit,12/7/2022,6:00:00,20:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,12/7/2022,17:00:00,9:00:00,16:00:00,Manhattan,Cable-episodic Television,"10007, 10013"
+Shooting Permit,12/6/2022,7:00:00,23:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,12/7/2022,8:00:00,22:00:00,14:00:00,Queens,Episodic Television series,"11101, 11378, 11435"
+Shooting Permit,12/6/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/7/2022,7:00:00,23:00:00,16:00:00,Queens,Episodic Television series,11101
+Theater Load in and Load Outs,12/5/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10019, 10106"
+Shooting Permit,12/7/2022,1:00:00,16:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/6/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,12/5/2022,6:00:00,23:00:00,17:00:00,Manhattan,Cable-episodic Television,"10011, 10012, 10014"
+Shooting Permit,12/7/2022,6:00:00,0:00:00,18:00:00,Manhattan,Episodic Television series,"10001, 10003, 10010"
+Shooting Permit,12/5/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,"10005, 10038"
+Shooting Permit,12/6/2022,6:00:00,21:00:00,15:00:00,Manhattan,Episodic Television series,"10035, 10458"
+Theater Load in and Load Outs,12/3/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,12/6/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Commercial,"11215, 11218, 11226"
+Shooting Permit,12/6/2022,10:00:00,23:00:00,13:00:00,Queens,Episodic Television series,"11101, 11370, 11371, 11378"
+Shooting Permit,12/6/2022,17:00:00,9:00:00,16:00:00,Manhattan,Cable-episodic Television,"10007, 10013"
+Rigging Permit,12/5/2022,10:00:00,13:00:00,3:00:00,Manhattan,Episodic Television series,10011
+Rigging Permit,12/5/2022,7:00:00,14:00:00,7:00:00,Manhattan,Episodic Television series,10011
+Shooting Permit,12/5/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,10011
+Shooting Permit,12/5/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/6/2022,6:00:00,23:00:00,17:00:00,Manhattan,Cable-episodic Television,"10007, 10013"
+Shooting Permit,12/6/2022,7:00:00,20:00:00,13:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/6/2022,7:00:00,2:00:00,19:00:00,Manhattan,Episodic Television series,"10001, 10010, 10011"
+Shooting Permit,12/5/2022,7:00:00,18:30:00,11:30:00,Manhattan,Cable-episodic Television,"10016, 10017"
+Shooting Permit,12/5/2022,6:00:00,19:00:00,13:00:00,Brooklyn,Commercial,11237
+Shooting Permit,12/6/2022,7:00:00,16:00:00,9:00:00,Manhattan,Reality Television,"10019, 10023, 10024, 10025"
+Shooting Permit,12/7/2022,6:00:00,22:00:00,16:00:00,Brooklyn,Still Photography,11231
+Shooting Permit,12/6/2022,7:00:00,22:00:00,15:00:00,Manhattan,Episodic Television series,"10065, 11222"
+Theater Load in and Load Outs,12/5/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,10023
+Shooting Permit,12/7/2022,6:00:00,22:00:00,16:00:00,Brooklyn,Feature Film,"11201, 11215, 11218, 11232"
+Shooting Permit,12/5/2022,7:00:00,19:00:00,12:00:00,Manhattan,Still Photography,"10023, 10024, 10025, 10029"
+Shooting Permit,12/3/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/6/2022,6:00:00,22:00:00,16:00:00,Brooklyn,Still Photography,11231
+Shooting Permit,12/7/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,12/6/2022,6:00:00,22:00:00,16:00:00,Brooklyn,Cable-episodic Television,"11213, 11233"
+Shooting Permit,12/7/2022,11:00:00,1:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/5/2022,7:00:00,19:00:00,12:00:00,Brooklyn,Still Photography,11206
+Shooting Permit,12/5/2022,13:00:00,2:00:00,13:00:00,Queens,Episodic Television series,"11416, 11417, 11418, 11419"
+Shooting Permit,12/6/2022,6:00:00,22:00:00,16:00:00,Staten Island,Episodic Television series,10304
+Shooting Permit,12/5/2022,7:00:00,22:00:00,15:00:00,Manhattan,Cable-episodic Television,10023
+Shooting Permit,12/5/2022,6:00:00,23:59:00,17:59:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/6/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11385
+Shooting Permit,12/6/2022,8:00:00,22:00:00,14:00:00,Manhattan,Feature Film,10024
+Shooting Permit,12/7/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,"10021, 10075"
+Shooting Permit,12/6/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/5/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/2/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/5/2022,10:00:00,23:00:00,13:00:00,Bronx,Episodic Television series,10474
+Shooting Permit,12/2/2022,7:00:00,23:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,12/5/2022,6:00:00,21:00:00,15:00:00,Brooklyn,WEB,11226
+Shooting Permit,12/5/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11221
+Shooting Permit,12/6/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,"10021, 10065, 10075"
+Shooting Permit,12/5/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,"10021, 10065, 10075"
+Shooting Permit,12/4/2022,2:00:00,14:00:00,12:00:00,Manhattan,News,"10036, 10105"
+Rigging Permit,12/5/2022,17:45:00,22:45:00,5:00:00,Manhattan,Student,10003
+Shooting Permit,12/1/2022,7:00:00,23:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,12/2/2022,8:00:00,20:00:00,12:00:00,Manhattan,Commercial,10035
+Shooting Permit,12/2/2022,11:00:00,1:00:00,14:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,12/2/2022,10:00:00,3:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/3/2022,7:00:00,16:00:00,9:00:00,Manhattan,Reality Television,10019
+Shooting Permit,12/3/2022,8:00:00,17:00:00,9:00:00,Brooklyn,Still Photography,11216
+Shooting Permit,12/3/2022,2:00:00,14:00:00,12:00:00,Manhattan,News,"10036, 10105"
+Shooting Permit,12/2/2022,8:00:00,0:00:00,16:00:00,Queens,Episodic Television series,11105
+Shooting Permit,12/5/2022,6:00:00,20:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,12/5/2022,6:00:00,22:00:00,16:00:00,Staten Island,Episodic Television series,"10304, 10305"
+Shooting Permit,12/5/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,"10004, 10005"
+Shooting Permit,12/7/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/2/2022,7:00:00,1:00:00,18:00:00,Staten Island,Episodic Television series,"10305, 10306"
+Shooting Permit,12/6/2022,8:00:00,22:00:00,14:00:00,Manhattan,Cable-episodic Television,"10019, 10036"
+Shooting Permit,12/2/2022,9:30:00,22:00:00,12:30:00,Manhattan,Episodic Television series,"10001, 10011"
+Shooting Permit,12/1/2022,7:00:00,20:00:00,13:00:00,Queens,Episodic Television series,"10305, 11375"
+Shooting Permit,11/30/2022,6:00:00,10:00:00,4:00:00,Manhattan,News,"10036, 10105"
+Shooting Permit,12/2/2022,12/02/2022 11:00:00 AM,16:30:00,1/26/1777 5:30:00,Manhattan,Reality Television,"10010, 10019"
+Shooting Permit,12/1/2022,12/01/2022 10:00:00 AM,23:00:00,1/27/1777 13:00:00,Manhattan,Episodic Television series,"10001, 10011, 10014, 10018, 10019, 10036"
+Shooting Permit,12/2/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,"11101, 11207, 11221, 11237, 11385"
+Shooting Permit,12/2/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/1/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/1/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/1/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,"10003, 10010, 10011, 10016"
+Shooting Permit,11/30/2022,8:30:00,22:00:00,13:30:00,Manhattan,Episodic Television series,"10001, 10011"
+Shooting Permit,12/5/2022,7:00:00,21:00:00,14:00:00,Manhattan,Cable-episodic Television,"10019, 10036"
+Shooting Permit,12/2/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11231
+Shooting Permit,12/7/2022,6:00:00,23:59:00,17:59:00,Manhattan,Award Show,"10019, 10023"
+Shooting Permit,11/30/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11101
+Shooting Permit,12/1/2022,6:30:00,20:30:00,14:00:00,Brooklyn,Episodic Television series,"11207, 11237, 11385"
+Shooting Permit,11/29/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+DCAS Prep/Shoot/Wrap Permit,12/1/2022,11:00:00,2:00:00,15:00:00,Manhattan,Cable-episodic Television,"10007, 10013"
+Shooting Permit,11/29/2022,7:00:00,19:00:00,12:00:00,Queens,Episodic Television series,11101
+Shooting Permit,12/2/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/1/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/30/2022,8:00:00,14:00:00,6:00:00,Brooklyn,Commercial,11249
+Shooting Permit,12/2/2022,11:00:00,2:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/2/2022,8:00:00,22:00:00,14:00:00,Queens,Episodic Television series,11436
+Theater Load in and Load Outs,12/6/2022,6:00:00,18:00:00,12:00:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,12/5/2022,6:00:00,5:30:00,23:30:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,12/3/2022,6:00:00,6:00:00,0:00:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,12/2/2022,6:00:00,5:30:00,23:30:00,Manhattan,Theater,10023
+Shooting Permit,11/30/2022,9:00:00,1:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/30/2022,6:00:00,20:00:00,14:00:00,Manhattan,Commercial,10016
+Shooting Permit,12/3/2022,6:00:00,21:00:00,15:00:00,Brooklyn,WEB,11238
+Shooting Permit,12/2/2022,6:00:00,21:00:00,15:00:00,Brooklyn,WEB,"10011, 11238"
+Shooting Permit,12/2/2022,3:00:00,23:59:00,20:59:00,Manhattan,Episodic Television series,"10011, 10012, 10014"
+Shooting Permit,12/2/2022,7:00:00,19:00:00,12:00:00,Brooklyn,WEB,11217
+Shooting Permit,12/1/2022,7:00:00,19:00:00,12:00:00,Brooklyn,WEB,11217
+Shooting Permit,12/1/2022,7:00:00,22:00:00,15:00:00,Manhattan,Episodic Television series,"10001, 10010, 10016"
+Shooting Permit,11/30/2022,6:00:00,20:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/30/2022,6:00:00,22:00:00,16:00:00,Manhattan,Commercial,"10004, 10036"
+Theater Load in and Load Outs,11/28/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10023
+Shooting Permit,11/30/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/30/2022,10:00:00,1:00:00,15:00:00,Queens,Episodic Television series,"11101, 11222"
+Theater Load in and Load Outs,12/7/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,10033
+Rigging Permit,11/29/2022,17:45:00,22:45:00,5:00:00,Manhattan,Student,10003
+Shooting Permit,12/1/2022,11:00:00,2:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Rigging Permit,11/28/2022,17:30:00,22:30:00,5:00:00,Manhattan,Student,10003
+Theater Load in and Load Outs,11/28/2022,6:00:00,18:00:00,12:00:00,Brooklyn,Theater,11217
+Theater Load in and Load Outs,11/25/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,10023
+Shooting Permit,12/1/2022,8:00:00,22:00:00,14:00:00,Brooklyn,Episodic Television series,11206
+Shooting Permit,12/2/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,12/1/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/30/2022,6:00:00,23:00:00,17:00:00,Queens,Cable-episodic Television,"11101, 11697"
+Theater Load in and Load Outs,11/30/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,10023
+Shooting Permit,11/29/2022,7:00:00,23:00:00,16:00:00,Manhattan,Episodic Television series,10013
+DCAS Prep/Shoot/Wrap Permit,11/30/2022,9:00:00,22:00:00,13:00:00,Manhattan,Episodic Television series,10007
+Shooting Permit,11/29/2022,7:00:00,20:00:00,13:00:00,Queens,Cable-episodic Television,11101
+Shooting Permit,12/1/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Commercial,"11215, 11226"
+Shooting Permit,11/29/2022,7:00:00,16:00:00,9:00:00,Manhattan,Episodic Television series,"10021, 10065"
+Shooting Permit,11/29/2022,7:00:00,21:00:00,14:00:00,Queens,Cable-episodic Television,"11367, 11418"
+Shooting Permit,11/30/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11221
+Shooting Permit,11/29/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,10011
+Shooting Permit,11/29/2022,6:00:00,21:00:00,15:00:00,Queens,Episodic Television series,"11101, 11106"
+Shooting Permit,11/29/2022,11:00:00,21:00:00,10:00:00,Queens,Episodic Television series,11360
+Shooting Permit,12/1/2022,9:00:00,16:00:00,7:00:00,Manhattan,Reality Television,"10010, 10019"
+Shooting Permit,11/27/2022,2:00:00,14:00:00,12:00:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/26/2022,2:00:00,14:00:00,12:00:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/29/2022,6:00:00,22:00:00,16:00:00,Brooklyn,Episodic Television series,11226
+Shooting Permit,12/2/2022,9:00:00,23:00:00,14:00:00,Manhattan,Feature Film,10002
+Shooting Permit,11/25/2022,5:00:00,22:00:00,17:00:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/30/2022,8:00:00,21:30:00,13:30:00,Manhattan,Episodic Television series,10011
+Shooting Permit,11/28/2022,7:00:00,20:30:00,13:30:00,Manhattan,Episodic Television series,10011
+Shooting Permit,11/23/2022,7:00:00,21:00:00,14:00:00,Manhattan,Cable-episodic Television,"10028, 10128"
+Shooting Permit,11/29/2022,6:00:00,23:00:00,17:00:00,Manhattan,Cable-episodic Television,10019
+Shooting Permit,11/28/2022,6:00:00,23:00:00,17:00:00,Manhattan,Cable-episodic Television,10019
+Shooting Permit,11/28/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/30/2022,7:00:00,20:00:00,13:00:00,Brooklyn,Cable-episodic Television,"11215, 11217, 11238"
+Shooting Permit,11/30/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,12/7/2022,6:00:00,19:00:00,13:00:00,Manhattan,Commercial,"10011, 10014"
+Shooting Permit,12/6/2022,6:00:00,19:00:00,13:00:00,Manhattan,Commercial,10011
+Shooting Permit,12/5/2022,6:00:00,18:00:00,12:00:00,Manhattan,Commercial,10011
+Theater Load in and Load Outs,12/4/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10001
+Theater Load in and Load Outs,12/2/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10001
+Theater Load in and Load Outs,12/1/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10001
+Theater Load in and Load Outs,11/29/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10001
+Shooting Permit,11/30/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,"11101, 11377, 11378"
+Shooting Permit,11/28/2022,7:30:00,21:30:00,14:00:00,Manhattan,Feature Film,10024
+Shooting Permit,11/29/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,"11101, 11377, 11378"
+Shooting Permit,11/28/2022,7:00:00,21:00:00,14:00:00,Manhattan,Cable-episodic Television,10018
+Shooting Permit,11/28/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,"11101, 11377, 11378"
+Shooting Permit,11/28/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,"10004, 10005, 10038, 11361"
+Shooting Permit,11/30/2022,8:00:00,22:00:00,14:00:00,Brooklyn,Episodic Television series,11206
+Shooting Permit,11/28/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/29/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/22/2022,6:00:00,22:00:00,16:00:00,Brooklyn,Commercial,11231
+Theater Load in and Load Outs,11/26/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/23/2022,13:00:00,18:00:00,5:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/23/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/28/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11101
+Theater Load in and Load Outs,11/28/2022,8:00:00,2:00:00,18:00:00,Manhattan,News,10017
+Shooting Permit,11/29/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11206
+Shooting Permit,11/29/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/28/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Episodic Television series,11206
+Shooting Permit,11/23/2022,6:00:00,13:00:00,7:00:00,Manhattan,Episodic Television series,"10020, 10112"
+Shooting Permit,11/28/2022,6:00:00,22:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,12/6/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Still Photography,11233
+Shooting Permit,11/22/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/28/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/30/2022,6:00:00,20:00:00,14:00:00,Brooklyn,WEB,11222
+Shooting Permit,11/23/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/22/2022,7:00:00,19:00:00,12:00:00,Queens,Still Photography,11385
+Shooting Permit,11/23/2022,6:00:00,21:00:00,15:00:00,Queens,Episodic Television series,"11101, 11222"
+Shooting Permit,11/23/2022,10:00:00,23:00:00,13:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/23/2022,6:00:00,23:00:00,17:00:00,Queens,Episodic Television series,"11101, 11222"
+Shooting Permit,11/22/2022,6:00:00,21:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/1/2022,6:00:00,22:00:00,16:00:00,Staten Island,Episodic Television series,10305
+Shooting Permit,11/29/2022,6:00:00,21:00:00,15:00:00,Staten Island,Episodic Television series,"10302, 10303, 10305"
+Shooting Permit,11/22/2022,11:00:00,1:00:00,14:00:00,Queens,Episodic Television series,"11418, 11420"
+Shooting Permit,11/22/2022,6:00:00,21:00:00,15:00:00,Brooklyn,Episodic Television series,"11208, 11237"
+Shooting Permit,11/28/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/23/2022,16:00:00,2:00:00,10:00:00,Manhattan,Episodic Television series,"10011, 10012, 10014"
+Shooting Permit,11/22/2022,7:00:00,22:00:00,15:00:00,Manhattan,Cable-episodic Television,"10028, 10128"
+Shooting Permit,11/21/2022,5:00:00,22:00:00,17:00:00,Manhattan,Episodic Television series,"10036, 10105"
+Shooting Permit,11/22/2022,6:00:00,20:00:00,14:00:00,Manhattan,Episodic Television series,"10003, 10011, 10014"
+Shooting Permit,12/5/2022,7:00:00,23:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/29/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,10036
+Shooting Permit,11/22/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11234
+Shooting Permit,11/21/2022,12:00:00,2:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Theater Load in and Load Outs,11/18/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,10036
+Shooting Permit,12/4/2022,1:00:00,13:00:00,12:00:00,Manhattan,News,10019
+Shooting Permit,11/21/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/28/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/23/2022,8:00:00,16:00:00,8:00:00,Manhattan,Reality Television,10019
+Shooting Permit,11/22/2022,8:00:00,23:00:00,15:00:00,Manhattan,Cable-episodic Television,"10001, 10018, 10024"
+Shooting Permit,11/22/2022,6:00:00,21:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,12/1/2022,9:00:00,23:00:00,14:00:00,Manhattan,Feature Film,10002
+Shooting Permit,11/23/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11206
+Shooting Permit,11/30/2022,8:00:00,22:00:00,14:00:00,Manhattan,Feature Film,10002
+Shooting Permit,11/22/2022,8:00:00,2:00:00,18:00:00,Queens,Episodic Television series,"11374, 11385"
+Shooting Permit,11/28/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,"10011, 10014"
+Theater Load in and Load Outs,11/29/2022,8:00:00,18:00:00,10:00:00,Brooklyn,Theater,11217
+Theater Load in and Load Outs,11/23/2022,8:00:00,18:00:00,10:00:00,Brooklyn,Theater,11217
+Shooting Permit,11/22/2022,8:00:00,18:00:00,10:00:00,Manhattan,Still Photography,10027
+Shooting Permit,11/23/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/21/2022,7:00:00,19:00:00,12:00:00,Manhattan,Episodic Television series,"10018, 10036"
+Theater Load in and Load Outs,12/7/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Theater Load in and Load Outs,12/6/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Theater Load in and Load Outs,12/5/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/21/2022,7:00:00,22:00:00,15:00:00,Manhattan,Cable-episodic Television,"10028, 10128"
+Shooting Permit,11/21/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/23/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Cable-episodic Television,11222
+Theater Load in and Load Outs,12/1/2022,0:01:00,23:59:00,23:58:00,Brooklyn,Theater,11222
+Theater Load in and Load Outs,11/21/2022,0:01:00,23:59:00,23:58:00,Brooklyn,Theater,11222
+Shooting Permit,11/28/2022,8:00:00,22:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Theater Load in and Load Outs,11/27/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,10023
+Shooting Permit,11/30/2022,6:00:00,22:00:00,16:00:00,Staten Island,Episodic Television series,10305
+Shooting Permit,11/21/2022,6:00:00,21:00:00,15:00:00,Manhattan,Episodic Television series,"10003, 10009"
+Theater Load in and Load Outs,12/6/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Theater Load in and Load Outs,12/3/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,10019
+Theater Load in and Load Outs,12/1/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Theater Load in and Load Outs,11/30/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/21/2022,8:30:00,20:30:00,12:00:00,Bronx,Episodic Television series,"10466, 10467"
+Theater Load in and Load Outs,11/29/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/28/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Theater Load in and Load Outs,11/20/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Theater Load in and Load Outs,11/19/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/23/2022,6:00:00,20:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/21/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Theater Load in and Load Outs,11/23/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/18/2022,6:00:00,21:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/17/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/21/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Commercial,11207
+Shooting Permit,11/21/2022,8:00:00,18:00:00,10:00:00,Manhattan,Still Photography,10027
+Shooting Permit,11/20/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Commercial,11207
+Shooting Permit,11/19/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Commercial,11207
+Shooting Permit,11/22/2022,11:00:00,2:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/22/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,"11207, 11208, 11237, 11385"
+Shooting Permit,11/22/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/18/2022,15:00:00,6:00:00,15:00:00,Manhattan,Cable-episodic Television,10007
+Shooting Permit,11/18/2022,13:00:00,4:00:00,15:00:00,Queens,Episodic Television series,"11385, 11418"
+Shooting Permit,11/20/2022,0:00:00,2:59:00,2:59:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/19/2022,5:00:00,23:59:00,18:59:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/18/2022,4:00:00,23:59:00,19:59:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/18/2022,9:00:00,20:00:00,11:00:00,Queens,Commercial,11102
+Theater Load in and Load Outs,11/18/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,"10003, 10029"
+Theater Load in and Load Outs,11/17/2022,0:01:00,6:00:00,5:59:00,Brooklyn,Theater,11222
+Theater Load in and Load Outs,11/19/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,10019
+Theater Load in and Load Outs,11/25/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,10036
+Theater Load in and Load Outs,11/18/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Shooting Permit,11/21/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Cable-episodic Television,11222
+Theater Load in and Load Outs,11/17/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Shooting Permit,11/29/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Episodic Television series,"11211, 11222, 11249"
+Shooting Permit,11/22/2022,7:00:00,23:00:00,16:00:00,Queens,Cable-episodic Television,"11101, 11109, 11222"
+Shooting Permit,11/17/2022,7:00:00,20:30:00,13:30:00,Queens,Commercial,"11104, 11372, 11377"
+Shooting Permit,11/17/2022,16:00:00,6:00:00,14:00:00,Queens,Episodic Television series,11420
+Shooting Permit,11/18/2022,6:00:00,23:59:00,17:59:00,Brooklyn,Episodic Television series,"11225, 11238"
+Shooting Permit,11/18/2022,4:00:00,21:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/21/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/17/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Cable-episodic Television,11222
+Theater Load in and Load Outs,11/30/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10036
+Shooting Permit,11/23/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/22/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/21/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/22/2022,6:00:00,22:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/17/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,"11215, 11225, 11238"
+Shooting Permit,11/21/2022,6:00:00,22:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/22/2022,6:00:00,21:00:00,15:00:00,Manhattan,Commercial,10027
+Shooting Permit,11/21/2022,6:00:00,20:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/21/2022,6:00:00,21:00:00,15:00:00,Manhattan,Commercial,10027
+Shooting Permit,11/16/2022,5:00:00,11:00:00,6:00:00,Manhattan,News,"10036, 10105"
+Theater Load in and Load Outs,11/21/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/18/2022,12:00:00,23:59:00,11:59:00,Bronx,Episodic Television series,10452
+Shooting Permit,11/19/2022,6:30:00,22:00:00,15:30:00,Brooklyn,Commercial,11231
+Shooting Permit,11/17/2022,15:00:00,6:00:00,15:00:00,Manhattan,Cable-episodic Television,10007
+DCAS Prep/Shoot/Wrap Permit,11/20/2022,9:00:00,23:00:00,14:00:00,Staten Island,Commercial,10301
+Shooting Permit,11/18/2022,6:00:00,20:00:00,14:00:00,Manhattan,Episodic Television series,10026
+Shooting Permit,11/17/2022,6:00:00,23:30:00,17:30:00,Brooklyn,Episodic Television series,"11237, 11385"
+Shooting Permit,11/17/2022,14:00:00,23:59:00,9:59:00,Manhattan,Feature Film,10011
+Theater Load in and Load Outs,11/17/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/18/2022,12:00:00,4:00:00,16:00:00,Brooklyn,Cable-episodic Television,11231
+Shooting Permit,11/16/2022,7:00:00,21:00:00,14:00:00,Manhattan,Commercial,"10012, 10014"
+Shooting Permit,11/15/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Episodic Television series,11206
+Shooting Permit,11/16/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,"10002, 10012, 10013"
+Shooting Permit,11/17/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/16/2022,16:00:00,6:00:00,14:00:00,Manhattan,Episodic Television series,"10011, 10012, 10014"
+Theater Load in and Load Outs,11/15/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,10023
+Shooting Permit,11/18/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,"11218, 11226"
+Shooting Permit,11/15/2022,5:00:00,21:30:00,16:30:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/18/2022,11:00:00,1:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/16/2022,7:00:00,22:00:00,15:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/15/2022,4:00:00,21:30:00,17:30:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/16/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,"10028, 10128"
+Shooting Permit,11/18/2022,6:00:00,21:00:00,15:00:00,Brooklyn,Commercial,11231
+Shooting Permit,11/15/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,"11101, 11378"
+Theater Load in and Load Outs,11/16/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/17/2022,6:00:00,23:00:00,17:00:00,Queens,Episodic Television series,11433
+Shooting Permit,11/17/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,"10017, 10019, 10020, 10022, 10152, 10171"
+Shooting Permit,11/18/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/16/2022,15:00:00,6:00:00,15:00:00,Manhattan,Cable-episodic Television,10007
+Shooting Permit,11/16/2022,9:00:00,23:00:00,14:00:00,Brooklyn,WEB,"10002, 11201, 11205, 11226"
+Shooting Permit,11/17/2022,12:00:00,23:30:00,11:30:00,Queens,Cable-episodic Television,"11101, 11106"
+Shooting Permit,11/18/2022,6:00:00,23:00:00,17:00:00,Manhattan,Cable-episodic Television,10036
+Shooting Permit,11/16/2022,6:00:00,18:00:00,12:00:00,Manhattan,Commercial,10002
+Shooting Permit,11/16/2022,6:00:00,19:00:00,13:00:00,Queens,Commercial,"11101, 11355"
+Theater Load in and Load Outs,11/16/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,10033
+Theater Load in and Load Outs,11/23/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10001, 10121"
+Theater Load in and Load Outs,11/22/2022,0:01:00,8:00:00,7:59:00,Manhattan,Theater,10001
+Theater Load in and Load Outs,11/17/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/16/2022,6:00:00,23:00:00,17:00:00,Queens,Feature Film,"11693, 11694"
+Shooting Permit,11/15/2022,6:00:00,15:00:00,9:00:00,Manhattan,Cable-episodic Television,10007
+Shooting Permit,11/17/2022,6:00:00,23:00:00,17:00:00,Manhattan,Cable-episodic Television,10036
+Theater Load in and Load Outs,11/18/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/16/2022,7:00:00,22:00:00,15:00:00,Manhattan,Episodic Television series,"10010, 10016"
+Shooting Permit,11/17/2022,6:00:00,20:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/16/2022,6:00:00,20:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/28/2022,6:00:00,21:00:00,15:00:00,Queens,Episodic Television series,11101
+Theater Load in and Load Outs,11/19/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10001
+Shooting Permit,11/16/2022,6:00:00,22:00:00,16:00:00,Queens,Commercial,11101
+Shooting Permit,11/15/2022,6:00:00,22:00:00,16:00:00,Queens,Commercial,11101
+Shooting Permit,11/16/2022,6:00:00,23:00:00,17:00:00,Manhattan,Cable-episodic Television,10036
+Theater Load in and Load Outs,11/15/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/18/2022,7:00:00,21:30:00,14:30:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/15/2022,6:00:00,23:00:00,17:00:00,Manhattan,Cable-episodic Television,10036
+Shooting Permit,11/16/2022,14:00:00,4:00:00,14:00:00,Manhattan,Feature Film,10021
+Theater Load in and Load Outs,11/14/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Theater Load in and Load Outs,11/16/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Theater Load in and Load Outs,11/15/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Theater Load in and Load Outs,11/15/2022,0:01:00,23:59:00,23:58:00,Brooklyn,Theater,11222
+Theater Load in and Load Outs,11/14/2022,0:01:00,23:59:00,23:58:00,Brooklyn,Theater,11222
+Shooting Permit,11/14/2022,6:00:00,23:59:00,17:59:00,Queens,Episodic Television series,11101
+Theater Load in and Load Outs,11/18/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10023
+Shooting Permit,11/15/2022,7:00:00,18:00:00,11:00:00,Manhattan,Still Photography,"10019, 10023, 10065"
+Theater Load in and Load Outs,11/21/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10001
+Shooting Permit,11/17/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/15/2022,10:00:00,23:59:00,13:59:00,Bronx,Cable-episodic Television,10465
+Shooting Permit,11/15/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,"10023, 10024, 10025, 10029, 10128"
+Shooting Permit,11/23/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/22/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/21/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/15/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Feature Film,11201
+Shooting Permit,11/14/2022,12:00:00,2:00:00,14:00:00,Manhattan,Cable-episodic Television,"10007, 10013"
+Shooting Permit,11/17/2022,6:00:00,21:00:00,15:00:00,Brooklyn,Commercial,11231
+Shooting Permit,11/15/2022,6:30:00,20:30:00,14:00:00,Brooklyn,Commercial,11231
+Shooting Permit,11/16/2022,6:00:00,20:30:00,14:30:00,Brooklyn,Commercial,11231
+Shooting Permit,11/15/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Theater Load in and Load Outs,11/13/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,11/13/2022,0:01:00,23:59:00,23:58:00,Brooklyn,Theater,11222
+Shooting Permit,11/14/2022,6:00:00,20:00:00,14:00:00,Manhattan,Episodic Television series,"10017, 10022, 10065, 10152, 10171"
+Shooting Permit,11/16/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/15/2022,6:00:00,18:00:00,12:00:00,Manhattan,Commercial,10012
+Shooting Permit,11/18/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/17/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/16/2022,6:00:00,22:00:00,16:00:00,Queens,Episodic Television series,"11357, 11360"
+Shooting Permit,11/15/2022,7:00:00,23:00:00,16:00:00,Queens,Episodic Television series,"11101, 11104"
+Shooting Permit,11/15/2022,6:30:00,20:00:00,13:30:00,Manhattan,Cable-episodic Television,"10019, 10023"
+Shooting Permit,11/16/2022,8:00:00,22:00:00,14:00:00,Brooklyn,Episodic Television series,"11215, 11225, 11226"
+Shooting Permit,11/14/2022,7:00:00,23:00:00,16:00:00,Queens,Episodic Television series,"11101, 11377, 11378"
+Shooting Permit,11/14/2022,7:00:00,23:00:00,16:00:00,Manhattan,Episodic Television series,"10002, 10011, 10012, 10013, 10014"
+Shooting Permit,11/15/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/14/2022,5:00:00,21:00:00,16:00:00,Queens,Cable-episodic Television,11101
+Shooting Permit,11/17/2022,11:00:00,3:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/16/2022,8:00:00,22:00:00,14:00:00,Manhattan,Episodic Television series,"10017, 10021, 10075"
+Shooting Permit,11/15/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Episodic Television series,"11218, 11232"
+Shooting Permit,11/15/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/14/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Feature Film,11201
+Shooting Permit,11/13/2022,4:00:00,13:00:00,9:00:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/14/2022,8:00:00,23:00:00,15:00:00,Manhattan,Cable-episodic Television,"10005, 10038"
+Shooting Permit,11/14/2022,14:00:00,19:00:00,5:00:00,Manhattan,Episodic Television series,10023
+Shooting Permit,11/15/2022,8:30:00,22:00:00,13:30:00,Manhattan,Episodic Television series,10011
+Theater Load in and Load Outs,11/12/2022,6:00:00,6:00:00,0:00:00,Manhattan,Theater,10033
+Shooting Permit,11/14/2022,4:00:00,18:00:00,14:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/15/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Feature Film,"11101, 11222"
+Shooting Permit,11/14/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Feature Film,"11101, 11222"
+Shooting Permit,11/12/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Feature Film,"11101, 11222"
+Shooting Permit,11/11/2022,6:00:00,20:00:00,14:00:00,Queens,Feature Film,11101
+Shooting Permit,11/16/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Theater Load in and Load Outs,12/2/2022,8:00:00,23:59:00,15:59:00,Manhattan,Theater,"10019, 10106"
+Shooting Permit,11/14/2022,10:00:00,14:00:00,4:00:00,Manhattan,Episodic Television series,"10021, 10022, 10065, 10075"
+Shooting Permit,11/11/2022,7:00:00,22:00:00,15:00:00,Manhattan,Cable-episodic Television,"10001, 10004, 10005, 10016"
+Shooting Permit,11/13/2022,6:00:00,20:00:00,14:00:00,Manhattan,WEB,"10003, 10012, 10013, 10014"
+Shooting Permit,11/12/2022,1:00:00,13:00:00,12:00:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/14/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,"10027, 10035"
+Shooting Permit,11/15/2022,13:00:00,4:00:00,15:00:00,Manhattan,Feature Film,"10021, 10075"
+Shooting Permit,11/12/2022,8:00:00,23:00:00,15:00:00,Manhattan,Feature Film,10003
+Theater Load in and Load Outs,11/16/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,10023
+Shooting Permit,11/14/2022,6:00:00,22:00:00,16:00:00,Brooklyn,Episodic Television series,11205
+Theater Load in and Load Outs,11/15/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10001, 10121"
+Theater Load in and Load Outs,12/5/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10003
+Shooting Permit,11/12/2022,7:00:00,17:00:00,10:00:00,Manhattan,Still Photography,"10002, 10011, 10014"
+Theater Load in and Load Outs,11/21/2022,8:00:00,23:00:00,15:00:00,Brooklyn,Theater,11217
+Shooting Permit,11/15/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Episodic Television series,"11237, 11385"
+Shooting Permit,11/15/2022,7:00:00,21:00:00,14:00:00,Manhattan,Episodic Television series,"10019, 10020, 10022, 10103, 10111"
+Theater Load in and Load Outs,11/23/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10036
+Shooting Permit,11/14/2022,16:00:00,20:00:00,4:00:00,Manhattan,Short Film,10027
+Theater Load in and Load Outs,11/14/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10019, 10106"
+Shooting Permit,11/11/2022,13:00:00,17:00:00,4:00:00,Manhattan,Short Film,10027
+Shooting Permit,11/11/2022,8:00:00,22:00:00,14:00:00,Brooklyn,Feature Film,11206
+Shooting Permit,11/10/2022,8:00:00,22:00:00,14:00:00,Brooklyn,Feature Film,11206
+Shooting Permit,11/10/2022,6:00:00,20:00:00,14:00:00,Manhattan,Still Photography,10018
+Shooting Permit,11/12/2022,8:00:00,16:00:00,8:00:00,Bronx,Short Film,10454
+Shooting Permit,11/10/2022,6:00:00,23:00:00,17:00:00,Queens,Episodic Television series,11101
+Theater Load in and Load Outs,11/15/2022,8:00:00,23:00:00,15:00:00,Brooklyn,Theater,11217
+Theater Load in and Load Outs,11/20/2022,8:00:00,23:00:00,15:00:00,Brooklyn,Theater,11217
+Theater Load in and Load Outs,11/22/2022,8:00:00,23:00:00,15:00:00,Brooklyn,Theater,11217
+Theater Load in and Load Outs,11/14/2022,8:00:00,23:00:00,15:00:00,Brooklyn,Theater,11217
+Theater Load in and Load Outs,11/9/2022,8:00:00,13:00:00,5:00:00,Brooklyn,Theater,11217
+Shooting Permit,11/14/2022,6:30:00,21:00:00,14:30:00,Manhattan,Episodic Television series,"10021, 10075"
+Shooting Permit,11/11/2022,12:00:00,2:00:00,14:00:00,Queens,Episodic Television series,"11101, 11377, 11378"
+Shooting Permit,11/15/2022,7:00:00,23:30:00,16:30:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/10/2022,2:00:00,17:00:00,15:00:00,Manhattan,Still Photography,"00083, 10023, 10024"
+Shooting Permit,11/15/2022,8:00:00,22:00:00,14:00:00,Manhattan,Episodic Television series,"10002, 10005, 10011, 10012, 10013, 10014, 10038, 10045"
+Theater Load in and Load Outs,11/11/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,10019
+Shooting Permit,11/9/2022,2:00:00,19:00:00,17:00:00,Manhattan,Still Photography,"00083, 10023, 10024"
+Shooting Permit,11/10/2022,14:30:00,5:30:00,15:00:00,Brooklyn,Episodic Television series,"11207, 11212"
+Shooting Permit,11/20/2022,9:00:00,20:00:00,11:00:00,Queens,Student,"11423, 11427"
+Theater Load in and Load Outs,11/13/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Theater Load in and Load Outs,11/16/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,10065
+Shooting Permit,11/10/2022,12:00:00,2:00:00,14:00:00,Queens,Episodic Television series,"11101, 11377, 11378"
+Shooting Permit,11/14/2022,6:00:00,21:00:00,15:00:00,Manhattan,Episodic Television series,"10002, 10013, 10038, 10065"
+Shooting Permit,11/16/2022,8:00:00,23:30:00,15:30:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/14/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/10/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/9/2022,9:00:00,23:30:00,14:30:00,Queens,Cable-episodic Television,11101
+Shooting Permit,11/9/2022,9:00:00,23:00:00,14:00:00,Manhattan,Episodic Television series,"10019, 10023"
+Shooting Permit,11/10/2022,6:00:00,20:00:00,14:00:00,Queens,Feature Film,11101
+Shooting Permit,11/10/2022,10:00:00,1:00:00,15:00:00,Queens,Episodic Television series,"11222, 11378"
+Theater Load in and Load Outs,11/12/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10019, 10106"
+Theater Load in and Load Outs,11/9/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10019, 10106"
+Theater Load in and Load Outs,11/12/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/9/2022,8:00:00,22:00:00,14:00:00,Brooklyn,Feature Film,11206
+Rigging Permit,11/10/2022,17:30:00,23:00:00,5:30:00,Manhattan,Student,10003
+Theater Load in and Load Outs,11/11/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/8/2022,2:00:00,21:00:00,19:00:00,Manhattan,Feature Film,"10026, 10037"
+Theater Load in and Load Outs,11/10/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Theater Load in and Load Outs,11/9/2022,0:01:00,21:59:00,21:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,11/14/2022,6:00:00,20:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/9/2022,8:00:00,23:00:00,15:00:00,Manhattan,Episodic Television series,"10031, 10032"
+Shooting Permit,11/10/2022,9:00:00,3:00:00,18:00:00,Brooklyn,Episodic Television series,11206
+Shooting Permit,11/11/2022,6:00:00,22:00:00,16:00:00,Manhattan,Still Photography,"10002, 10009"
+Shooting Permit,11/10/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Episodic Television series,"11201, 11205"
+Theater Load in and Load Outs,11/10/2022,5:00:00,7:00:00,2:00:00,Manhattan,Theater,10036
+Shooting Permit,11/9/2022,6:00:00,23:59:00,17:59:00,Brooklyn,Episodic Television series,"11211, 11222"
+Shooting Permit,11/9/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/10/2022,6:30:00,20:00:00,13:30:00,Manhattan,Cable-episodic Television,10025
+Shooting Permit,11/9/2022,15:00:00,2:00:00,11:00:00,Queens,Episodic Television series,"11385, 11418, 11420"
+Shooting Permit,11/10/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Theater Load in and Load Outs,11/10/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,11/10/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Theater Load in and Load Outs,11/9/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Shooting Permit,11/11/2022,17:00:00,2:00:00,9:00:00,Bronx,Episodic Television series,10467
+Shooting Permit,11/9/2022,6:00:00,20:30:00,14:30:00,Brooklyn,Episodic Television series,"11207, 11212"
+Shooting Permit,11/8/2022,12:00:00,23:59:00,11:59:00,Queens,Episodic Television series,"11356, 11357, 11420"
+Shooting Permit,11/10/2022,6:30:00,21:00:00,14:30:00,Brooklyn,Episodic Television series,"11211, 11222"
+Theater Load in and Load Outs,11/20/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10001
+Shooting Permit,11/10/2022,6:00:00,23:59:00,17:59:00,Brooklyn,Episodic Television series,"11211, 11222"
+Shooting Permit,11/10/2022,7:00:00,22:00:00,15:00:00,Manhattan,Cable-episodic Television,"10019, 10103"
+Shooting Permit,11/10/2022,7:00:00,22:00:00,15:00:00,Manhattan,Cable-episodic Television,"10001, 10016"
+Shooting Permit,11/18/2022,9:00:00,23:00:00,14:00:00,Manhattan,Episodic Television series,"10004, 10280, 10281"
+Shooting Permit,11/12/2022,6:00:00,0:00:00,18:00:00,Manhattan,Commercial,10018
+Shooting Permit,11/10/2022,7:00:00,22:00:00,15:00:00,Manhattan,Episodic Television series,"10003, 10011, 10012, 10014"
+Shooting Permit,11/9/2022,7:30:00,22:00:00,14:30:00,Manhattan,Cable-episodic Television,"10002, 10007, 10013, 10038"
+Shooting Permit,11/9/2022,6:30:00,21:00:00,14:30:00,Queens,Episodic Television series,"11104, 11222"
+Theater Load in and Load Outs,11/8/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10019
+Shooting Permit,11/17/2022,9:00:00,22:00:00,13:00:00,Manhattan,Episodic Television series,"10007, 10013"
+Theater Load in and Load Outs,11/10/2022,0:01:00,23:59:00,23:58:00,Brooklyn,Theater,11222
+Shooting Permit,11/8/2022,6:00:00,22:00:00,16:00:00,Brooklyn,News,11235
+Theater Load in and Load Outs,11/8/2022,0:01:00,23:59:00,23:58:00,Brooklyn,Theater,11222
+Shooting Permit,11/9/2022,13:00:00,2:00:00,13:00:00,Manhattan,Episodic Television series,"10016, 10017, 10158"
+Shooting Permit,11/10/2022,8:00:00,23:00:00,15:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/8/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/10/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/10/2022,9:00:00,19:00:00,10:00:00,Brooklyn,WEB,11215
+Shooting Permit,11/9/2022,6:00:00,21:00:00,15:00:00,Brooklyn,WEB,11232
+Shooting Permit,11/8/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,"10001, 10011, 10018"
+Shooting Permit,11/9/2022,7:00:00,22:00:00,15:00:00,Manhattan,Cable-episodic Television,"10019, 10020, 10103"
+Shooting Permit,11/10/2022,9:30:00,1:00:00,15:30:00,Manhattan,Episodic Television series,10016
+Shooting Permit,11/14/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/10/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/9/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/8/2022,7:00:00,21:00:00,14:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/10/2022,8:00:00,22:00:00,14:00:00,Manhattan,Feature Film,10023
+Shooting Permit,11/10/2022,12:00:00,3:00:00,15:00:00,Manhattan,Episodic Television series,"10017, 10019, 10022, 10152, 10165, 10171, 10173"
+Shooting Permit,11/10/2022,0:00:00,23:00:00,23:00:00,Brooklyn,Episodic Television series,11222
+Theater Load in and Load Outs,11/20/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10036
+Shooting Permit,11/8/2022,8:00:00,0:00:00,16:00:00,Queens,Episodic Television series,11101
+Shooting Permit,11/11/2022,8:00:00,22:00:00,14:00:00,Manhattan,Feature Film,10003
+Shooting Permit,11/9/2022,17:00:00,20:00:00,3:00:00,Manhattan,Episodic Television series,10003
+Shooting Permit,11/9/2022,7:00:00,22:00:00,15:00:00,Manhattan,Episodic Television series,10003
+Shooting Permit,11/8/2022,6:00:00,2:00:00,20:00:00,Brooklyn,Episodic Television series,"11101, 11222"
+Theater Load in and Load Outs,11/11/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/9/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/8/2022,7:00:00,21:00:00,14:00:00,Bronx,Episodic Television series,10473
+Shooting Permit,11/9/2022,6:00:00,21:00:00,15:00:00,Manhattan,Episodic Television series,"10001, 10018, 10019, 10036"
+Shooting Permit,11/9/2022,6:00:00,20:00:00,14:00:00,Brooklyn,Commercial,11231
+Shooting Permit,11/8/2022,6:00:00,23:00:00,17:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/8/2022,6:00:00,21:00:00,15:00:00,Manhattan,Still Photography,10012
+Shooting Permit,11/10/2022,12:00:00,3:00:00,15:00:00,Brooklyn,Feature Film,11201
+Theater Load in and Load Outs,11/13/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,"10001, 10121"
+Theater Load in and Load Outs,11/10/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/20/2022,3:00:00,22:00:00,19:00:00,Manhattan,News,"10036, 10105"
+Shooting Permit,11/11/2022,7:00:00,21:00:00,14:00:00,Queens,Episodic Television series,11101
+Theater Load in and Load Outs,11/9/2022,0:01:00,5:00:00,4:59:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/8/2022,8:00:00,22:00:00,14:00:00,Manhattan,Episodic Television series,"10001, 10016, 10017"
+Shooting Permit,11/9/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Feature Film,"11211, 11222"
+Shooting Permit,11/9/2022,9:00:00,23:00:00,14:00:00,Manhattan,Episodic Television series,"10003, 10009"
+Shooting Permit,11/8/2022,6:00:00,22:00:00,16:00:00,Manhattan,Feature Film,"10003, 10023"
+Shooting Permit,11/8/2022,9:00:00,23:00:00,14:00:00,Queens,Episodic Television series,"11237, 11385"
+Shooting Permit,11/8/2022,7:00:00,17:00:00,10:00:00,Manhattan,Episodic Television series,"10019, 10022, 10103, 10111"
+Shooting Permit,11/8/2022,8:00:00,22:00:00,14:00:00,Brooklyn,Episodic Television series,11206
+Theater Load in and Load Outs,11/10/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10019, 10020, 10112"
+Shooting Permit,11/9/2022,12:00:00,3:00:00,15:00:00,Brooklyn,Feature Film,11201
+Shooting Permit,11/9/2022,6:00:00,21:00:00,15:00:00,Brooklyn,Still Photography,11224
+Shooting Permit,11/8/2022,6:30:00,20:30:00,14:00:00,Brooklyn,Commercial,11231
+Shooting Permit,11/9/2022,8:00:00,23:59:00,15:59:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/9/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/8/2022,7:00:00,22:00:00,15:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/8/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Cable-episodic Television,11222
+Shooting Permit,11/8/2022,8:00:00,20:00:00,12:00:00,Brooklyn,Feature Film,11201
+Shooting Permit,11/9/2022,10:00:00,17:00:00,7:00:00,Manhattan,News,"10036, 10105"
+DCAS Prep/Shoot/Wrap Permit,11/11/2022,8:00:00,20:00:00,12:00:00,Bronx,Cable-episodic Television,10451
+Shooting Permit,11/8/2022,6:00:00,18:00:00,12:00:00,Brooklyn,Still Photography,11217
+Shooting Permit,11/8/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/8/2022,6:00:00,18:00:00,12:00:00,Brooklyn,Still Photography,11224
+Theater Load in and Load Outs,11/8/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,"10003, 10029"
+Shooting Permit,12/5/2022,6:00:00,12:00:00,6:00:00,Manhattan,Award Show,10024
+Shooting Permit,11/9/2022,7:00:00,23:00:00,16:00:00,Brooklyn,Episodic Television series,11222
+Shooting Permit,11/16/2022,6:00:00,21:00:00,15:00:00,Manhattan,Commercial,"10013, 10014"
+Shooting Permit,11/17/2022,7:00:00,21:00:00,14:00:00,Manhattan,Commercial,10014
+Theater Load in and Load Outs,11/18/2022,6:00:00,17:30:00,11:30:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,11/20/2022,6:00:00,6:00:00,0:00:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,11/13/2022,6:00:00,6:00:00,0:00:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,11/10/2022,6:00:00,5:30:00,23:30:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,11/9/2022,6:00:00,17:30:00,11:30:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,11/8/2022,6:00:00,5:30:00,23:30:00,Manhattan,Theater,10023
+Theater Load in and Load Outs,11/23/2022,0:01:00,6:00:00,5:59:00,Manhattan,Theater,"10001, 10121"
+Shooting Permit,11/30/2022,4:00:00,23:59:00,19:59:00,Manhattan,News,"10020, 10036"
+Shooting Permit,11/29/2022,6:00:00,23:59:00,17:59:00,Manhattan,News,"10020, 10036"
+Shooting Permit,11/28/2022,4:00:00,23:59:00,19:59:00,Manhattan,News,"10020, 10036"
+Shooting Permit,12/7/2022,6:00:00,23:59:00,17:59:00,Manhattan,Award Show,10036
+Shooting Permit,11/10/2022,6:00:00,23:00:00,17:00:00,Manhattan,WEB,10002
+Shooting Permit,11/9/2022,6:00:00,22:00:00,16:00:00,Manhattan,WEB,10002
+Shooting Permit,11/8/2022,6:00:00,22:00:00,16:00:00,Manhattan,WEB,10002
+Theater Load in and Load Outs,11/16/2022,7:00:00,13:00:00,6:00:00,Manhattan,Award Show,"10019, 10022, 10023, 10103"
+Theater Load in and Load Outs,11/28/2022,5:00:00,20:00:00,15:00:00,Manhattan,Theater,10036
+Theater Load in and Load Outs,11/10/2022,6:00:00,23:59:00,17:59:00,Manhattan,Theater,10003
+Shooting Permit,11/10/2022,6:00:00,18:00:00,12:00:00,Manhattan,News,10010
+Shooting Permit,11/24/2022,0:01:00,18:00:00,17:59:00,Manhattan,News,10023
+Shooting Permit,11/23/2022,0:01:00,23:59:00,23:58:00,Manhattan,News,10023
+Shooting Permit,11/22/2022,6:00:00,23:59:00,17:59:00,Manhattan,News,10023
+Theater Load in and Load Outs,11/11/2022,0:01:00,23:59:00,23:58:00,Manhattan,Theater,10033
+Shooting Permit,11/11/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,10019
+Shooting Permit,11/10/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,10019
+Shooting Permit,11/9/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,10019
+Shooting Permit,11/8/2022,6:00:00,22:00:00,16:00:00,Manhattan,Episodic Television series,10019

@@ -1,0 +1,53 @@
+body{
+	background-color: #FFFBFD;
+	font-family: 'Inconsolata', monospace;
+	font-size: 60px;
+}
+
+a:link{
+	text-decoration: none;
+	color: #F20587;
+}
+
+a:visited{
+	text-decoration: none;
+	color: #F20587;
+}
+
+a:active{
+	text-decoration: underline;
+	color: #F20587;
+}
+
+a:hover{
+	text-decoration: underline;
+	color: #F20587;
+}
+
+div{
+	display: inline-flex;
+}
+
+video{
+	margin-left: 20px;
+}
+
+p{
+	font-size: 20px;
+	color: #F20587;
+}
+
+h1{
+	position: fixed;
+	left: 20px;
+	top: 20px;
+}
+
+.videos{
+	left: 20px;
+	margin-top: 400px;
+}
+
+.imgs{
+	margin-top: 200px;
+}
