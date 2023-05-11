@@ -335,6 +335,47 @@ h2{
     color:white;
 }
 
+@media (max-width: 600px){
+
+    a{
+        display: none;
+    }
+    img{
+        display: block;
+    }
+    .timegraphtxt{
+        display: block;
+    }
+    .body1{
+        display:inline !important;
+    }
+    .body2{
+        display: none;
+    }
+    .container1{
+        display: none;
+    }
+    .colors{
+        display: none;
+    }
+    .btns{
+        display: none;
+    }
+    .details{
+        display: none !important;
+    }
+}
+
+.body1{
+    display: none;
+}
+
+.timegraphtxt{
+    font-family: 'Space Mono', monospace;
+    font-size: larger;
+    text-align: center;
+}
+
 .sqtxton{
     text-align: center;
     font-family: 'Poppins', sans-serif;
