@@ -1,0 +1,1054 @@
+body{
+    background-color: #0C0A0D;
+    color: white;
+    max-width: 2000px;
+}
+
+marquee{
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    font-family: 'Space Mono', monospace;
+    font-style: initial;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
+
+.hovertxt{
+    font-family: 'Poppins', sans-serif;
+    z-index: 99;
+    display: none;
+}
+
+.sq1:hover + .hovertxt{
+    display: inline-block;
+}
+
+.sq1{
+    background-color: #B26344;
+}
+
+.sq1:hover + .item1{
+    background-color: #B26344;
+}
+
+.sq2{
+    background-color: #F6D1CB;
+}
+
+.sq3{
+    background-color: #97B5DC;
+}
+
+.sq4{
+    background-color: #68910B;
+}
+
+.sq5{
+    background-color: #C6C5E8;
+}
+
+.sq6{
+    background-color: #BCEFE9;
+}
+
+.sq7{
+    background-color: #FF8E0E;
+}
+
+.sq8{
+    background-color: #7184E2;
+}
+
+.sq9{
+    background-color: #FE798C;
+}
+
+.sq10{
+    background-color: #660A79;
+}
+
+.sq11{
+    background-color: #C2F049;
+}
+
+.sq12{
+    background-color: #FFBE00;
+}
+
+.sq13{
+    background-color: #012DCD;
+}
+
+.sq14{
+    background-color: #0FDC66;
+}
+
+.sq15{
+    background-color: #FA051A;
+}
+
+.sq16{
+    background-color: #FFE500;
+}
+
+.sq17{
+    background-color: #FF8ED4;
+}
+
+.sq18{
+    background-color: #33C2EB;
+}
+
+.sq19{
+    background-color: #F9F9F9;
+}
+
+.sq20{
+    background-color: #CBCBCB;
+}
+
+.sq21{
+    background-color: #A3A3A3;
+}
+
+.sq22{
+    background-color: #7B7B7B;
+}
+
+.sq23{
+    background-color: #5E5B61;
+}
+
+.sq:hover{
+    opacity: 90%;
+    border: white solid 2px ;
+    box-shadow: 0px 0px 15px white
+}
+
+/* homepage hover  ----------- */
+
+.item1:hover{
+    background-color: #B26344;
+}
+
+.item2:hover{
+    background-color: #F6D1CB;
+    color: #0C0A0D;
+}
+
+.item3:hover{
+    background-color: #97B5DC;
+    color: #0C0A0D;
+}
+
+.item4:hover{
+    background-color: #68910B;
+}
+
+.item5:hover{
+    background-color: #C6C5E8;
+    color: #0C0A0D;
+}
+
+.item6:hover{
+    background-color: #BCEFE9;
+    color: #0C0A0D;
+}
+
+.item7:hover{
+    background-color: #FF8E0E;
+}
+
+.item8:hover{
+    background-color: #7184E2;
+}
+
+.item9:hover{
+    background-color: #FE798C;
+    color: #0C0A0D;
+}
+
+.item10:hover{
+    background-color: #660A79;
+}
+
+.item11:hover{
+    background-color: #C2F049;
+    color: #0C0A0D;
+}
+
+.item12:hover{
+    background-color: #FFBE00;
+    color: #0C0A0D;
+}
+
+.item13:hover{
+    background-color: #012DCD;
+}
+
+.item14:hover{
+    background-color: #0FDC66;
+    color: #0C0A0D;
+}
+
+.item15:hover{
+    background-color: #FA051A;
+}
+
+.item16:hover{
+    background-color: #FFE500;
+    color: #0C0A0D;
+}
+
+.item17:hover{
+    background-color: #FF8ED4;
+}
+
+.item18:hover{
+    background-color: #33C2EB;
+}
+
+.item19:hover{
+    background-color: #F9F9F9;
+    color: #0C0A0D;
+}
+
+.item20:hover{
+    background-color: #CBCBCB;
+    color: #0C0A0D;
+}
+
+.item21:hover{
+    background-color: #A3A3A3;
+    color: #0C0A0D;
+}
+
+.item22:hover{
+    background-color: #7B7B7B;
+}
+
+.item23:hover{
+    background-color: #5E5B61;
+}
+
+
+.sq{
+    height: 110px;
+    width: 110px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.sqs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.colors{
+    margin-left: 100px;
+    flex-wrap: wrap;
+    border: white solid 2px;
+    max-width: 800px;
+    max-height: 600px;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn{
+    font-family: 'Poppins', sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    width: 250px;
+    height: 50px;
+}
+
+.btn:hover{
+    font-family: 'Poppins', sans-serif;
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    width: 250px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.btns{
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.container1{
+    display: flex;
+    flex-direction: row;
+}
+
+  #bronxbtn svg {
+    width: 250px;
+  }
+      
+  #brooklynbtn svg {
+    width: 250px;
+  }
+      
+  #manhattanbtn svg {
+    width: 250px;
+  }
+      
+  #queensbtn svg {
+    width: 250px;
+  }
+      
+  #statenbtn svg {
+    width: 250px;
+  }
+
+.details{
+    margin-left: 70px;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    font-family: 'Space Mono', monospace;
+    font-size: 16px;
+}
+
+.total{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.txtblock2{
+    margin-left: 80px;
+}
+
+.body2{
+    display: block;
+    margin-top: 225px;
+}
+
+
+.svg1{
+    z-index: 1;
+}
+
+.btntxt{
+    margin-top: 0px;
+    position: relative;
+    font-size: 16px;
+    top:150px;
+    left: 80px;
+    z-index: 2;
+    max-width:80px;
+}
+
+
+/* ----------- on clicking bronx ---------------- */
+
+
+.bronxsq1{
+    background-color: #B26344;
+    height: 126px;
+    width: 126px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq3{
+    background-color: #97B5DC;
+    height: 201px;
+    width: 201px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq4{
+    background-color: #68910B;
+    height: 49.5px;
+    width: 49.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq5{
+    background-color: #C6C5E8;
+    height: 49.5px;
+    width: 49.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq6{
+    background-color: #BCEFE9;
+    height: 49.5px;
+    width: 49.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq7{
+    background-color: #FF8E0E;
+    height: 35px;
+    width: 35px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq8{
+    background-color: #7184E2;
+    height: 110.6px;
+    width: 110.6px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq11{
+    background-color: #C2F049;
+    height: 49.5px;
+    width: 49.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq13{
+    background-color: #012DCD;
+    height: 201px;
+    width: 201px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq14{
+    background-color: #0FDC66;
+    height: 397.5px;
+    width: 397.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+.bronxsq18{
+    background-color: #33C2EB;
+    height: 49.5px;
+    width: 49.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq19{
+    background-color: #F9F9F9;
+    height: 35px;
+    width: 35px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq21{
+    background-color: #A3A3A3;
+    height: 35px;
+    width: 35px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxsq23{
+    background-color: #5E5B61;
+    height: 85.7px;
+    width: 85.7px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.bronxbox1{
+    display: flex;
+    flex-direction: row;
+}
+
+.bronxbox2{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* ----------- on clicking brooklyn ---------------- */
+
+.brooklynsq1{
+    background-color: #B26344;
+    height: 143px;
+    width: 143px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq2{
+    background-color: #F6D1CB;
+    height: 15.5px;
+    width: 15.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq3{
+    background-color: #97B5DC;
+    height: 164px;
+    width: 164px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq4{
+    background-color: #68910B;
+    height: 29px;
+    width: 29px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq5{
+    background-color: #C6C5E8;
+    height: 31px;
+    width: 31px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq6{
+    background-color: #BCEFE9;
+    height: 51.5px;
+    width: 51.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq7{
+    background-color: #FF8E0E;
+    height: 63px;
+    width: 63px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq8{
+    background-color: #7184E2;
+    height: 114px;
+    width: 114px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq9{
+    background-color: #FE798C;
+    height: 31px;
+    width: 31px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq11{
+    background-color: #C2F049;
+    height: 170px;
+    width: 170px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq12{
+    background-color: #FFBE00;
+    height: 59px;
+    width: 59px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq13{
+    background-color: #012DCD;
+    height: 195px;
+    width: 195px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq14{
+    background-color: #0FDC66;
+    height: 240px;
+    width: 590px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq15{
+    background-color: #FA051A;
+    height: 31px;
+    width: 31px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.brooklynsq17{
+    background-color: #FF8ED4;
+    height: 24.5px;
+    width: 24.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq18{
+    background-color: #33C2EB;
+    height: 51.5px;
+    width: 51.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq19{
+    background-color: #F9F9F9;
+    height: 22px;
+    width: 22px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq20{
+    background-color: #CBCBCB;
+    height: 36.4px;
+    width: 36.4px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq21{
+    background-color: #A3A3A3;
+    height: 26.9px;
+    width: 26.9px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq22{
+    background-color: #7B7B7B;
+    height: 59px;
+    width: 59px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynsq23{
+    background-color: #5E5B61;
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.brooklynblock1{
+    display: flex;
+    flex-direction: row;
+}
+
+.brooklynblock2{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* ----------- on clicking manhattan ---------------- */
+
+
+.manhattansq1{
+    background-color: #B26344;
+    height: 110px;
+    width: 110px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq2{
+    background-color: #F6D1CB;
+    height: 23.8px;
+    width: 23.8px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq3{
+    background-color: #97B5DC;
+    height: 110px;
+    width: 110px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq4{
+    background-color: #68910B;
+    height: 25.4px;
+    width: 25.4px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq5{
+    background-color: #C6C5E8;
+    height: 22px;
+    width: 22px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq6{
+    background-color: #BCEFE9;
+    height: 85px;
+    width: 85px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq7{
+    background-color: #FF8E0E;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq8{
+    background-color: #7184E2;
+    height: 116px;
+    width: 116px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq9{
+    background-color: #FE798C;
+    height: 40px;
+    width: 40px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq10{
+    background-color: #660A79;
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq11{
+    background-color: #C2F049;
+    height: 255px;
+    width: 255px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq12{
+    background-color: #FFBE00;
+    height: 33.5px;
+    width: 33.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq13{
+    background-color: #012DCD;
+    height: 153px;
+    width: 153px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq14{
+    background-color: #0FDC66;
+    height: 297px;
+    width: 297px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq15{
+    background-color: #FA051A;
+    height: 51px;
+    width: 51px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq16{
+    background-color: #FFE500;
+    height: 28px;
+    width: 28px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq17{
+    background-color: #FF8ED4;
+    height: 111px;
+    width: 111px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq18{
+    background-color: #33C2EB;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq19{
+    background-color: #F9F9F9;
+    height: 38px;
+    width: 38px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq20{
+    background-color: #CBCBCB;
+    height: 45px;
+    width: 45px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq21{
+    background-color: #A3A3A3;
+    height: 64.8px;
+    width: 64.8px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq22{
+    background-color: #7B7B7B;
+    height: 36px;
+    width: 36px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.manhattansq23{
+    background-color: #5E5B61;
+    height: 98.5px;
+    width: 98.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+/* ----------- on clicking queens ---------------- */
+
+
+.queensq1{
+    background-color: #B26344;
+    height: 82px;
+    width: 82px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq2{
+    background-color: #F6D1CB;
+    height: 36.5px;
+    width: 36.5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq3{
+    background-color: #97B5DC;
+    height: 109px;
+    width: 109px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq5{
+    background-color: #C6C5E8;
+    height: 15px;
+    width: 15px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq6{
+    background-color: #BCEFE9;
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq7{
+    background-color: #FF8E0E;
+    height: 42.4px;
+    width: 42.4px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq8{
+    background-color: #7184E2;
+    height: 51px;
+    width: 51px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq9{
+    background-color: #FE798C;
+    height: 21px;
+    width: 21px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq13{
+    background-color: #012DCD;
+    height: 206px;
+    width: 206px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq14{
+    background-color: #0FDC66;
+    height: 445px;
+    width: 445px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq15{
+    background-color: #FA051A;
+    height: 87.4px;
+    width: 87.4px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq17{
+    background-color: #FF8ED4;
+    height: 25.9px;
+    width: 25.9px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq18{
+    background-color: #33C2EB;
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq22{
+    background-color: #7B7B7B;
+    height: 75px;
+    width: 75px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensq23{
+    background-color: #5E5B61;
+    height: 54px;
+    width: 54px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.queensblock1{
+    display: flex;
+    flex-direction: column;
+}
+
+.queensblock2{
+    display: flex;
+    flex-direction: row;
+}
+
+
+/* ----------- on clicking staten ---------------- */
+
+.statensq3{
+    background-color: #97B5DC;
+    height: 144px;
+    width: 144px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.statensq6{
+    background-color: #BCEFE9;
+    height: 64.4px;
+    width: 64.4px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.statensq7{
+    background-color: #FF8E0E;
+    height: 64.4px;
+    width: 64.4px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.statensq8{
+    background-color: #7184E2;
+    height: 64.4px;
+    width: 64.4px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.statensq13{
+    background-color: #012DCD;
+    height: 288px;
+    width: 288px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.statensq14{
+    background-color: #0FDC66;
+    height: 412px;
+    width: 412px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.statensq22{
+    background-color: #7B7B7B;
+    height: 64.4px;
+    width: 64.4px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.statenblock1{
+    display: flex;
+    flex-direction: column;
+}
+
+/* ----------- on clicking staten ---------------- */
+
+.displaynone{
+    display: none;
+}

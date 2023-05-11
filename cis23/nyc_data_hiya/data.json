@@ -1,5720 +1,3992 @@
-
-permits =[
+[
   {
     "EventType": "Rigging Permit",
     "Date": "12/7/2022",
-    "StartTime": "17:30:00",
-    "EndTime": "22:30:00",
     "Duration": "5:00:00",
     "Borough": "Manhattan",
-    "Category": "Student",
-    "ZipCode(s)": 10003
+    "Category": "Student"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": "10004, 10005, 10007, 10013, 10038, 10279"
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10017, 10022, 10036, 10171, 10172, 10173"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "20:00:00",
     "Duration": "13:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10011
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10010, 10016"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "22:00:00",
     "Duration": "13:00:00",
     "Borough": "Queens",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11373
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "17:00:00",
-    "EndTime": "9:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10007, 10013"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11378, 11435"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/5/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10019, 10106"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "1:00:00",
-    "EndTime": "16:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10011, 10012, 10014"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "0:00:00",
     "Duration": "18:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10003, 10010"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10005, 10038"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10035, 10458"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/3/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": "11215, 11218, 11226"
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "23:00:00",
     "Duration": "13:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11370, 11371, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "17:00:00",
-    "EndTime": "9:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10007, 10013"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Rigging Permit",
     "Date": "12/5/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "13:00:00",
     "Duration": "3:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10011
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Rigging Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "14:00:00",
     "Duration": "7:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10011
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10011
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10007, 10013"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "20:00:00",
     "Duration": "13:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "2:00:00",
     "Duration": "19:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10010, 10011"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "18:30:00",
     "Duration": "11:30:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10016, 10017"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "19:00:00",
     "Duration": "13:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11237
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "16:00:00",
     "Duration": "9:00:00",
     "Borough": "Manhattan",
-    "Category": "Reality Television",
-    "ZipCode(s)": "10019, 10023, 10024, 10025"
+    "Category": "Reality Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11231
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10065, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/5/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": "11201, 11215, 11218, 11232"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "19:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": "10023, 10024, 10025, 10029"
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/3/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11231
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "11213, 11233"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "1:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "19:00:00",
     "Duration": "12:00:00",
     "Borough": "Brooklyn",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11206
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "13:00:00",
-    "EndTime": "2:00:00",
     "Duration": "13:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11416, 11417, 11418, 11419"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Staten Island",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10304
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10023
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11385
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10024
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10021, 10075"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "23:00:00",
     "Duration": "13:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10474
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": 11226
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11221
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10021, 10065, 10075"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10021, 10065, 10075"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/4/2022",
-    "StartTime": "2:00:00",
-    "EndTime": "14:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Rigging Permit",
     "Date": "12/5/2022",
-    "StartTime": "17:45:00",
-    "EndTime": "22:45:00",
     "Duration": "5:00:00",
     "Borough": "Manhattan",
-    "Category": "Student",
-    "ZipCode(s)": 10003
+    "Category": "Student"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "20:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10035
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "1:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "3:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/3/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "16:00:00",
     "Duration": "9:00:00",
     "Borough": "Manhattan",
-    "Category": "Reality Television",
-    "ZipCode(s)": 10019
+    "Category": "Reality Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/3/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "17:00:00",
     "Duration": "9:00:00",
     "Borough": "Brooklyn",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11216
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/3/2022",
-    "StartTime": "2:00:00",
-    "EndTime": "14:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "0:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11105
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Staten Island",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10304, 10305"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10004, 10005"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "1:00:00",
     "Duration": "18:00:00",
     "Borough": "Staten Island",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10305, 10306"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10019, 10036"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "9:30:00",
-    "EndTime": "22:00:00",
     "Duration": "12:30:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10011"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "20:00:00",
     "Duration": "13:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10305, 11375"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "10:00:00",
     "Duration": "4:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "12/02/2022 11:00:00 AM",
-    "EndTime": "16:30:00",
     "Duration": "1/26/1777 5:30:00",
     "Borough": "Manhattan",
-    "Category": "Reality Television",
-    "ZipCode(s)": "10010, 10019"
+    "Category": "Reality Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "12/01/2022 10:00:00 AM",
-    "EndTime": "23:00:00",
     "Duration": "1/27/1777 13:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10011, 10014, 10018, 10019, 10036"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11207, 11221, 11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10003, 10010, 10011, 10016"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "8:30:00",
-    "EndTime": "22:00:00",
     "Duration": "13:30:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10011"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10019, 10036"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11231
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Award Show",
-    "ZipCode(s)": "10019, 10023"
+    "Category": "Award Show"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "20:30:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11207, 11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "DCAS Prep/Shoot/Wrap Permit",
     "Date": "12/1/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "2:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10007, 10013"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "19:00:00",
     "Duration": "12:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "14:00:00",
     "Duration": "6:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11249
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "2:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11436
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "5:30:00",
     "Duration": "23:30:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/3/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "6:00:00",
     "Duration": "0:00:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/2/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "5:30:00",
     "Duration": "23:30:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "1:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10016
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/3/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": 11238
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": "10011, 11238"
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "3:00:00",
-    "EndTime": "23:59:00",
     "Duration": "20:59:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10011, 10012, 10014"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "19:00:00",
     "Duration": "12:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": 11217
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "19:00:00",
     "Duration": "12:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": 11217
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10010, 10016"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": "10004, 10036"
+    "Category": "Commercial"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/28/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "1:00:00",
     "Duration": "15:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10033
+    "Category": "Theater"
   },
   {
     "EventType": "Rigging Permit",
     "Date": "11/29/2022",
-    "StartTime": "17:45:00",
-    "EndTime": "22:45:00",
     "Duration": "5:00:00",
     "Borough": "Manhattan",
-    "Category": "Student",
-    "ZipCode(s)": 10003
+    "Category": "Student"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "2:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Rigging Permit",
     "Date": "11/28/2022",
-    "StartTime": "17:30:00",
-    "EndTime": "22:30:00",
     "Duration": "5:00:00",
     "Borough": "Manhattan",
-    "Category": "Student",
-    "ZipCode(s)": 10003
+    "Category": "Student"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/28/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/25/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11206
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Queens",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "11101, 11697"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/30/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10013
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "DCAS Prep/Shoot/Wrap Permit",
     "Date": "11/30/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "22:00:00",
     "Duration": "13:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10007
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "20:00:00",
     "Duration": "13:00:00",
     "Borough": "Queens",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11101
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": "11215, 11226"
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "16:00:00",
     "Duration": "9:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10021, 10065"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "11367, 11418"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11221
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10011
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11106"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "21:00:00",
     "Duration": "10:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11360
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "16:00:00",
     "Duration": "7:00:00",
     "Borough": "Manhattan",
-    "Category": "Reality Television",
-    "ZipCode(s)": "10010, 10019"
+    "Category": "Reality Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/27/2022",
-    "StartTime": "2:00:00",
-    "EndTime": "14:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/26/2022",
-    "StartTime": "2:00:00",
-    "EndTime": "14:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11226
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/2/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10002
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/25/2022",
-    "StartTime": "5:00:00",
-    "EndTime": "22:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "21:30:00",
     "Duration": "13:30:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10011
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "20:30:00",
     "Duration": "13:30:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10011
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10028, 10128"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10019
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10019
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "20:00:00",
     "Duration": "13:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "11215, 11217, 11238"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "19:00:00",
     "Duration": "13:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": "10011, 10014"
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "19:00:00",
     "Duration": "13:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10011
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10011
+    "Category": "Commercial"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/4/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10001
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/2/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10001
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/1/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10001
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/29/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10001
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11377, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:30:00",
-    "EndTime": "21:30:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10024
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11377, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10018
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11377, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10004, 10005, 10038, 11361"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11206
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11231
+    "Category": "Commercial"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/26/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "13:00:00",
-    "EndTime": "18:00:00",
     "Duration": "5:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/28/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "2:00:00",
     "Duration": "18:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": 10017
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11206
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11206
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "13:00:00",
     "Duration": "7:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10020, 10112"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/6/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11233
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": 11222
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "19:00:00",
     "Duration": "12:00:00",
     "Borough": "Queens",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11385
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "23:00:00",
     "Duration": "13:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Staten Island",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10305
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Staten Island",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10302, 10303, 10305"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "1:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11418, 11420"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11208, 11237"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "16:00:00",
-    "EndTime": "2:00:00",
     "Duration": "10:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10011, 10012, 10014"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10028, 10128"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "5:00:00",
-    "EndTime": "22:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10003, 10011, 10014"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10036
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11234
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "2:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/18/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10036
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/4/2022",
-    "StartTime": "1:00:00",
-    "EndTime": "13:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": 10019
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "16:00:00",
     "Duration": "8:00:00",
     "Borough": "Manhattan",
-    "Category": "Reality Television",
-    "ZipCode(s)": 10019
+    "Category": "Reality Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10001, 10018, 10024"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/1/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10002
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11206
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10002
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "2:00:00",
     "Duration": "18:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11374, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10011, 10014"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/29/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "18:00:00",
     "Duration": "10:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/23/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "18:00:00",
     "Duration": "10:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "18:00:00",
     "Duration": "10:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": 10027
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "19:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10018, 10036"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/7/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/6/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/5/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10028, 10128"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/1/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11222
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/21/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11222
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/27/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Staten Island",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10305
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10003, 10009"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/6/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/3/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/1/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/30/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "8:30:00",
-    "EndTime": "20:30:00",
     "Duration": "12:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10466, 10467"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/29/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/20/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/19/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/23/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11207
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "18:00:00",
     "Duration": "10:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": 10027
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/20/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11207
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/19/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11207
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "2:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11207, 11208, 11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "15:00:00",
-    "EndTime": "6:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10007
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "13:00:00",
-    "EndTime": "4:00:00",
     "Duration": "15:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11385, 11418"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/20/2022",
-    "StartTime": "0:00:00",
-    "EndTime": "2:59:00",
     "Duration": "2:59:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/19/2022",
-    "StartTime": "5:00:00",
-    "EndTime": "23:59:00",
     "Duration": "18:59:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "4:00:00",
-    "EndTime": "23:59:00",
     "Duration": "19:59:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "20:00:00",
     "Duration": "11:00:00",
     "Borough": "Queens",
-    "Category": "Commercial",
-    "ZipCode(s)": 11102
+    "Category": "Commercial"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/18/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/17/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11222
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/19/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/25/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10036
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/18/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/17/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11211, 11222, 11249"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "11101, 11109, 11222"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "20:30:00",
     "Duration": "13:30:00",
     "Borough": "Queens",
-    "Category": "Commercial",
-    "ZipCode(s)": "11104, 11372, 11377"
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "16:00:00",
-    "EndTime": "6:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11420
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11225, 11238"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "4:00:00",
-    "EndTime": "21:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/30/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10036
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11215, 11225, 11238"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10027
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10027
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "5:00:00",
-    "EndTime": "11:00:00",
     "Duration": "6:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/21/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "23:59:00",
     "Duration": "11:59:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10452
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/19/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "22:00:00",
     "Duration": "15:30:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11231
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "15:00:00",
-    "EndTime": "6:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10007
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "DCAS Prep/Shoot/Wrap Permit",
     "Date": "11/20/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:00:00",
     "Duration": "14:00:00",
     "Borough": "Staten Island",
-    "Category": "Commercial",
-    "ZipCode(s)": 10301
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10026
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:30:00",
     "Duration": "17:30:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "14:00:00",
-    "EndTime": "23:59:00",
     "Duration": "9:59:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10011
+    "Category": "Feature Film"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/17/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "4:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11231
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": "10012, 10014"
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11206
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10002, 10012, 10013"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "16:00:00",
-    "EndTime": "6:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10011, 10012, 10014"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/15/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11218, 11226"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "5:00:00",
-    "EndTime": "21:30:00",
     "Duration": "16:30:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "1:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "4:00:00",
-    "EndTime": "21:30:00",
     "Duration": "17:30:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10028, 10128"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11231
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/16/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11433
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10017, 10019, 10020, 10022, 10152, 10171"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "15:00:00",
-    "EndTime": "6:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10007
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": "10002, 11201, 11205, 11226"
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "23:30:00",
     "Duration": "11:30:00",
     "Borough": "Queens",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "11101, 11106"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10036
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10002
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "19:00:00",
     "Duration": "13:00:00",
     "Borough": "Queens",
-    "Category": "Commercial",
-    "ZipCode(s)": "11101, 11355"
+    "Category": "Commercial"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10033
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/23/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/22/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "8:00:00",
     "Duration": "7:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10001
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/17/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Queens",
-    "Category": "Feature Film",
-    "ZipCode(s)": "11693, 11694"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "15:00:00",
     "Duration": "9:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10007
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10036
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/18/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10010, 10016"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/19/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10001
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Commercial",
-    "ZipCode(s)": 11101
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Commercial",
-    "ZipCode(s)": 11101
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10036
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/15/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:30:00",
     "Duration": "14:30:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10036
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "14:00:00",
-    "EndTime": "4:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10021
+    "Category": "Feature Film"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/14/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/16/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/15/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/15/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11222
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/14/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11222
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/18/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "18:00:00",
     "Duration": "11:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": "10019, 10023, 10065"
+    "Category": "Still Photography"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/21/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10001
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "23:59:00",
     "Duration": "13:59:00",
     "Borough": "Bronx",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10465
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10023, 10024, 10025, 10029, 10128"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/21/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11201
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "2:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10007, 10013"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11231
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "20:30:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11231
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:30:00",
     "Duration": "14:30:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11231
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/13/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/13/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11222
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10017, 10022, 10065, 10152, 10171"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10012
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11357, 11360"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11104"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "20:00:00",
     "Duration": "13:30:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10019, 10023"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11215, 11225, 11226"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11377, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10002, 10011, 10012, 10013, 10014"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "5:00:00",
-    "EndTime": "21:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11101
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "11:00:00",
-    "EndTime": "3:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10017, 10021, 10075"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11218, 11232"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11201
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/13/2022",
-    "StartTime": "4:00:00",
-    "EndTime": "13:00:00",
     "Duration": "9:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10005, 10038"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "14:00:00",
-    "EndTime": "19:00:00",
     "Duration": "5:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10023
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "8:30:00",
-    "EndTime": "22:00:00",
     "Duration": "13:30:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10011
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/12/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "6:00:00",
     "Duration": "0:00:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10033
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "4:00:00",
-    "EndTime": "18:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": "11101, 11222"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": "11101, 11222"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/12/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": "11101, 11222"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11101
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/2/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:59:00",
     "Duration": "15:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10019, 10106"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "14:00:00",
     "Duration": "4:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10021, 10022, 10065, 10075"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10001, 10004, 10005, 10016"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/13/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "WEB",
-    "ZipCode(s)": "10003, 10012, 10013, 10014"
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/12/2022",
-    "StartTime": "1:00:00",
-    "EndTime": "13:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10027, 10035"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "13:00:00",
-    "EndTime": "4:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": "10021, 10075"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/12/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10003
+    "Category": "Feature Film"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11205
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/15/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "12/5/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10003
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/12/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "17:00:00",
     "Duration": "10:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": "10002, 10011, 10014"
+    "Category": "Still Photography"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/21/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10019, 10020, 10022, 10103, 10111"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/23/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10036
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "16:00:00",
-    "EndTime": "20:00:00",
     "Duration": "4:00:00",
     "Borough": "Manhattan",
-    "Category": "Short Film",
-    "ZipCode(s)": 10027
+    "Category": "Short Film"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/14/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10019, 10106"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "13:00:00",
-    "EndTime": "17:00:00",
     "Duration": "4:00:00",
     "Borough": "Manhattan",
-    "Category": "Short Film",
-    "ZipCode(s)": 10027
+    "Category": "Short Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11206
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11206
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": 10018
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/12/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "16:00:00",
     "Duration": "8:00:00",
     "Borough": "Bronx",
-    "Category": "Short Film",
-    "ZipCode(s)": 10454
+    "Category": "Short Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/15/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/20/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/22/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/14/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/9/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "13:00:00",
     "Duration": "5:00:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11217
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "21:00:00",
     "Duration": "14:30:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10021, 10075"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "2:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11377, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:30:00",
     "Duration": "16:30:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "2:00:00",
-    "EndTime": "17:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": "00083, 10023, 10024"
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/15/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10002, 10005, 10011, 10012, 10013, 10014, 10038, 10045"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/11/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "2:00:00",
-    "EndTime": "19:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": "00083, 10023, 10024"
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "14:30:00",
-    "EndTime": "5:30:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11207, 11212"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/20/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "20:00:00",
     "Duration": "11:00:00",
     "Borough": "Queens",
-    "Category": "Student",
-    "ZipCode(s)": "11423, 11427"
+    "Category": "Student"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/13/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10065
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "2:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11377, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10002, 10013, 10038, 10065"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:30:00",
     "Duration": "15:30:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:30:00",
     "Duration": "14:30:00",
     "Borough": "Queens",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11101
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10019, 10023"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11101
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "1:00:00",
     "Duration": "15:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11222, 11378"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/12/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10019, 10106"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/9/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10019, 10106"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/12/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11206
+    "Category": "Feature Film"
   },
   {
     "EventType": "Rigging Permit",
     "Date": "11/10/2022",
-    "StartTime": "17:30:00",
-    "EndTime": "23:00:00",
     "Duration": "5:30:00",
     "Borough": "Manhattan",
-    "Category": "Student",
-    "ZipCode(s)": 10003
+    "Category": "Student"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/11/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "2:00:00",
-    "EndTime": "21:00:00",
     "Duration": "19:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": "10026, 10037"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/9/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "21:59:00",
     "Duration": "21:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10031, 10032"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "3:00:00",
     "Duration": "18:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11206
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": "10002, 10009"
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11201, 11205"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "5:00:00",
-    "EndTime": "7:00:00",
     "Duration": "2:00:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10036
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11211, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "20:00:00",
     "Duration": "13:30:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10025
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "15:00:00",
-    "EndTime": "2:00:00",
     "Duration": "11:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11385, 11418, 11420"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/9/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "17:00:00",
-    "EndTime": "2:00:00",
     "Duration": "9:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10467
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:30:00",
     "Duration": "14:30:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11207, 11212"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "23:59:00",
     "Duration": "11:59:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11356, 11357, 11420"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "21:00:00",
     "Duration": "14:30:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11211, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/20/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10001
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11211, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10019, 10103"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10001, 10016"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/18/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10004, 10280, 10281"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/12/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "0:00:00",
     "Duration": "18:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10018
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10003, 10011, 10012, 10014"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "7:30:00",
-    "EndTime": "22:00:00",
     "Duration": "14:30:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10002, 10007, 10013, 10038"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "21:00:00",
     "Duration": "14:30:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11104, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/8/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10019
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "22:00:00",
     "Duration": "13:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10007, 10013"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11222
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "News",
-    "ZipCode(s)": 11235
+    "Category": "News"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/8/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Brooklyn",
-    "Category": "Theater",
-    "ZipCode(s)": 11222
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "13:00:00",
-    "EndTime": "2:00:00",
     "Duration": "13:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10016, 10017, 10158"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:00:00",
     "Duration": "15:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "19:00:00",
     "Duration": "10:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": 11215
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "WEB",
-    "ZipCode(s)": 11232
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10011, 10018"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": "10019, 10020, 10103"
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "9:30:00",
-    "EndTime": "1:00:00",
     "Duration": "15:30:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10016
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/14/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10023
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "3:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10017, 10019, 10022, 10152, 10165, 10171, 10173"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "0:00:00",
-    "EndTime": "23:00:00",
     "Duration": "23:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/20/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10036
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "0:00:00",
     "Duration": "16:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": 10003
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "17:00:00",
-    "EndTime": "20:00:00",
     "Duration": "3:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10003
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10003
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "2:00:00",
     "Duration": "20:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11101, 11222"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/11/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Bronx",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10473
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10018, 10019, 10036"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "20:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11231
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Still Photography",
-    "ZipCode(s)": 10012
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "3:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11201
+    "Category": "Feature Film"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/13/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/20/2022",
-    "StartTime": "3:00:00",
-    "EndTime": "22:00:00",
     "Duration": "19:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11101
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/9/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "5:00:00",
     "Duration": "4:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10001, 10016, 10017"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": "11211, 11222"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10003, 10009"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Feature Film",
-    "ZipCode(s)": "10003, 10023"
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "9:00:00",
-    "EndTime": "23:00:00",
     "Duration": "14:00:00",
     "Borough": "Queens",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "11237, 11385"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "17:00:00",
     "Duration": "10:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": "10019, 10022, 10103, 10111"
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "22:00:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11206
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10019, 10020, 10112"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "12:00:00",
-    "EndTime": "3:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11201
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11224
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:30:00",
-    "EndTime": "20:30:00",
     "Duration": "14:00:00",
     "Borough": "Brooklyn",
-    "Category": "Commercial",
-    "ZipCode(s)": 11231
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "23:59:00",
     "Duration": "15:59:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "22:00:00",
     "Duration": "15:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 11222
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "20:00:00",
     "Duration": "12:00:00",
     "Borough": "Brooklyn",
-    "Category": "Feature Film",
-    "ZipCode(s)": 11201
+    "Category": "Feature Film"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "10:00:00",
-    "EndTime": "17:00:00",
     "Duration": "7:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10036, 10105"
+    "Category": "News"
   },
   {
     "EventType": "DCAS Prep/Shoot/Wrap Permit",
     "Date": "11/11/2022",
-    "StartTime": "8:00:00",
-    "EndTime": "20:00:00",
     "Duration": "12:00:00",
     "Borough": "Bronx",
-    "Category": "Cable-episodic Television",
-    "ZipCode(s)": 10451
+    "Category": "Cable-episodic Television"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Brooklyn",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11217
+    "Category": "Still Photography"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Brooklyn",
-    "Category": "Still Photography",
-    "ZipCode(s)": 11224
+    "Category": "Still Photography"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/8/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10003, 10029"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/5/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "12:00:00",
     "Duration": "6:00:00",
     "Borough": "Manhattan",
-    "Category": "Award Show",
-    "ZipCode(s)": 10024
+    "Category": "Award Show"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "23:00:00",
     "Duration": "16:00:00",
     "Borough": "Brooklyn",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 11222
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/16/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "21:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": "10013, 10014"
+    "Category": "Commercial"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/17/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "21:00:00",
     "Duration": "14:00:00",
     "Borough": "Manhattan",
-    "Category": "Commercial",
-    "ZipCode(s)": 10014
+    "Category": "Commercial"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/18/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "17:30:00",
     "Duration": "11:30:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/20/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "6:00:00",
     "Duration": "0:00:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/13/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "6:00:00",
     "Duration": "0:00:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "5:30:00",
     "Duration": "23:30:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "17:30:00",
     "Duration": "11:30:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "5:30:00",
     "Duration": "23:30:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10023
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/23/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "6:00:00",
     "Duration": "5:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": "10001, 10121"
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/30/2022",
-    "StartTime": "4:00:00",
-    "EndTime": "23:59:00",
     "Duration": "19:59:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10020, 10036"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/29/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10020, 10036"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/28/2022",
-    "StartTime": "4:00:00",
-    "EndTime": "23:59:00",
     "Duration": "19:59:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": "10020, 10036"
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "12/7/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Award Show",
-    "ZipCode(s)": 10036
+    "Category": "Award Show"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:00:00",
     "Duration": "17:00:00",
     "Borough": "Manhattan",
-    "Category": "WEB",
-    "ZipCode(s)": 10002
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "WEB",
-    "ZipCode(s)": 10002
+    "Category": "WEB"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "WEB",
-    "ZipCode(s)": 10002
+    "Category": "WEB"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/16/2022",
-    "StartTime": "7:00:00",
-    "EndTime": "13:00:00",
     "Duration": "6:00:00",
     "Borough": "Manhattan",
-    "Category": "Award Show",
-    "ZipCode(s)": "10019, 10022, 10023, 10103"
+    "Category": "Award Show"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/28/2022",
-    "StartTime": "5:00:00",
-    "EndTime": "20:00:00",
     "Duration": "15:00:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10036
+    "Category": "Theater"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10003
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "18:00:00",
     "Duration": "12:00:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": 10010
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/24/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "18:00:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": 10023
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/23/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": 10023
+    "Category": "News"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/22/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "23:59:00",
     "Duration": "17:59:00",
     "Borough": "Manhattan",
-    "Category": "News",
-    "ZipCode(s)": 10023
+    "Category": "News"
   },
   {
     "EventType": "Theater Load in and Load Outs",
     "Date": "11/11/2022",
-    "StartTime": "0:01:00",
-    "EndTime": "23:59:00",
     "Duration": "23:58:00",
     "Borough": "Manhattan",
-    "Category": "Theater",
-    "ZipCode(s)": 10033
+    "Category": "Theater"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/11/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10019
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/10/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10019
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/9/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10019
+    "Category": "Episodic Television series"
   },
   {
     "EventType": "Shooting Permit",
     "Date": "11/8/2022",
-    "StartTime": "6:00:00",
-    "EndTime": "22:00:00",
     "Duration": "16:00:00",
     "Borough": "Manhattan",
-    "Category": "Episodic Television series",
-    "ZipCode(s)": 10019
+    "Category": "Episodic Television series"
   }
 ]
-
-console.log(permits[1]);
-
-// import { select } from 'd3';
-
-// const svg = select('svg');
-
-// const circle = svg.append('circle');
-
-// circle.attr('r',200);
-
-(function (d3){
-  'use strict';
-
-  const svg = d3.select('svg');
-  svg.style('background-color', 'pink');
-}(d3));

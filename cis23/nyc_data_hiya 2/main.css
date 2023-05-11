@@ -1,0 +1,34 @@
+body{
+    background-color: #FFFDFE;
+}
+
+/*h1{
+    font-family: 'Lora', serif;
+    font-size: 150px;
+    font-style: italic;
+    font-kerning: 4px;
+font-family: 'Space Mono', monospace;
+    color: #0066FF;
+}*/
+
+
+
+.bluecolor{
+    color:#0066FF;
+}
+
+.blackcolor{
+    color: #1A181B;
+}
+
+.spacemono{
+    font-family: 'Space Mono', monospace;
+}
+
+.lora{
+    font-family: 'Lora', serif;
+}
+
+.marquee1{
+    fill: #0066FF;
+}
