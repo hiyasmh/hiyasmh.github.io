@@ -316,19 +316,40 @@ h2{
 
 }
 
+.sidenote:link{
+    font-family: 'Space Mono', monospace; 
+    text-decoration: none;
+    font-size: 8px;
+    color:white;
+    margin: 0px;
+    padding: 0px;
+
+}
+.sidenote:visited{
+    color:white;
+}
+.sidenote:hover{
+    color:white;
+}
+.sidenote:active{
+    color:white;
+}
+
 .sqtxton{
     text-align: center;
     font-family: 'Poppins', sans-serif;
     color: white;
-    font-weight: 400;
+    font-weight: 700;
     font-size: larger;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
 
 .sqtxt{
     text-align: center;
     font-family: 'Poppins', sans-serif;
     color: transparent;
-    font-weight: 400;
+    font-weight: 700;
     font-size: larger;
 }
 
