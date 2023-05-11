@@ -23,7 +23,36 @@ h2{
 }
 
 .sq1:hover + .hovertxt{
-    display: inline-block;
+    display: block;
+}
+.sq2:hover + .hovertxt{
+    display: block;
+}
+.sq3:hover + .hovertxt{
+    display: block;
+}
+.sq4:hover + .hovertxt{
+    display: block;
+}
+.sq1:hover + .hovertxt{
+    display: block;
+}
+.sq1:hover + .hovertxt{
+    display: block;
+}
+.sq1:hover + .hovertxt{
+    display: block;
+}
+.sq1:hover + .hovertxt{
+    display: block;
+}
+.sq1:hover + .hovertxt{
+    display: block;
+}
+
+
+.sq1:hover + .item1{
+    background-color: #B26344;
 }
 
 .sq1{
@@ -130,107 +159,107 @@ h2{
 
 /* homepage hover  ----------- */
 
-.item1:hover{
+.item1{
     background-color: #B26344;
 }
 
-.item2:hover{
+.item2{
     background-color: #F6D1CB;
     color: #0C0A0D;
 }
 
-.item3:hover{
+.item3{
     background-color: #97B5DC;
     color: #0C0A0D;
 }
 
-.item4:hover{
+.item4{
     background-color: #68910B;
 }
 
-.item5:hover{
+.item5{
     background-color: #C6C5E8;
     color: #0C0A0D;
 }
 
-.item6:hover{
+.item6{
     background-color: #BCEFE9;
     color: #0C0A0D;
 }
 
-.item7:hover{
+.item7{
     background-color: #FF8E0E;
 }
 
-.item8:hover{
+.item8{
     background-color: #7184E2;
 }
 
-.item9:hover{
+.item9{
     background-color: #FE798C;
     color: #0C0A0D;
 }
 
-.item10:hover{
+.item10{
     background-color: #660A79;
 }
 
-.item11:hover{
+.item11{
     background-color: #C2F049;
     color: #0C0A0D;
 }
 
-.item12:hover{
+.item12{
     background-color: #FFBE00;
     color: #0C0A0D;
 }
 
-.item13:hover{
+.item13{
     background-color: #012DCD;
 }
 
-.item14:hover{
+.item14{
     background-color: #0FDC66;
     color: #0C0A0D;
 }
 
-.item15:hover{
+.item15{
     background-color: #FA051A;
 }
 
-.item16:hover{
+.item16{
     background-color: #FFE500;
     color: #0C0A0D;
 }
 
-.item17:hover{
+.item17{
     background-color: #FF8ED4;
 }
 
-.item18:hover{
+.item18{
     background-color: #33C2EB;
 }
 
-.item19:hover{
+.item19{
     background-color: #F9F9F9;
     color: #0C0A0D;
 }
 
-.item20:hover{
+.item20{
     background-color: #CBCBCB;
     color: #0C0A0D;
 }
 
-.item21:hover{
+.item21{
     background-color: #A3A3A3;
     color: #0C0A0D;
 }
 
-.item22:hover{
+.item22{
     background-color: #7B7B7B;
 }
 
-.item23:hover{
+.item23{
     background-color: #5E5B61;
 }
 
@@ -285,6 +314,22 @@ h2{
     display: flex;
     justify-content: space-around;
 
+}
+
+.sqtxton{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: 400;
+    font-size: larger;
+}
+
+.sqtxt{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: transparent;
+    font-weight: 400;
+    font-size: larger;
 }
 
 .container1{
