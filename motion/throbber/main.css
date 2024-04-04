@@ -14,7 +14,7 @@ h1{
     border-color: transparent;
     border-style: dotted;
     margin: 30px;
-    margin-left: 200px;
+    margin-left: 0px;
     background-color: transparent;
 }
 
@@ -36,6 +36,7 @@ h1{
 .throbber2{
     display: flex;
     justify-content: center;
+    margin-left: 200px;
 }
 
 .both{
@@ -259,7 +260,8 @@ h1{
     stroke-linecap: round;
     stroke-dasharray: 1000; /* Length of the path */
     stroke-dashoffset: 1000; /* Hide the path initially */
-    animation: stroke1 2s linear infinite;
+    animation: stroke1 1s linear infinite;
+    margin-left: -100px;
 }
 
 .svg1 {
@@ -268,14 +270,17 @@ h1{
     height: 40px;
     fill: none;
 }
-
-.svg1 .path1 {
+.path1 {
     stroke: #c26cff;
+    max-width: 40px;
+    max-height: 40px;
     stroke-width: 5px;
     stroke-linecap: round;
-    stroke-dasharray: 1000; /* Length of the path */
-    stroke-dashoffset: 1000; /* Hide the path initially */
-    animation: stroke2 2s linear infinite;
+    stroke-dasharray: 500; /* Length of the path */
+    stroke-dashoffset: 500; /* Hide the path initially */
+    animation: stroke2 1s linear infinite;
+    margin-right: 100px;
+
 }
 
 @keyframes stroke1 {
@@ -289,9 +294,19 @@ h1{
 
 @keyframes stroke2 {
     0% {
-        stroke-dashoffset: 1000; /* Start from the beginning */
+        stroke-dashoffset: 500; /* Start from the beginning */
     }
     100% {
         stroke-dashoffset: 0; /* Show the entire path */
     }
+}
+
+.looping-gif {
+    animation: infiniteLoop 1s infinite; /* Adjust the duration as needed */
+    margin-left: 20px;
+}
+
+@keyframes infiniteLoop {
+    from { opacity: 1; }
+    to { opacity: 1; }
 }
