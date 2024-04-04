@@ -14,7 +14,6 @@ h1{
     border-color: transparent;
     border-style: dotted;
     margin: 30px;
-    margin-left: 0px;
     background-color: transparent;
 }
 
@@ -30,13 +29,13 @@ h1{
 .throbber1{
     display: flex;
     justify-content: center;
-    margin-left: -200px;
+    margin-left: 0px;
 }
 
 .throbber2{
     display: flex;
     justify-content: center;
-    margin-left: 200px;
+    margin-left: 0px;
 }
 
 .both{
