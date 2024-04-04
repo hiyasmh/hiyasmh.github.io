@@ -240,28 +240,54 @@ h1{
 
   /* ---------------- throbber 3 now */
 
-  .throbber3{
+  .throbber3 {
     display: flex;
     justify-content: center;
+    margin-top: 50px;
 }
 
-svg {
+.svg {
     position: absolute;
     width: 400px;
     height: 400px;
     fill: none;
 }
 
-svg path {
-    stroke: #6CD4FF;
+.svg .path {
+    stroke: #a0ff6c;
     stroke-width: 50px;
     stroke-linecap: round;
     stroke-dasharray: 1000; /* Length of the path */
     stroke-dashoffset: 1000; /* Hide the path initially */
-    animation: stroke 2s linear infinite ;
+    animation: stroke1 2s linear infinite;
 }
 
-@keyframes stroke {
+.svg1 {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    fill: none;
+}
+
+.svg1 .path1 {
+    stroke: #c26cff;
+    stroke-width: 5px;
+    stroke-linecap: round;
+    stroke-dasharray: 1000; /* Length of the path */
+    stroke-dashoffset: 1000; /* Hide the path initially */
+    animation: stroke2 2s linear infinite;
+}
+
+@keyframes stroke1 {
+    0% {
+        stroke-dashoffset: 1000; /* Start from the beginning */
+    }
+    100% {
+        stroke-dashoffset: 0; /* Show the entire path */
+    }
+}
+
+@keyframes stroke2 {
     0% {
         stroke-dashoffset: 1000; /* Start from the beginning */
     }
