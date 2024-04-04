@@ -1,0 +1,271 @@
+
+h1{
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+}
+
+.larger{
+    width: 400px;
+    height: 400px;
+    border-color: transparent;
+    border-style: dotted;
+    margin: 30px;
+    margin-left: 200px;
+    background-color: transparent;
+}
+
+.smaller{
+    width: 40px;
+    height: 40px;
+    border-color: transparent;
+    border-style: dotted;
+    margin: 30px;
+    background-color: transparent;
+}
+
+.throbber1{
+    display: flex;
+    justify-content: center;
+    margin-left: -200px;
+}
+
+.throbber2{
+    display: flex;
+    justify-content: center;
+}
+
+.both{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.circles{
+    display: flex;
+    align-items: center;
+    animation: rotate 2s infinite;
+}
+
+.circle{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.smcircle{
+    height: 20px;
+    width: 20px;
+    border-radius: 100px
+}
+
+.circle1{
+    animation: translate1 2s infinite;
+    background-color:#6CD4FF;
+}
+
+.circle2{
+    animation: translate 2s infinite;
+    background-color:#FE938C;
+}
+
+.circle3{
+    animation: translate2 2s infinite;
+    background-color:#6CD4FF;
+}
+
+.circle4{
+    animation: translate3 2s infinite;
+    background-color:#FE938C;
+}
+
+@keyframes translate{
+   from{
+    transform: translate(0px) scale(1);
+    opacity: 1;
+   } 
+   50%{
+    transform: translate(-200px) scale(0.5);
+    opacity: .5;
+   } 
+   to{
+    transform: translate(0px) scale(1);
+    opacity: 1;
+   } 
+}
+
+@keyframes translate1{
+    from{
+     transform: translate(0px) scale(1);
+     opacity: 1;
+    } 
+    50%{
+     transform: translate(200px) scale(0.5);
+     opacity: .5;
+    } 
+    to{
+     transform: translate(0px) scale(1);
+     opacity: 1;
+    } 
+ }
+@keyframes rotate{
+    from{
+        transform: rotate(0turn);
+    }
+    50%{
+        transform: rotate(0.5turn);
+    }
+    to{
+        transform: rotate(0turn);
+    }
+}
+
+@keyframes translate2{
+    from{
+     transform: translate(0px) scale(1);
+     opacity: 1;
+    } 
+    50%{
+     transform: translate(-10px) scale(0.75);
+     opacity: .5;
+    } 
+    to{
+     transform: translate(0px) scale(1);
+     opacity: 1;
+    } 
+ }
+
+ @keyframes translate3{
+    from{
+     transform: translate(0px) scale(1);
+     opacity: 1;
+    } 
+    50%{
+     transform: translate(10px) scale(0.75);
+     opacity: .5;
+    } 
+    to{
+     transform: translate(0px) scale(1);
+     opacity: 1;
+    } 
+ }
+
+
+ /* ---------------- throbber 2 now */
+
+
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border-radius: 15px;
+    animation: box 2s infinite;
+}
+.box2{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border-radius: 15px;
+    animation: box 2s .1s infinite;
+}
+.box3{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border-radius: 15px;
+    animation: box 2s .2s infinite;
+}
+.box4{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border-radius: 15px;
+    animation: box 2s .3s infinite;
+}
+
+.boxes{
+    display: flex;
+}
+
+.box5{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 3px;
+    animation: box 2s .3s infinite;
+}
+
+.box6{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 3px;
+    animation: box 2s .3s infinite;
+}
+
+.box7{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 3px;
+    animation: box 2s .3s infinite;
+}
+
+.box8{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 3px;
+    animation: box 2s .3s infinite;
+}
+
+@keyframes box{
+    from{
+     transform: translate(0px) scale(1) rotate(0turn);
+     opacity: 1;
+    } 
+    50%{
+     transform: translate(10px) scale(0.5) rotate(0.25turn);
+     opacity: .5;
+    } 
+    to{
+     transform: translate(0px) scale(1) rotate(0turn);
+     opacity: 1;
+    } 
+ }
+
+
+  /* ---------------- throbber 3 now */
+
+  .throbber3{
+    display: flex;
+    justify-content: center;
+}
+
+svg {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    fill: none;
+}
+
+svg path {
+    stroke: #6CD4FF;
+    stroke-width: 50px;
+    stroke-linecap: round;
+    stroke-dasharray: 1000; /* Length of the path */
+    stroke-dashoffset: 1000; /* Hide the path initially */
+    animation: stroke 2s linear infinite ;
+}
+
+@keyframes stroke {
+    0% {
+        stroke-dashoffset: 1000; /* Start from the beginning */
+    }
+    100% {
+        stroke-dashoffset: 0; /* Show the entire path */
+    }
+}
