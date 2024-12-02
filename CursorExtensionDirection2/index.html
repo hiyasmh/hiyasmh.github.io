@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.sound.min.js"></script>
+  <title>Screenshot Sketch</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div id="controls" class="controlpanel">
+    <div id="timerpanel">
+    <label>How long do you want to spend here?</label>
+        <br>
+        <br>
+        <input
+        id="timer"
+        type="time"
+        name="timer"
+        value="00:05"/>
+    </div>
+    <br>
+    <div>
+      Select the kind of input:
+      <br>
+      <br>
+      <input type="radio" id="UserImage" name="Upload" value="UserImage" checked>
+    <label for="UserImage">Upload Your Own Image</label>
+    <br>
+    <input type="radio" id="Screenshot" name="Screenshot" value="Screenshot">
+    <label for="Screenshot">Take a Screenshot</label>
+    <br>
+    <input type="radio" id="TakePhoto" name="TakePhoto" value="TakePhoto">
+    <label for="TakePhoto">Take a Photo</label>
+    </div>
+    <br>
+    <button class="submit">Start Timer</button>
+  </div>
+<script src="sketch.js"></script>
+</body>
+</html>

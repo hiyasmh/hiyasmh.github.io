@@ -1,0 +1,33 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    z-index: 1;
+  }
+  
+
+.controlpanel{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    height: 230px;
+    width: 200px;
+    padding: 35px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(237, 237, 237);
+    border-radius: 20px;
+    z-index: 100;
+    position: absolute
+}
+
+.timerpanel{
+
+}
+
+.submit{
+    background-color: white;
+    border-radius: 10px;
+    border-style: none;
+}
